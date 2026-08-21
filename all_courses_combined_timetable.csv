@@ -1,0 +1,2239 @@
+﻿course,semester,section,subject,day,start_time,end_time,room_number
+B.Tech CSE,III,A,Object Oriented Programming with C++,Monday,08:00 AM,08:55 AM,124 (LT)
+B.Tech CSE,III,A,Fundamentals of Cloud Computing and Big Data,Monday,08:55 AM,09:50 AM,117 (CR)
+B.Tech CSE,III,A,Introduction to Cryptography,Monday,08:55 AM,09:50 AM,224 (LT)
+B.Tech CSE,III,A,Python Programming,Monday,08:55 AM,09:50 AM,206 (LT)
+B.Tech CSE,III,A,OOPS with C++ Lab,Monday,10:10 AM,12:00 PM,009 (LAB)
+B.Tech CSE,III,A,Career Skills-I,Monday,12:00 PM,12:55 PM,113 (CR)
+B.Tech CSE,III,A,Discrete Structures and Combinatorics,Monday,03:05 PM,04:00 PM,206 (LT)
+B.Tech CSE,III,A,Data Structures Lab,Tuesday,12:00 PM,01:50 PM,302-A (LAB)
+B.Tech CSE,III,A,Data Structures with C,Tuesday,02:10 PM,03:05 PM,106 (LT)
+B.Tech CSE,III,A,Discrete Structures and Combinatorics,Tuesday,03:05 PM,04:00 PM,206 (LT)
+B.Tech CSE,III,A,Career Excellence Classes,Tuesday,04:00 PM,04:55 PM,529 (Audi)
+B.Tech CSE,III,A,Object Oriented Programming with C++,Wednesday,08:00 AM,08:55 AM,124 (LT)
+B.Tech CSE,III,A,Fundamentals of Cloud Computing and Big Data,Wednesday,08:55 AM,09:50 AM,117 (CR)
+B.Tech CSE,III,A,Introduction to Cryptography,Wednesday,08:55 AM,09:50 AM,224 (LT)
+B.Tech CSE,III,A,Python Programming,Wednesday,08:55 AM,09:50 AM,206 (LT)
+B.Tech CSE,III,A,Logic Design and Computer Organization,Wednesday,11:05 AM,12:00 PM,123 (CR)
+B.Tech CSE,III,A,Data Structures with C,Wednesday,02:10 PM,03:05 PM,106 (LT)
+B.Tech CSE,III,A,OOPS with C++ Lab,Thursday,08:00 AM,09:50 AM,009 (LAB)
+B.Tech CSE,III,A,Logic Design and Computer Organization,Thursday,10:10 AM,11:05 AM,115 (CR)
+B.Tech CSE,III,A,Logic Design and Computer Organization Lab,Thursday,12:00 PM,01:50 PM,LOGIC LAB (3RD FLOOR)
+B.Tech CSE,III,A,Data Structures with C,Thursday,02:10 PM,03:05 PM,106 (LT)
+B.Tech CSE,III,A,Discrete Structures and Combinatorics,Friday,08:00 AM,08:55 AM,206 (LT)
+B.Tech CSE,III,A,Fundamentals of Cloud Computing and Big Data,Friday,08:55 AM,09:50 AM,117 (CR)
+B.Tech CSE,III,A,Introduction to Cryptography,Friday,08:55 AM,09:50 AM,224 (LT)
+B.Tech CSE,III,A,Python Programming,Friday,08:55 AM,09:50 AM,206 (LT)
+B.Tech CSE,III,A,Logic Design and Computer Organization,Friday,10:10 AM,11:05 AM,115 (CR)
+B.Tech CSE,III,A,Object Oriented Programming with C++,Friday,12:00 PM,12:55 PM,106 (LT)
+B.Tech CSE,III,A,Data Structures with C,Friday,02:10 PM,03:05 PM,106 (LT)
+B.Tech CSE,III,A,Career Skills-I,Friday,03:05 PM,04:00 PM,116 (CR)
+B.Tech CSE,III,A,Data Structures Lab,Saturday,08:00 AM,09:50 AM,009 (LAB)
+B.Tech CSE,III,A,Logic Design and Computer Organization Lab,Saturday,10:10 AM,12:00 PM,LOGIC LAB (3RD FLOOR)
+B.Tech CSE,III,B,Object Oriented Programming with C++,Monday,08:00 AM,08:55 AM,124 (LT)
+B.Tech CSE,III,B,Fundamentals of Cloud Computing and Big Data,Monday,08:55 AM,09:50 AM,117 (CR)
+B.Tech CSE,III,B,Introduction to Cryptography,Monday,08:55 AM,09:50 AM,224 (LT)
+B.Tech CSE,III,B,Python Programming,Monday,08:55 AM,09:50 AM,206 (LT)
+B.Tech CSE,III,B,Data Structures with C,Monday,10:10 AM,11:05 AM,106 (LT)
+B.Tech CSE,III,B,OOPS with C++ Lab,Monday,12:00 PM,01:50 PM,002-A (LAB)
+B.Tech CSE,III,B,Discrete Structures and Combinatorics,Monday,03:05 PM,04:00 PM,206 (LT)
+B.Tech CSE,III,B,Data Structures with C,Tuesday,10:10 AM,11:05 AM,106 (LT)
+B.Tech CSE,III,B,OOPS with C++ Lab,Tuesday,12:00 PM,01:50 PM,302-B (LAB)
+B.Tech CSE,III,B,Logic Design and Computer Organization,Tuesday,02:10 PM,03:05 PM,116 (CR)
+B.Tech CSE,III,B,Discrete Structures and Combinatorics,Tuesday,03:05 PM,04:00 PM,206 (LT)
+B.Tech CSE,III,B,Career Excellence Classes,Tuesday,04:00 PM,04:55 PM,529 (Audi)
+B.Tech CSE,III,B,Object Oriented Programming with C++,Wednesday,08:00 AM,08:55 AM,124 (LT)
+B.Tech CSE,III,B,Fundamentals of Cloud Computing and Big Data,Wednesday,08:55 AM,09:50 AM,117 (CR)
+B.Tech CSE,III,B,Introduction to Cryptography,Wednesday,08:55 AM,09:50 AM,224 (LT)
+B.Tech CSE,III,B,Python Programming,Wednesday,08:55 AM,09:50 AM,206 (LT)
+B.Tech CSE,III,B,Data Structures with C,Wednesday,10:10 AM,11:05 AM,106 (LT)
+B.Tech CSE,III,B,Career Skills-I,Wednesday,12:55 PM,01:50 PM,114 (CR)
+B.Tech CSE,III,B,Logic Design and Computer Organization,Wednesday,03:05 PM,04:00 PM,114 (CR)
+B.Tech CSE,III,B,Data Structures with C,Thursday,08:55 AM,09:50 AM,106 (LT)
+B.Tech CSE,III,B,Career Skills-I,Thursday,10:10 AM,11:05 AM,116 (CR)
+B.Tech CSE,III,B,Logic Design and Computer Organization,Thursday,11:05 AM,12:00 PM,113 (CR)
+B.Tech CSE,III,B,Data Structures Lab,Thursday,12:00 PM,01:50 PM,002-A (LAB)
+B.Tech CSE,III,B,Discrete Structures and Combinatorics,Friday,08:00 AM,08:55 AM,206 (LT)
+B.Tech CSE,III,B,Fundamentals of Cloud Computing and Big Data,Friday,08:55 AM,09:50 AM,117 (CR)
+B.Tech CSE,III,B,Introduction to Cryptography,Friday,08:55 AM,09:50 AM,224 (LT)
+B.Tech CSE,III,B,Python Programming,Friday,08:55 AM,09:50 AM,206 (LT)
+B.Tech CSE,III,B,Logic Design and Computer Organization Lab,Friday,10:10 AM,12:00 PM,LOGIC LAB (3RD FLOOR)
+B.Tech CSE,III,B,Object Oriented Programming with C++,Friday,12:00 PM,12:55 PM,106 (LT)
+B.Tech CSE,III,B,Logic Design and Computer Organization Lab,Saturday,12:00 PM,01:50 PM,LOGIC LAB (BASEMENT)
+B.Tech CSE,III,B,Data Structures Lab,Saturday,02:10 PM,04:00 PM,102-A (LAB)
+B.Tech CSE,III,C,Fundamentals of Cloud Computing and Big Data,Monday,08:55 AM,09:50 AM,117 (CR)
+B.Tech CSE,III,C,Introduction to Cryptography,Monday,08:55 AM,09:50 AM,224 (LT)
+B.Tech CSE,III,C,Python Programming,Monday,08:55 AM,09:50 AM,206 (LT)
+B.Tech CSE,III,C,OOPS with C++ Lab,Monday,10:10 AM,12:00 PM,121 (LAB)
+B.Tech CSE,III,C,Logic Design and Computer Organization,Monday,12:00 PM,12:55 PM,017 (CR)
+B.Tech CSE,III,C,Logic Design and Computer Organization Lab,Monday,02:10 PM,04:00 PM,LOGIC LAB (3RD FLOOR)
+B.Tech CSE,III,C,Logic Design and Computer Organization,Tuesday,12:00 PM,12:55 PM,113 (CR)
+B.Tech CSE,III,C,Career Skills-I,Tuesday,12:55 PM,01:50 PM,017 (CR)
+B.Tech CSE,III,C,Data Structures with C,Tuesday,02:10 PM,03:05 PM,106 (LT)
+B.Tech CSE,III,C,Career Excellence Classes,Tuesday,04:00 PM,04:55 PM,529 (Audi)
+B.Tech CSE,III,C,Career Skills-I,Wednesday,08:00 AM,08:55 AM,113 (CR)
+B.Tech CSE,III,C,Fundamentals of Cloud Computing and Big Data,Wednesday,08:55 AM,09:50 AM,117 (CR)
+B.Tech CSE,III,C,Introduction to Cryptography,Wednesday,08:55 AM,09:50 AM,224 (LT)
+B.Tech CSE,III,C,Python Programming,Wednesday,08:55 AM,09:50 AM,206 (LT)
+B.Tech CSE,III,C,Data Structures Lab,Wednesday,10:10 AM,12:00 PM,002-A (LAB)
+B.Tech CSE,III,C,Logic Design and Computer Organization,Wednesday,12:55 PM,01:50 PM,115 (CR)
+B.Tech CSE,III,C,Data Structures with C,Wednesday,02:10 PM,03:05 PM,106 (LT)
+B.Tech CSE,III,C,Object Oriented Programming with C++,Wednesday,03:05 PM,04:00 PM,116 (CR)
+B.Tech CSE,III,C,Discrete Structures and Combinatorics,Thursday,12:00 PM,12:55 PM,106 (LT)
+B.Tech CSE,III,C,Data Structures with C,Thursday,02:10 PM,03:05 PM,106 (LT)
+B.Tech CSE,III,C,Object Oriented Programming with C++,Thursday,03:05 PM,04:00 PM,017 (CR)
+B.Tech CSE,III,C,Discrete Structures and Combinatorics,Friday,08:00 AM,08:55 AM,106 (LT)
+B.Tech CSE,III,C,Fundamentals of Cloud Computing and Big Data,Friday,08:55 AM,09:50 AM,117 (CR)
+B.Tech CSE,III,C,Introduction to Cryptography,Friday,08:55 AM,09:50 AM,224 (LT)
+B.Tech CSE,III,C,Python Programming,Friday,08:55 AM,09:50 AM,206 (LT)
+B.Tech CSE,III,C,OOPS with C++ Lab,Friday,10:10 AM,12:00 PM,002-A (LAB)
+B.Tech CSE,III,C,Data Structures with C,Friday,02:10 PM,03:05 PM,106 (LT)
+B.Tech CSE,III,C,Object Oriented Programming with C++,Friday,03:05 PM,04:00 PM,017 (CR)
+B.Tech CSE,III,C,Logic Design and Computer Organization Lab,Saturday,08:00 AM,09:50 AM,LOGIC LAB (3RD FLOOR)
+B.Tech CSE,III,C,Data Structures Lab,Saturday,10:10 AM,12:00 PM,002-B (LAB)
+B.Tech CSE,III,C,Discrete Structures and Combinatorics,Saturday,12:00 PM,12:55 PM,124 (LT)
+B.Tech CSE,III,D,Fundamentals of Cloud Computing and Big Data,Monday,08:55 AM,09:50 AM,117 (CR)
+B.Tech CSE,III,D,Introduction to Cryptography,Monday,08:55 AM,09:50 AM,224 (LT)
+B.Tech CSE,III,D,Python Programming,Monday,08:55 AM,09:50 AM,206 (LT)
+B.Tech CSE,III,D,Career Skills-I,Monday,10:10 AM,11:05 AM,123 (CR)
+B.Tech CSE,III,D,Logic Design and Computer Organization,Monday,11:05 AM,12:00 PM,107 (CR)
+B.Tech CSE,III,D,Data Structures Lab,Tuesday,12:00 PM,01:50 PM,102-B (LAB)
+B.Tech CSE,III,D,Data Structures with C,Tuesday,02:10 PM,03:05 PM,106 (LT)
+B.Tech CSE,III,D,Object Oriented Programming with C++,Tuesday,03:05 PM,04:00 PM,017 (CR)
+B.Tech CSE,III,D,Career Excellence Classes,Tuesday,04:00 PM,04:55 PM,529 (Audi)
+B.Tech CSE,III,D,Fundamentals of Cloud Computing and Big Data,Wednesday,08:55 AM,09:50 AM,117 (CR)
+B.Tech CSE,III,D,Introduction to Cryptography,Wednesday,08:55 AM,09:50 AM,224 (LT)
+B.Tech CSE,III,D,Python Programming,Wednesday,08:55 AM,09:50 AM,206 (LT)
+B.Tech CSE,III,D,OOPS with C++ Lab,Wednesday,10:10 AM,12:00 PM,209 (LAB)
+B.Tech CSE,III,D,Object Oriented Programming with C++,Wednesday,12:00 PM,12:55 PM,116 (CR)
+B.Tech CSE,III,D,Data Structures with C,Wednesday,02:10 PM,03:05 PM,106 (LT)
+B.Tech CSE,III,D,Logic Design and Computer Organization Lab,Thursday,08:00 AM,09:50 AM,LOGIC LAB (3RD FLOOR)
+B.Tech CSE,III,D,OOPS with C++ Lab,Thursday,10:10 AM,12:00 PM,002-A (LAB)
+B.Tech CSE,III,D,Discrete Structures and Combinatorics,Thursday,12:00 PM,12:55 PM,106 (LT)
+B.Tech CSE,III,D,Data Structures with C,Thursday,02:10 PM,03:05 PM,106 (LT)
+B.Tech CSE,III,D,Logic Design and Computer Organization,Thursday,03:05 PM,04:00 PM,113 (CR)
+B.Tech CSE,III,D,Discrete Structures and Combinatorics,Friday,08:00 AM,08:55 AM,106 (LT)
+B.Tech CSE,III,D,Fundamentals of Cloud Computing and Big Data,Friday,08:55 AM,09:50 AM,117 (CR)
+B.Tech CSE,III,D,Introduction to Cryptography,Friday,08:55 AM,09:50 AM,224 (LT)
+B.Tech CSE,III,D,Python Programming,Friday,08:55 AM,09:50 AM,206 (LT)
+B.Tech CSE,III,D,Career Skills-I,Friday,10:10 AM,11:05 AM,116 (CR)
+B.Tech CSE,III,D,Object Oriented Programming with C++,Friday,12:00 PM,12:55 PM,116 (CR)
+B.Tech CSE,III,D,Data Structures with C,Friday,02:10 PM,03:05 PM,106 (LT)
+B.Tech CSE,III,D,Logic Design and Computer Organization,Friday,03:05 PM,04:00 PM,113 (CR)
+B.Tech CSE,III,D,Logic Design and Computer Organization Lab,Saturday,10:10 AM,12:00 PM,LOGIC LAB (BASEMENT)
+B.Tech CSE,III,D,Discrete Structures and Combinatorics,Saturday,12:00 PM,12:55 PM,124 (LT)
+B.Tech CSE,III,D,Data Structures Lab,Saturday,02:10 PM,04:00 PM,121 (LAB)
+B.Tech CSE,III,E,Object Oriented Programming with C++,Monday,08:00 AM,08:55 AM,117 (CR)
+B.Tech CSE,III,E,Introduction to Cryptography,Monday,08:55 AM,09:50 AM,224 (LT)
+B.Tech CSE,III,E,Fundamentals of Cloud Computing and Big Data,Monday,10:10 AM,11:05 AM,117 (CR)
+B.Tech CSE,III,E,Python Programming,Monday,10:10 AM,11:05 AM,206 (LT)
+B.Tech CSE,III,E,Discrete Structures and Combinatorics,Monday,11:05 AM,12:00 PM,124 (LT)
+B.Tech CSE,III,E,Data Structures Lab,Tuesday,12:00 PM,01:50 PM,209 (LAB)
+B.Tech CSE,III,E,Data Structures with C,Tuesday,02:10 PM,03:05 PM,529 (Audi)
+B.Tech CSE,III,E,Object Oriented Programming with C++,Tuesday,03:05 PM,04:00 PM,224 (LT)
+B.Tech CSE,III,E,Career Excellence Classes,Tuesday,04:00 PM,04:55 PM,529 (Audi)
+B.Tech CSE,III,E,Discrete Structures and Combinatorics,Wednesday,08:00 AM,08:55 AM,117 (CR)
+B.Tech CSE,III,E,Introduction to Cryptography,Wednesday,08:55 AM,09:50 AM,224 (LT)
+B.Tech CSE,III,E,Fundamentals of Cloud Computing and Big Data,Wednesday,10:10 AM,11:05 AM,117 (CR)
+B.Tech CSE,III,E,Python Programming,Wednesday,10:10 AM,11:05 AM,206 (LT)
+B.Tech CSE,III,E,Logic Design and Computer Organization,Wednesday,11:05 AM,12:00 PM,117 (CR)
+B.Tech CSE,III,E,Object Oriented Programming with C++,Wednesday,12:55 PM,01:50 PM,224 (LT)
+B.Tech CSE,III,E,Data Structures with C,Wednesday,02:10 PM,03:05 PM,529 (Audi)
+B.Tech CSE,III,E,Career Skills-I,Wednesday,03:05 PM,04:00 PM,123 (CR)
+B.Tech CSE,III,E,Logic Design and Computer Organization Lab,Thursday,12:00 PM,01:50 PM,LOGIC LAB (BASEMENT)
+B.Tech CSE,III,E,Data Structures with C,Thursday,02:10 PM,03:05 PM,529 (Audi)
+B.Tech CSE,III,E,OOPS with C++ Lab,Thursday,04:00 PM,05:50 PM,209 (LAB)
+B.Tech CSE,III,E,Introduction to Cryptography,Friday,08:55 AM,09:50 AM,224 (LT)
+B.Tech CSE,III,E,Fundamentals of Cloud Computing and Big Data,Friday,10:10 AM,11:05 AM,117 (CR)
+B.Tech CSE,III,E,Python Programming,Friday,10:10 AM,11:05 AM,206 (LT)
+B.Tech CSE,III,E,Career Skills-I,Friday,11:05 AM,12:00 PM,123 (CR)
+B.Tech CSE,III,E,Discrete Structures and Combinatorics,Friday,12:55 PM,01:50 PM,224 (LT)
+B.Tech CSE,III,E,Data Structures with C,Friday,02:10 PM,03:05 PM,529 (Audi)
+B.Tech CSE,III,E,Logic Design and Computer Organization,Friday,03:05 PM,04:00 PM,117 (CR)
+B.Tech CSE,III,E,Logic Design and Computer Organization Lab,Saturday,08:00 AM,09:50 AM,LOGIC LAB (BASEMENT)
+B.Tech CSE,III,E,Logic Design and Computer Organization,Saturday,10:10 AM,11:05 AM,124 (LT)
+B.Tech CSE,III,E,Data Structures Lab,Saturday,12:00 PM,01:50 PM,002-B (LAB)
+B.Tech CSE,III,E,OOPS with C++ Lab,Saturday,02:10 PM,04:00 PM,002-A (LAB)
+B.Tech CSE,III,F,Object Oriented Programming with C++,Monday,08:00 AM,08:55 AM,117 (CR)
+B.Tech CSE,III,F,Introduction to Cryptography,Monday,08:55 AM,09:50 AM,224 (LT)
+B.Tech CSE,III,F,Fundamentals of Cloud Computing and Big Data,Monday,10:10 AM,11:05 AM,117 (CR)
+B.Tech CSE,III,F,Python Programming,Monday,10:10 AM,11:05 AM,206 (LT)
+B.Tech CSE,III,F,Discrete Structures and Combinatorics,Monday,11:05 AM,12:00 PM,124 (LT)
+B.Tech CSE,III,F,Data Structures Lab,Monday,02:10 PM,04:00 PM,002-B (LAB)
+B.Tech CSE,III,F,OOPS with C++ Lab,Tuesday,12:00 PM,01:50 PM,009 (LAB)
+B.Tech CSE,III,F,Data Structures with C,Tuesday,02:10 PM,03:05 PM,529 (Audi)
+B.Tech CSE,III,F,Object Oriented Programming with C++,Tuesday,03:05 PM,04:00 PM,224 (LT)
+B.Tech CSE,III,F,Career Excellence Classes,Tuesday,04:00 PM,04:55 PM,529 (Audi)
+B.Tech CSE,III,F,Discrete Structures and Combinatorics,Wednesday,08:00 AM,08:55 AM,117 (CR)
+B.Tech CSE,III,F,Introduction to Cryptography,Wednesday,08:55 AM,09:50 AM,224 (LT)
+B.Tech CSE,III,F,Fundamentals of Cloud Computing and Big Data,Wednesday,10:10 AM,11:05 AM,117 (CR)
+B.Tech CSE,III,F,Python Programming,Wednesday,10:10 AM,11:05 AM,206 (LT)
+B.Tech CSE,III,F,Logic Design and Computer Organization,Wednesday,11:05 AM,12:00 PM,117 (CR)
+B.Tech CSE,III,F,Object Oriented Programming with C++,Wednesday,12:55 PM,01:50 PM,224 (LT)
+B.Tech CSE,III,F,Data Structures with C,Wednesday,02:10 PM,03:05 PM,529 (Audi)
+B.Tech CSE,III,F,Logic Design and Computer Organization Lab,Thursday,08:00 AM,09:50 AM,LOGIC LAB (BASEMENT)
+B.Tech CSE,III,F,Data Structures Lab,Thursday,12:00 PM,01:50 PM,009 (LAB)
+B.Tech CSE,III,F,Data Structures with C,Thursday,02:10 PM,03:05 PM,529 (Audi)
+B.Tech CSE,III,F,Career Skills-I,Friday,08:00 AM,08:55 AM,114 (CR)
+B.Tech CSE,III,F,Introduction to Cryptography,Friday,08:55 AM,09:50 AM,224 (LT)
+B.Tech CSE,III,F,Fundamentals of Cloud Computing and Big Data,Friday,10:10 AM,11:05 AM,117 (CR)
+B.Tech CSE,III,F,Python Programming,Friday,10:10 AM,11:05 AM,206 (LT)
+B.Tech CSE,III,F,Career Skills-I,Friday,11:05 AM,12:00 PM,117 (CR)
+B.Tech CSE,III,F,Discrete Structures and Combinatorics,Friday,12:55 PM,01:50 PM,224 (LT)
+B.Tech CSE,III,F,Data Structures with C,Friday,02:10 PM,03:05 PM,529 (Audi)
+B.Tech CSE,III,F,Logic Design and Computer Organization,Friday,03:05 PM,04:00 PM,117 (CR)
+B.Tech CSE,III,F,OOPS with C++ Lab,Saturday,08:00 AM,09:50 AM,209 (LAB)
+B.Tech CSE,III,F,Logic Design and Computer Organization,Saturday,10:10 AM,11:05 AM,124 (LT)
+B.Tech CSE,III,F,Logic Design and Computer Organization Lab,Saturday,12:00 PM,01:50 PM,LOGIC LAB (3RD FLOOR)
+B.Tech CSE,III,G,Career Skills-I,Monday,08:00 AM,08:55 AM,115 (CR)
+B.Tech CSE,III,G,Introduction to Cryptography,Monday,08:55 AM,09:50 AM,224 (LT)
+B.Tech CSE,III,G,Fundamentals of Cloud Computing and Big Data,Monday,10:10 AM,11:05 AM,117 (CR)
+B.Tech CSE,III,G,Python Programming,Monday,10:10 AM,11:05 AM,206 (LT)
+B.Tech CSE,III,G,Data Structures with C,Monday,11:05 AM,12:00 PM,106 (LT)
+B.Tech CSE,III,G,Data Structures Lab,Monday,12:00 PM,01:50 PM,121 (LAB)
+B.Tech CSE,III,G,Object Oriented Programming with C++,Tuesday,10:10 AM,11:05 AM,117 (CR)
+B.Tech CSE,III,G,Logic Design and Computer Organization,Tuesday,11:05 AM,12:00 PM,117 (CR)
+B.Tech CSE,III,G,Discrete Structures and Combinatorics,Tuesday,12:00 PM,12:55 PM,206 (LT)
+B.Tech CSE,III,G,Logic Design and Computer Organization,Wednesday,08:00 AM,08:55 AM,114 (CR)
+B.Tech CSE,III,G,Introduction to Cryptography,Wednesday,08:55 AM,09:50 AM,224 (LT)
+B.Tech CSE,III,G,Fundamentals of Cloud Computing and Big Data,Wednesday,10:10 AM,11:05 AM,117 (CR)
+B.Tech CSE,III,G,Python Programming,Wednesday,10:10 AM,11:05 AM,206 (LT)
+B.Tech CSE,III,G,Data Structures with C,Wednesday,11:05 AM,12:00 PM,206 (LT)
+B.Tech CSE,III,G,Logic Design and Computer Organization,Wednesday,12:55 PM,01:50 PM,116 (CR)
+B.Tech CSE,III,G,OOPS with C++ Lab,Wednesday,02:10 PM,04:00 PM,009 (LAB)
+B.Tech CSE,III,G,Career Excellence Classes,Wednesday,04:00 PM,04:55 PM,529 (Audi)
+B.Tech CSE,III,G,Data Structures with C,Thursday,10:10 AM,11:05 AM,106 (LT)
+B.Tech CSE,III,G,Object Oriented Programming with C++,Thursday,11:05 AM,12:00 PM,117 (CR)
+B.Tech CSE,III,G,Discrete Structures and Combinatorics,Thursday,12:55 PM,01:50 PM,206 (LT)
+B.Tech CSE,III,G,Logic Design and Computer Organization Lab,Thursday,02:10 PM,04:00 PM,LOGIC LAB (3RD FLOOR)
+B.Tech CSE,III,G,Career Skills-I,Friday,08:00 AM,08:55 AM,115 (CR)
+B.Tech CSE,III,G,Introduction to Cryptography,Friday,08:55 AM,09:50 AM,224 (LT)
+B.Tech CSE,III,G,Fundamentals of Cloud Computing and Big Data,Friday,10:10 AM,11:05 AM,117 (CR)
+B.Tech CSE,III,G,Python Programming,Friday,10:10 AM,11:05 AM,206 (LT)
+B.Tech CSE,III,G,Data Structures with C,Friday,11:05 AM,12:00 PM,106 (LT)
+B.Tech CSE,III,G,Logic Design and Computer Organization Lab,Friday,02:10 PM,04:00 PM,LOGIC LAB (3RD FLOOR)
+B.Tech CSE,III,G,Data Structures Lab,Saturday,08:00 AM,09:50 AM,121 (LAB)
+B.Tech CSE,III,G,Object Oriented Programming with C++,Saturday,10:10 AM,11:05 AM,117 (CR)
+B.Tech CSE,III,G,OOPS with C++ Lab,Saturday,12:00 PM,01:50 PM,121 (LAB)
+B.Tech CSE,III,G,Discrete Structures and Combinatorics,Saturday,03:05 PM,04:00 PM,124 (LT)
+B.Tech CSE,III,H,Introduction to Cryptography,Monday,08:55 AM,09:50 AM,224 (LT)
+B.Tech CSE,III,H,Fundamentals of Cloud Computing and Big Data,Monday,10:10 AM,11:05 AM,117 (CR)
+B.Tech CSE,III,H,Python Programming,Monday,10:10 AM,11:05 AM,206 (LT)
+B.Tech CSE,III,H,Data Structures with C,Monday,11:05 AM,12:00 PM,106 (LT)
+B.Tech CSE,III,H,Logic Design and Computer Organization,Monday,12:00 PM,12:55 PM,107 (CR)
+B.Tech CSE,III,H,Logic Design and Computer Organization Lab,Monday,02:10 PM,04:00 PM,LOGIC LAB (BASEMENT)
+B.Tech CSE,III,H,Logic Design and Computer Organization Lab,Tuesday,08:00 AM,09:50 AM,LOGIC LAB (3RD FLOOR)
+B.Tech CSE,III,H,Object Oriented Programming with C++,Tuesday,10:10 AM,11:05 AM,117 (CR)
+B.Tech CSE,III,H,Discrete Structures and Combinatorics,Tuesday,12:00 PM,12:55 PM,206 (LT)
+B.Tech CSE,III,H,OOPS with C++ Lab,Tuesday,02:10 PM,04:00 PM,009 (LAB)
+B.Tech CSE,III,H,Career Skills-I,Wednesday,08:00 AM,08:55 AM,017 (CR)
+B.Tech CSE,III,H,Introduction to Cryptography,Wednesday,08:55 AM,09:50 AM,224 (LT)
+B.Tech CSE,III,H,Fundamentals of Cloud Computing and Big Data,Wednesday,10:10 AM,11:05 AM,117 (CR)
+B.Tech CSE,III,H,Python Programming,Wednesday,10:10 AM,11:05 AM,206 (LT)
+B.Tech CSE,III,H,Data Structures with C,Wednesday,11:05 AM,12:00 PM,206 (LT)
+B.Tech CSE,III,H,Data Structures Lab,Wednesday,12:00 PM,01:50 PM,002-A (LAB)
+B.Tech CSE,III,H,Career Excellence Classes,Wednesday,04:00 PM,04:55 PM,529 (Audi)
+B.Tech CSE,III,H,Logic Design and Computer Organization,Thursday,08:00 AM,08:55 AM,115 (CR)
+B.Tech CSE,III,H,Data Structures with C,Thursday,10:10 AM,11:05 AM,106 (LT)
+B.Tech CSE,III,H,Object Oriented Programming with C++,Thursday,11:05 AM,12:00 PM,117 (CR)
+B.Tech CSE,III,H,Discrete Structures and Combinatorics,Thursday,12:55 PM,01:50 PM,206 (LT)
+B.Tech CSE,III,H,OOPS with C++ Lab,Thursday,02:10 PM,04:00 PM,302-B (LAB)
+B.Tech CSE,III,H,Introduction to Cryptography,Friday,08:55 AM,09:50 AM,224 (LT)
+B.Tech CSE,III,H,Fundamentals of Cloud Computing and Big Data,Friday,10:10 AM,11:05 AM,117 (CR)
+B.Tech CSE,III,H,Python Programming,Friday,10:10 AM,11:05 AM,206 (LT)
+B.Tech CSE,III,H,Data Structures with C,Friday,11:05 AM,12:00 PM,106 (LT)
+B.Tech CSE,III,H,Career Skills-I,Friday,12:00 PM,12:55 PM,113 (CR)
+B.Tech CSE,III,H,Object Oriented Programming with C++,Saturday,10:10 AM,11:05 AM,117 (CR)
+B.Tech CSE,III,H,Logic Design and Computer Organization,Saturday,11:05 AM,12:00 PM,017 (CR)
+B.Tech CSE,III,H,Data Structures Lab,Saturday,12:00 PM,01:50 PM,009 (LAB)
+B.Tech CSE,III,H,Discrete Structures and Combinatorics,Saturday,03:05 PM,04:00 PM,124 (LT)
+B.Tech CSE,III,I,Logic Design and Computer Organization,Monday,08:00 AM,08:55 AM,123 (CR)
+B.Tech CSE,III,I,Introduction to Cryptography,Monday,08:55 AM,09:50 AM,224 (LT)
+B.Tech CSE,III,I,Fundamentals of Cloud Computing and Big Data,Monday,10:10 AM,11:05 AM,117 (CR)
+B.Tech CSE,III,I,Python Programming,Monday,10:10 AM,11:05 AM,206 (LT)
+B.Tech CSE,III,I,Data Structures with C,Monday,11:05 AM,12:00 PM,106 (LT)
+B.Tech CSE,III,I,Object Oriented Programming with C++,Monday,12:00 PM,12:55 PM,116 (CR)
+B.Tech CSE,III,I,Data Structures Lab,Monday,02:10 PM,04:00 PM,102-B (LAB)
+B.Tech CSE,III,I,Discrete Structures and Combinatorics,Tuesday,08:00 AM,08:55 AM,123 (CR)
+B.Tech CSE,III,I,Career Skills-I,Tuesday,08:55 AM,09:50 AM,114 (CR)
+B.Tech CSE,III,I,Logic Design and Computer Organization Lab,Tuesday,10:10 AM,12:00 PM,LOGIC LAB (3RD FLOOR)
+B.Tech CSE,III,I,Object Oriented Programming with C++,Tuesday,12:00 PM,12:55 PM,115 (CR)
+B.Tech CSE,III,I,Logic Design and Computer Organization,Wednesday,08:00 AM,08:55 AM,115 (CR)
+B.Tech CSE,III,I,Introduction to Cryptography,Wednesday,08:55 AM,09:50 AM,224 (LT)
+B.Tech CSE,III,I,Fundamentals of Cloud Computing and Big Data,Wednesday,10:10 AM,11:05 AM,117 (CR)
+B.Tech CSE,III,I,Python Programming,Wednesday,10:10 AM,11:05 AM,206 (LT)
+B.Tech CSE,III,I,Data Structures with C,Wednesday,11:05 AM,12:00 PM,206 (LT)
+B.Tech CSE,III,I,OOPS with C++ Lab,Wednesday,12:00 PM,01:50 PM,121 (LAB)
+B.Tech CSE,III,I,Career Excellence Classes,Wednesday,04:00 PM,04:55 PM,529 (Audi)
+B.Tech CSE,III,I,Discrete Structures and Combinatorics,Thursday,08:00 AM,08:55 AM,113 (CR)
+B.Tech CSE,III,I,Career Skills-I,Thursday,08:55 AM,09:50 AM,113 (CR)
+B.Tech CSE,III,I,Data Structures with C,Thursday,10:10 AM,11:05 AM,106 (LT)
+B.Tech CSE,III,I,Logic Design and Computer Organization,Thursday,11:05 AM,12:00 PM,114 (CR)
+B.Tech CSE,III,I,Object Oriented Programming with C++,Thursday,12:00 PM,12:55 PM,116 (CR)
+B.Tech CSE,III,I,Introduction to Cryptography,Friday,08:55 AM,09:50 AM,224 (LT)
+B.Tech CSE,III,I,Fundamentals of Cloud Computing and Big Data,Friday,10:10 AM,11:05 AM,117 (CR)
+B.Tech CSE,III,I,Python Programming,Friday,10:10 AM,11:05 AM,206 (LT)
+B.Tech CSE,III,I,Data Structures with C,Friday,11:05 AM,12:00 PM,106 (LT)
+B.Tech CSE,III,I,OOPS with C++ Lab,Friday,12:00 PM,01:50 PM,002-A (LAB)
+B.Tech CSE,III,I,Discrete Structures and Combinatorics,Saturday,10:10 AM,11:05 AM,017 (CR)
+B.Tech CSE,III,I,Data Structures Lab,Saturday,12:00 PM,01:50 PM,209 (LAB)
+B.Tech CSE,III,I,Logic Design and Computer Organization Lab,Saturday,02:10 PM,04:00 PM,LOGIC LAB (BASEMENT)
+B.Tech CSE,III,ML1,Responsible and Explainable AI,Monday,08:55 AM,09:50 AM,124 (LT)
+B.Tech CSE,III,ML1,Career Skills-I,Monday,11:05 AM,12:00 PM,115 (CR)
+B.Tech CSE,III,ML1,Object Oriented Programming with C++,Monday,12:00 PM,12:55 PM,106 (LT)
+B.Tech CSE,III,ML1,Advanced Probability for AI,Tuesday,08:00 AM,08:55 AM,224 (LT)
+B.Tech CSE,III,ML1,Object Oriented Programming with C++,Tuesday,08:55 AM,09:50 AM,224 (LT)
+B.Tech CSE,III,ML1,Data Structures Lab,Tuesday,10:10 AM,12:00 PM,009 (LAB)
+B.Tech CSE,III,ML1,Responsible and Explainable AI,Tuesday,02:10 PM,03:05 PM,124 (LT)
+B.Tech CSE,III,ML1,Data Structures with C,Tuesday,03:05 PM,04:00 PM,529 (Audi)
+B.Tech CSE,III,ML1,Logic Design and Computer Organization Lab,Wednesday,12:00 PM,01:50 PM,LOGIC LAB (3RD FLOOR)
+B.Tech CSE,III,ML1,Logic Design and Computer Organization,Wednesday,02:10 PM,03:05 PM,123 (CR)
+B.Tech CSE,III,ML1,Data Structures with C,Wednesday,03:05 PM,04:00 PM,529 (Audi)
+B.Tech CSE,III,ML1,OOPS with C++ Lab,Wednesday,04:00 PM,05:50 PM,002-A (LAB)
+B.Tech CSE,III,ML1,Advanced Probability for AI,Thursday,02:10 PM,03:05 PM,224 (LT)
+B.Tech CSE,III,ML1,Data Structures with C,Thursday,03:05 PM,04:00 PM,529 (Audi)
+B.Tech CSE,III,ML1,Career Excellence Classes,Thursday,04:00 PM,04:55 PM,529 (Audi)
+B.Tech CSE,III,ML1,Logic Design and Computer Organization,Friday,08:00 AM,08:55 AM,116 (CR)
+B.Tech CSE,III,ML1,OOPS with C++ Lab,Friday,10:10 AM,12:00 PM,209 (LAB)
+B.Tech CSE,III,ML1,Career Skills-I,Friday,12:55 PM,01:50 PM,107 (CR)
+B.Tech CSE,III,ML1,Object Oriented Programming with C++,Friday,02:10 PM,03:05 PM,224 (LT)
+B.Tech CSE,III,ML1,Data Structures with C,Friday,03:05 PM,04:00 PM,529 (Audi)
+B.Tech CSE,III,ML1,Logic Design and Computer Organization,Saturday,08:00 AM,08:55 AM,115 (CR)
+B.Tech CSE,III,ML1,Responsible and Explainable AI,Saturday,08:55 AM,09:50 AM,124 (LT)
+B.Tech CSE,III,ML1,Data Structures Lab,Saturday,10:10 AM,12:00 PM,121 (LAB)
+B.Tech CSE,III,ML1,Advanced Probability for AI,Saturday,12:00 PM,12:55 PM,224 (LT)
+B.Tech CSE,III,ML1,Logic Design and Computer Organization Lab,Saturday,02:10 PM,04:00 PM,LOGIC LAB (3RD FLOOR)
+B.Tech CSE,III,ML2,Responsible and Explainable AI,Monday,08:55 AM,09:50 AM,124 (LT)
+B.Tech CSE,III,ML2,Logic Design and Computer Organization,Monday,11:05 AM,12:00 PM,116 (CR)
+B.Tech CSE,III,ML2,Object Oriented Programming with C++,Monday,12:00 PM,12:55 PM,106 (LT)
+B.Tech CSE,III,ML2,Data Structures Lab,Monday,02:10 PM,04:00 PM,009 (LAB)
+B.Tech CSE,III,ML2,Advanced Probability for AI,Tuesday,08:00 AM,08:55 AM,224 (LT)
+B.Tech CSE,III,ML2,Object Oriented Programming with C++,Tuesday,08:55 AM,09:50 AM,224 (LT)
+B.Tech CSE,III,ML2,Logic Design and Computer Organization,Tuesday,10:10 AM,11:05 AM,115 (CR)
+B.Tech CSE,III,ML2,Logic Design and Computer Organization Lab,Tuesday,12:00 PM,01:50 PM,LOGIC LAB (3RD FLOOR)
+B.Tech CSE,III,ML2,Responsible and Explainable AI,Tuesday,02:10 PM,03:05 PM,124 (LT)
+B.Tech CSE,III,ML2,Data Structures with C,Tuesday,03:05 PM,04:00 PM,529 (Audi)
+B.Tech CSE,III,ML2,Logic Design and Computer Organization Lab,Wednesday,08:00 AM,09:50 AM,LOGIC LAB (BASEMENT)
+B.Tech CSE,III,ML2,Data Structures Lab,Wednesday,12:00 PM,01:50 PM,102-A (LAB)
+B.Tech CSE,III,ML2,Career Skills-I,Wednesday,02:10 PM,03:05 PM,114 (CR)
+B.Tech CSE,III,ML2,Data Structures with C,Wednesday,03:05 PM,04:00 PM,529 (Audi)
+B.Tech CSE,III,ML2,OOPS with C++ Lab,Thursday,12:00 PM,01:50 PM,209 (LAB)
+B.Tech CSE,III,ML2,Advanced Probability for AI,Thursday,02:10 PM,03:05 PM,224 (LT)
+B.Tech CSE,III,ML2,Data Structures with C,Thursday,03:05 PM,04:00 PM,529 (Audi)
+B.Tech CSE,III,ML2,Career Excellence Classes,Thursday,04:00 PM,04:55 PM,529 (Audi)
+B.Tech CSE,III,ML2,Object Oriented Programming with C++,Friday,02:10 PM,03:05 PM,224 (LT)
+B.Tech CSE,III,ML2,Data Structures with C,Friday,03:05 PM,04:00 PM,529 (Audi)
+B.Tech CSE,III,ML2,OOPS with C++ Lab,Friday,04:00 PM,05:50 PM,209 (LAB)
+B.Tech CSE,III,ML2,Responsible and Explainable AI,Saturday,08:55 AM,09:50 AM,124 (LT)
+B.Tech CSE,III,ML2,Logic Design and Computer Organization,Saturday,10:10 AM,11:05 AM,114 (CR)
+B.Tech CSE,III,ML2,Career Skills-I,Saturday,11:05 AM,12:00 PM,114 (CR)
+B.Tech CSE,III,ML2,Advanced Probability for AI,Saturday,12:00 PM,12:55 PM,224 (LT)
+B.Tech CSE,III,ML3,Career Skills-I,Monday,08:55 AM,09:50 AM,114 (CR)
+B.Tech CSE,III,ML3,Advanced Probability for AI,Monday,10:10 AM,11:05 AM,124 (LT)
+B.Tech CSE,III,ML3,Data Structures Lab,Monday,12:00 PM,01:50 PM,209 (LAB)
+B.Tech CSE,III,ML3,Responsible and Explainable AI,Tuesday,08:00 AM,08:55 AM,117 (CR)
+B.Tech CSE,III,ML3,Logic Design and Computer Organization,Tuesday,08:55 AM,09:50 AM,115 (CR)
+B.Tech CSE,III,ML3,Object Oriented Programming with C++,Tuesday,11:05 AM,12:00 PM,206 (LT)
+B.Tech CSE,III,ML3,OOPS with C++ Lab,Tuesday,12:00 PM,01:50 PM,121 (LAB)
+B.Tech CSE,III,ML3,Data Structures with C,Tuesday,03:05 PM,04:00 PM,529 (Audi)
+B.Tech CSE,III,ML3,Logic Design and Computer Organization Lab,Wednesday,08:00 AM,09:50 AM,LOGIC LAB (3RD FLOOR)
+B.Tech CSE,III,ML3,Advanced Probability for AI,Wednesday,10:10 AM,11:05 AM,124 (LT)
+B.Tech CSE,III,ML3,Responsible and Explainable AI,Wednesday,11:05 AM,12:00 PM,124 (LT)
+B.Tech CSE,III,ML3,Object Oriented Programming with C++,Wednesday,02:10 PM,03:05 PM,117 (CR)
+B.Tech CSE,III,ML3,Data Structures with C,Wednesday,03:05 PM,04:00 PM,529 (Audi)
+B.Tech CSE,III,ML3,Logic Design and Computer Organization Lab,Thursday,10:10 AM,12:00 PM,LOGIC LAB (BASEMENT)
+B.Tech CSE,III,ML3,Logic Design and Computer Organization,Thursday,12:55 PM,01:50 PM,115 (CR)
+B.Tech CSE,III,ML3,Object Oriented Programming with C++,Thursday,02:10 PM,03:05 PM,117 (CR)
+B.Tech CSE,III,ML3,Data Structures with C,Thursday,03:05 PM,04:00 PM,529 (Audi)
+B.Tech CSE,III,ML3,Career Excellence Classes,Thursday,04:00 PM,04:55 PM,529 (Audi)
+B.Tech CSE,III,ML3,Advanced Probability for AI,Friday,08:00 AM,08:55 AM,117 (CR)
+B.Tech CSE,III,ML3,Responsible and Explainable AI,Friday,08:55 AM,09:50 AM,124 (LT)
+B.Tech CSE,III,ML3,OOPS with C++ Lab,Friday,10:10 AM,12:00 PM,121 (LAB)
+B.Tech CSE,III,ML3,Logic Design and Computer Organization,Friday,02:10 PM,03:05 PM,115 (CR)
+B.Tech CSE,III,ML3,Data Structures with C,Friday,03:05 PM,04:00 PM,529 (Audi)
+B.Tech CSE,III,ML3,Career Skills-I,Saturday,12:00 PM,12:55 PM,017 (CR)
+B.Tech CSE,III,ML3,Data Structures Lab,Saturday,02:10 PM,04:00 PM,002-B (LAB)
+B.Tech CSE,III,ML4,OOPS with C++ Lab,Monday,08:00 AM,09:50 AM,009 (LAB)
+B.Tech CSE,III,ML4,Advanced Probability for AI,Monday,10:10 AM,11:05 AM,124 (LT)
+B.Tech CSE,III,ML4,Logic Design and Computer Organization Lab,Monday,12:00 PM,01:50 PM,LOGIC LAB (BASEMENT)
+B.Tech CSE,III,ML4,Responsible and Explainable AI,Tuesday,08:00 AM,08:55 AM,117 (CR)
+B.Tech CSE,III,ML4,Object Oriented Programming with C++,Tuesday,11:05 AM,12:00 PM,206 (LT)
+B.Tech CSE,III,ML4,Logic Design and Computer Organization,Tuesday,12:55 PM,01:50 PM,116 (CR)
+B.Tech CSE,III,ML4,Career Skills-I,Tuesday,02:10 PM,03:05 PM,115 (CR)
+B.Tech CSE,III,ML4,Data Structures with C,Tuesday,03:05 PM,04:00 PM,529 (Audi)
+B.Tech CSE,III,ML4,Data Structures Lab,Wednesday,08:00 AM,09:50 AM,209 (LAB)
+B.Tech CSE,III,ML4,Advanced Probability for AI,Wednesday,10:10 AM,11:05 AM,124 (LT)
+B.Tech CSE,III,ML4,Responsible and Explainable AI,Wednesday,11:05 AM,12:00 PM,124 (LT)
+B.Tech CSE,III,ML4,Object Oriented Programming with C++,Wednesday,02:10 PM,03:05 PM,117 (CR)
+B.Tech CSE,III,ML4,Data Structures with C,Wednesday,03:05 PM,04:00 PM,529 (Audi)
+B.Tech CSE,III,ML4,OOPS with C++ Lab,Thursday,12:00 PM,01:50 PM,121 (LAB)
+B.Tech CSE,III,ML4,Object Oriented Programming with C++,Thursday,02:10 PM,03:05 PM,117 (CR)
+B.Tech CSE,III,ML4,Data Structures with C,Thursday,03:05 PM,04:00 PM,529 (Audi)
+B.Tech CSE,III,ML4,Career Excellence Classes,Thursday,04:00 PM,04:55 PM,529 (Audi)
+B.Tech CSE,III,ML4,Advanced Probability for AI,Friday,08:00 AM,08:55 AM,117 (CR)
+B.Tech CSE,III,ML4,Responsible and Explainable AI,Friday,08:55 AM,09:50 AM,124 (LT)
+B.Tech CSE,III,ML4,Logic Design and Computer Organization,Friday,10:10 AM,11:05 AM,123 (CR)
+B.Tech CSE,III,ML4,Logic Design and Computer Organization Lab,Friday,12:00 PM,01:50 PM,LOGIC LAB (3RD FLOOR)
+B.Tech CSE,III,ML4,Career Skills-I,Friday,02:10 PM,03:05 PM,113 (CR)
+B.Tech CSE,III,ML4,Data Structures with C,Friday,03:05 PM,04:00 PM,529 (Audi)
+B.Tech CSE,III,ML4,Logic Design and Computer Organization,Saturday,12:55 PM,01:50 PM,017 (CR)
+B.Tech CSE,III,ML4,Data Structures Lab,Saturday,02:10 PM,04:00 PM,009 (LAB)
+B.Tech CSE,III,ML5,Logic Design and Computer Organization Lab,Monday,10:10 AM,12:00 PM,LOGIC LAB (3RD FLOOR)
+B.Tech CSE,III,ML5,Logic Design and Computer Organization,Monday,12:55 PM,01:50 PM,115 (CR)
+B.Tech CSE,III,ML5,Advanced Probability for AI,Monday,02:10 PM,03:05 PM,117 (CR)
+B.Tech CSE,III,ML5,Responsible and Explainable AI,Monday,03:05 PM,04:00 PM,106 (LT)
+B.Tech CSE,III,ML5,Logic Design and Computer Organization Lab,Tuesday,08:00 AM,09:50 AM,LOGIC LAB (BASEMENT)
+B.Tech CSE,III,ML5,Object Oriented Programming with C++,Tuesday,12:00 PM,12:55 PM,224 (LT)
+B.Tech CSE,III,ML5,Data Structures with C,Tuesday,02:10 PM,03:05 PM,529 (Audi)
+B.Tech CSE,III,ML5,Logic Design and Computer Organization,Tuesday,03:05 PM,04:00 PM,114 (CR)
+B.Tech CSE,III,ML5,Logic Design and Computer Organization,Wednesday,08:00 AM,08:55 AM,116 (CR)
+B.Tech CSE,III,ML5,Object Oriented Programming with C++,Wednesday,08:55 AM,09:50 AM,124 (LT)
+B.Tech CSE,III,ML5,Data Structures Lab,Wednesday,12:00 PM,01:50 PM,009 (LAB)
+B.Tech CSE,III,ML5,Data Structures with C,Wednesday,02:10 PM,03:05 PM,529 (Audi)
+B.Tech CSE,III,ML5,Responsible and Explainable AI,Wednesday,03:05 PM,04:00 PM,206 (LT)
+B.Tech CSE,III,ML5,Responsible and Explainable AI,Thursday,12:00 PM,12:55 PM,124 (LT)
+B.Tech CSE,III,ML5,Career Skills-I,Thursday,12:55 PM,01:50 PM,017 (CR)
+B.Tech CSE,III,ML5,Data Structures with C,Thursday,02:10 PM,03:05 PM,529 (Audi)
+B.Tech CSE,III,ML5,Advanced Probability for AI,Thursday,03:05 PM,04:00 PM,124 (LT)
+B.Tech CSE,III,ML5,Career Excellence Classes,Thursday,04:00 PM,04:55 PM,529 (Audi)
+B.Tech CSE,III,ML5,Data Structures Lab,Friday,08:00 AM,09:50 AM,009 (LAB)
+B.Tech CSE,III,ML5,OOPS with C++ Lab,Friday,10:10 AM,12:00 PM,009 (LAB)
+B.Tech CSE,III,ML5,Data Structures with C,Friday,02:10 PM,03:05 PM,529 (Audi)
+B.Tech CSE,III,ML5,Object Oriented Programming with C++,Friday,03:05 PM,04:00 PM,206 (LT)
+B.Tech CSE,III,ML5,Advanced Probability for AI,Saturday,12:00 PM,12:55 PM,117 (CR)
+B.Tech CSE,III,ML5,Career Skills-I,Saturday,12:55 PM,01:50 PM,114 (CR)
+B.Tech CSE,III,ML5,OOPS with C++ Lab,Saturday,02:10 PM,04:00 PM,209 (LAB)
+B.Tech CSE,III,ML6,OOPS with C++ Lab,Monday,12:00 PM,01:50 PM,009 (LAB)
+B.Tech CSE,III,ML6,Advanced Probability for AI,Monday,02:10 PM,03:05 PM,117 (CR)
+B.Tech CSE,III,ML6,Responsible and Explainable AI,Monday,03:05 PM,04:00 PM,106 (LT)
+B.Tech CSE,III,ML6,Logic Design and Computer Organization,Monday,04:00 PM,04:55 PM,113 (CR)
+B.Tech CSE,III,ML6,Data Structures Lab,Tuesday,08:00 AM,09:50 AM,002-A (LAB)
+B.Tech CSE,III,ML6,Logic Design and Computer Organization,Tuesday,10:10 AM,11:05 AM,116 (CR)
+B.Tech CSE,III,ML6,Object Oriented Programming with C++,Tuesday,12:00 PM,12:55 PM,224 (LT)
+B.Tech CSE,III,ML6,Data Structures with C,Tuesday,02:10 PM,03:05 PM,529 (Audi)
+B.Tech CSE,III,ML6,Object Oriented Programming with C++,Wednesday,08:55 AM,09:50 AM,124 (LT)
+B.Tech CSE,III,ML6,Career Skills-I,Wednesday,10:10 AM,11:05 AM,107 (CR)
+B.Tech CSE,III,ML6,Logic Design and Computer Organization,Wednesday,12:00 PM,12:55 PM,017 (CR)
+B.Tech CSE,III,ML6,Data Structures with C,Wednesday,02:10 PM,03:05 PM,529 (Audi)
+B.Tech CSE,III,ML6,Responsible and Explainable AI,Wednesday,03:05 PM,04:00 PM,206 (LT)
+B.Tech CSE,III,ML6,Logic Design and Computer Organization Lab,Thursday,10:10 AM,12:00 PM,LOGIC LAB (3RD FLOOR)
+B.Tech CSE,III,ML6,Responsible and Explainable AI,Thursday,12:00 PM,12:55 PM,124 (LT)
+B.Tech CSE,III,ML6,Data Structures with C,Thursday,02:10 PM,03:05 PM,529 (Audi)
+B.Tech CSE,III,ML6,Advanced Probability for AI,Thursday,03:05 PM,04:00 PM,124 (LT)
+B.Tech CSE,III,ML6,Career Excellence Classes,Thursday,04:00 PM,04:55 PM,529 (Audi)
+B.Tech CSE,III,ML6,Logic Design and Computer Organization Lab,Friday,08:00 AM,09:50 AM,LOGIC LAB (3RD FLOOR)
+B.Tech CSE,III,ML6,Data Structures Lab,Friday,12:00 PM,01:50 PM,209 (LAB)
+B.Tech CSE,III,ML6,Data Structures with C,Friday,02:10 PM,03:05 PM,529 (Audi)
+B.Tech CSE,III,ML6,Object Oriented Programming with C++,Friday,03:05 PM,04:00 PM,206 (LT)
+B.Tech CSE,III,ML6,Career Skills-I,Saturday,08:00 AM,08:55 AM,114 (CR)
+B.Tech CSE,III,ML6,OOPS with C++ Lab,Saturday,10:10 AM,12:00 PM,209 (LAB)
+B.Tech CSE,III,ML6,Advanced Probability for AI,Saturday,12:00 PM,12:55 PM,117 (CR)
+B.Tech CSE,III,DS1,Career Skills-I,Monday,08:55 AM,09:50 AM,115 (CR)
+B.Tech CSE,III,DS1,Data Structures with C,Monday,10:10 AM,11:05 AM,106 (LT)
+B.Tech CSE,III,DS1,Object Oriented Programming with C++,Monday,11:05 AM,12:00 PM,017 (CR)
+B.Tech CSE,III,DS1,Logic Design and Computer Organization,Monday,02:10 PM,03:05 PM,206 (LT)
+B.Tech CSE,III,DS1,Introduction to Statistical Data Science,Monday,03:05 PM,04:00 PM,124 (LT)
+B.Tech CSE,III,DS1,Logic Design and Computer Organization,Tuesday,08:55 AM,09:50 AM,117 (CR)
+B.Tech CSE,III,DS1,Data Structures with C,Tuesday,10:10 AM,11:05 AM,106 (LT)
+B.Tech CSE,III,DS1,Advanced Probability for AI,Tuesday,12:00 PM,12:55 PM,117 (CR)
+B.Tech CSE,III,DS1,Logic Design and Computer Organization Lab,Tuesday,02:10 PM,04:00 PM,LOGIC LAB (BASEMENT)
+B.Tech CSE,III,DS1,Object Oriented Programming with C++,Wednesday,08:55 AM,09:50 AM,017 (CR)
+B.Tech CSE,III,DS1,Data Structures with C,Wednesday,10:10 AM,11:05 AM,106 (LT)
+B.Tech CSE,III,DS1,Data Structures Lab,Wednesday,12:00 PM,01:50 PM,002-B (LAB)
+B.Tech CSE,III,DS1,Logic Design and Computer Organization Lab,Wednesday,02:10 PM,04:00 PM,LOGIC LAB (BASEMENT)
+B.Tech CSE,III,DS1,Career Excellence Classes,Wednesday,04:00 PM,04:55 PM,529 (Audi)
+B.Tech CSE,III,DS1,Introduction to Statistical Data Science,Thursday,08:00 AM,08:55 AM,117 (CR)
+B.Tech CSE,III,DS1,Data Structures with C,Thursday,08:55 AM,09:50 AM,106 (LT)
+B.Tech CSE,III,DS1,Career Skills-I,Thursday,10:10 AM,11:05 AM,123 (CR)
+B.Tech CSE,III,DS1,Advanced Probability for AI,Thursday,11:05 AM,12:00 PM,124 (LT)
+B.Tech CSE,III,DS1,OOPS with C++ Lab,Thursday,02:10 PM,04:00 PM,009 (LAB)
+B.Tech CSE,III,DS1,OOPS with C++ Lab,Friday,08:00 AM,09:50 AM,121 (LAB)
+B.Tech CSE,III,DS1,Object Oriented Programming with C++,Friday,10:10 AM,11:05 AM,017 (CR)
+B.Tech CSE,III,DS1,Logic Design and Computer Organization,Friday,12:00 PM,12:55 PM,224 (LT)
+B.Tech CSE,III,DS1,Data Structures Lab,Saturday,08:00 AM,09:50 AM,102-A (LAB)
+B.Tech CSE,III,DS1,Introduction to Statistical Data Science,Saturday,10:10 AM,11:05 AM,224 (LT)
+B.Tech CSE,III,DS1,Advanced Probability for AI,Saturday,11:05 AM,12:00 PM,124 (LT)
+B.Tech CSE,III,DS2,Logic Design and Computer Organization Lab,Monday,08:00 AM,09:50 AM,LOGIC LAB (3RD FLOOR)
+B.Tech CSE,III,DS2,Data Structures with C,Monday,10:10 AM,11:05 AM,106 (LT)
+B.Tech CSE,III,DS2,Object Oriented Programming with C++,Monday,12:00 PM,12:55 PM,117 (CR)
+B.Tech CSE,III,DS2,Logic Design and Computer Organization,Monday,02:10 PM,03:05 PM,206 (LT)
+B.Tech CSE,III,DS2,Introduction to Statistical Data Science,Monday,03:05 PM,04:00 PM,124 (LT)
+B.Tech CSE,III,DS2,Logic Design and Computer Organization,Tuesday,08:55 AM,09:50 AM,117 (CR)
+B.Tech CSE,III,DS2,Data Structures with C,Tuesday,10:10 AM,11:05 AM,106 (LT)
+B.Tech CSE,III,DS2,Object Oriented Programming with C++,Tuesday,11:05 AM,12:00 PM,113 (CR)
+B.Tech CSE,III,DS2,Advanced Probability for AI,Tuesday,12:00 PM,12:55 PM,117 (CR)
+B.Tech CSE,III,DS2,Data Structures Lab,Tuesday,02:10 PM,04:00 PM,102-B (LAB)
+B.Tech CSE,III,DS2,OOPS with C++ Lab,Wednesday,08:00 AM,09:50 AM,121 (LAB)
+B.Tech CSE,III,DS2,Data Structures with C,Wednesday,10:10 AM,11:05 AM,106 (LT)
+B.Tech CSE,III,DS2,Career Skills-I,Wednesday,11:05 AM,12:00 PM,107 (CR)
+B.Tech CSE,III,DS2,Logic Design and Computer Organization Lab,Wednesday,02:10 PM,04:00 PM,LOGIC LAB (3RD FLOOR)
+B.Tech CSE,III,DS2,Career Excellence Classes,Wednesday,04:00 PM,04:55 PM,529 (Audi)
+B.Tech CSE,III,DS2,Introduction to Statistical Data Science,Thursday,08:00 AM,08:55 AM,117 (CR)
+B.Tech CSE,III,DS2,Data Structures with C,Thursday,08:55 AM,09:50 AM,106 (LT)
+B.Tech CSE,III,DS2,Object Oriented Programming with C++,Thursday,10:10 AM,11:05 AM,017 (CR)
+B.Tech CSE,III,DS2,Advanced Probability for AI,Thursday,11:05 AM,12:00 PM,124 (LT)
+B.Tech CSE,III,DS2,Logic Design and Computer Organization,Friday,12:00 PM,12:55 PM,224 (LT)
+B.Tech CSE,III,DS2,Career Skills-I,Friday,12:55 PM,01:50 PM,017 (CR)
+B.Tech CSE,III,DS2,Data Structures Lab,Friday,02:10 PM,04:00 PM,209 (LAB)
+B.Tech CSE,III,DS2,OOPS with C++ Lab,Saturday,08:00 AM,09:50 AM,002-A (LAB)
+B.Tech CSE,III,DS2,Introduction to Statistical Data Science,Saturday,10:10 AM,11:05 AM,224 (LT)
+B.Tech CSE,III,DS2,Advanced Probability for AI,Saturday,11:05 AM,12:00 PM,124 (LT)
+B.Tech CSE,III,CS1,Information Security Foundations,Monday,08:00 AM,08:55 AM,017 (CR)
+B.Tech CSE,III,CS1,Introduction to Cryptography,Monday,08:55 AM,09:50 AM,224 (LT)
+B.Tech CSE,III,CS1,Python Programming,Monday,08:55 AM,09:50 AM,206 (LT)
+B.Tech CSE,III,CS1,Data Structures with C,Monday,10:10 AM,11:05 AM,106 (LT)
+B.Tech CSE,III,CS1,Career Skills-I,Monday,11:05 AM,12:00 PM,123 (CR)
+B.Tech CSE,III,CS1,Data Structures Lab,Monday,12:00 PM,01:50 PM,102-B (LAB)
+B.Tech CSE,III,CS1,Object Oriented Programming with C++,Monday,03:05 PM,04:00 PM,117 (CR)
+B.Tech CSE,III,CS1,OOPS with C++ Lab,Tuesday,08:00 AM,09:50 AM,102-B (LAB)
+B.Tech CSE,III,CS1,Data Structures with C,Tuesday,10:10 AM,11:05 AM,106 (LT)
+B.Tech CSE,III,CS1,Logic Design and Computer Organization,Tuesday,12:00 PM,12:55 PM,116 (CR)
+B.Tech CSE,III,CS1,Introduction to Cryptography,Wednesday,08:55 AM,09:50 AM,224 (LT)
+B.Tech CSE,III,CS1,Python Programming,Wednesday,08:55 AM,09:50 AM,206 (LT)
+B.Tech CSE,III,CS1,Data Structures with C,Wednesday,10:10 AM,11:05 AM,106 (LT)
+B.Tech CSE,III,CS1,Object Oriented Programming with C++,Wednesday,11:05 AM,12:00 PM,017 (CR)
+B.Tech CSE,III,CS1,OOPS with C++ Lab,Wednesday,12:00 PM,01:50 PM,302-B (LAB)
+B.Tech CSE,III,CS1,Logic Design and Computer Organization,Wednesday,03:05 PM,04:00 PM,117 (CR)
+B.Tech CSE,III,CS1,Career Excellence Classes,Wednesday,04:00 PM,04:55 PM,529 (Audi)
+B.Tech CSE,III,CS1,Career Skills-I,Thursday,08:00 AM,08:55 AM,123 (CR)
+B.Tech CSE,III,CS1,Data Structures with C,Thursday,08:55 AM,09:50 AM,106 (LT)
+B.Tech CSE,III,CS1,Data Structures Lab,Thursday,10:10 AM,12:00 PM,009 (LAB)
+B.Tech CSE,III,CS1,Information Security Foundations,Thursday,12:00 PM,12:55 PM,123 (CR)
+B.Tech CSE,III,CS1,Logic Design and Computer Organization Lab,Thursday,02:10 PM,04:00 PM,LOGIC LAB (BASEMENT)
+B.Tech CSE,III,CS1,Information Security Foundations,Friday,08:00 AM,08:55 AM,017 (CR)
+B.Tech CSE,III,CS1,Introduction to Cryptography,Friday,08:55 AM,09:50 AM,224 (LT)
+B.Tech CSE,III,CS1,Python Programming,Friday,08:55 AM,09:50 AM,206 (LT)
+B.Tech CSE,III,CS1,Logic Design and Computer Organization,Friday,10:10 AM,11:05 AM,107 (CR)
+B.Tech CSE,III,CS1,Object Oriented Programming with C++,Friday,12:00 PM,12:55 PM,117 (CR)
+B.Tech CSE,III,CS1,Information Security Foundations Lab,Friday,02:10 PM,04:00 PM,009 (LAB)
+B.Tech CSE,V,A1,Career Skill- III,Monday,10:10 AM,11:05 AM,017 (CR)
+B.Tech CSE,V,A1,System Design,Monday,11:05 AM,12:00 PM,224 (LT)
+B.Tech CSE,V,A1,Foundation of Quantum Computing,Monday,12:00 PM,12:55 PM,114 (CR)
+B.Tech CSE,V,A1,Security Audit and Compliance- I,Monday,12:00 PM,12:55 PM,115 (CR)
+B.Tech CSE,V,A1,Computer System Security,Monday,12:00 PM,12:55 PM,124 (LT)
+B.Tech CSE,V,A1,Machine learning,Monday,12:00 PM,12:55 PM,206 (LT)
+B.Tech CSE,V,A1,Database Management Systems,Monday,02:10 PM,03:05 PM,124 (LT)
+B.Tech CSE,V,A1,Computer Networks- I,Monday,04:00 PM,04:55 PM,017 (CR)
+B.Tech CSE,V,A1,Career Excellence Classes,Monday,04:55 PM,05:50 PM,529 (Audi)
+B.Tech CSE,V,A1,Computer Networks- I,Tuesday,08:00 AM,08:55 AM,017 (CR)
+B.Tech CSE,V,A1,System Design,Tuesday,10:10 AM,11:05 AM,224 (LT)
+B.Tech CSE,V,A1,Operating Systems,Tuesday,11:05 AM,12:00 PM,106 (LT)
+B.Tech CSE,V,A1,Operating Systems Lab,Tuesday,02:10 PM,04:00 PM,302-A (LAB)
+B.Tech CSE,V,A1,Database Management Systems Lab,Wednesday,08:00 AM,09:50 AM,002-A (LAB)
+B.Tech CSE,V,A1,Career Skill- III,Wednesday,10:10 AM,11:05 AM,017 (CR)
+B.Tech CSE,V,A1,Operating Systems,Wednesday,11:05 AM,12:00 PM,106 (LT)
+B.Tech CSE,V,A1,Foundation of Quantum Computing,Wednesday,12:00 PM,12:55 PM,114 (CR)
+B.Tech CSE,V,A1,Security Audit and Compliance- I,Wednesday,12:00 PM,12:55 PM,115 (CR)
+B.Tech CSE,V,A1,Computer System Security,Wednesday,12:00 PM,12:55 PM,124 (LT)
+B.Tech CSE,V,A1,Machine learning,Wednesday,12:00 PM,12:55 PM,206 (LT)
+B.Tech CSE,V,A1,Computer Networks- I,Thursday,08:00 AM,08:55 AM,017 (CR)
+B.Tech CSE,V,A1,Database Management Systems,Thursday,08:55 AM,09:50 AM,124 (LT)
+B.Tech CSE,V,A1,System Design,Thursday,10:10 AM,11:05 AM,224 (LT)
+B.Tech CSE,V,A1,Operating Systems,Thursday,11:05 AM,12:00 PM,106 (LT)
+B.Tech CSE,V,A1,Database Management Systems Lab,Thursday,02:10 PM,04:00 PM,102-B (LAB)
+B.Tech CSE,V,A1,Career Excellence Classes,Thursday,04:55 PM,05:50 PM,529 (Audi)
+B.Tech CSE,V,A1,Database Management Systems,Friday,08:00 AM,08:55 AM,124 (LT)
+B.Tech CSE,V,A1,Computer Networks- I Lab,Friday,10:10 AM,12:00 PM,102-A (LAB)
+B.Tech CSE,V,A1,Foundation of Quantum Computing,Friday,12:00 PM,12:55 PM,114 (CR)
+B.Tech CSE,V,A1,Security Audit and Compliance- I,Friday,12:00 PM,12:55 PM,115 (CR)
+B.Tech CSE,V,A1,Computer System Security,Friday,12:00 PM,12:55 PM,124 (LT)
+B.Tech CSE,V,A1,Machine learning,Friday,12:00 PM,12:55 PM,206 (LT)
+B.Tech CSE,V,A1,Operating Systems Lab,Friday,02:10 PM,04:00 PM,302-A (LAB)
+B.Tech CSE,V,A2,Computer Networks- I,Monday,10:10 AM,11:05 AM,113 (CR)
+B.Tech CSE,V,A2,System Design,Monday,11:05 AM,12:00 PM,224 (LT)
+B.Tech CSE,V,A2,Foundation of Quantum Computing,Monday,12:00 PM,12:55 PM,114 (CR)
+B.Tech CSE,V,A2,Security Audit and Compliance- I,Monday,12:00 PM,12:55 PM,115 (CR)
+B.Tech CSE,V,A2,Computer System Security,Monday,12:00 PM,12:55 PM,124 (LT)
+B.Tech CSE,V,A2,Machine learning,Monday,12:00 PM,12:55 PM,206 (LT)
+B.Tech CSE,V,A2,Database Management Systems,Monday,02:10 PM,03:05 PM,124 (LT)
+B.Tech CSE,V,A2,Career Skill- III,Monday,03:05 PM,04:00 PM,113 (CR)
+B.Tech CSE,V,A2,Career Excellence Classes,Monday,04:55 PM,05:50 PM,529 (Audi)
+B.Tech CSE,V,A2,Computer Networks- I Lab,Tuesday,08:00 AM,09:50 AM,102-A (LAB)
+B.Tech CSE,V,A2,System Design,Tuesday,10:10 AM,11:05 AM,224 (LT)
+B.Tech CSE,V,A2,Operating Systems,Tuesday,11:05 AM,12:00 PM,106 (LT)
+B.Tech CSE,V,A2,Computer Networks- I,Tuesday,12:00 PM,12:55 PM,107 (CR)
+B.Tech CSE,V,A2,Operating Systems Lab,Wednesday,08:00 AM,09:50 AM,302-A (LAB)
+B.Tech CSE,V,A2,Operating Systems,Wednesday,11:05 AM,12:00 PM,106 (LT)
+B.Tech CSE,V,A2,Foundation of Quantum Computing,Wednesday,12:00 PM,12:55 PM,114 (CR)
+B.Tech CSE,V,A2,Security Audit and Compliance- I,Wednesday,12:00 PM,12:55 PM,115 (CR)
+B.Tech CSE,V,A2,Computer System Security,Wednesday,12:00 PM,12:55 PM,124 (LT)
+B.Tech CSE,V,A2,Machine learning,Wednesday,12:00 PM,12:55 PM,206 (LT)
+B.Tech CSE,V,A2,Database Management Systems,Thursday,08:55 AM,09:50 AM,124 (LT)
+B.Tech CSE,V,A2,System Design,Thursday,10:10 AM,11:05 AM,224 (LT)
+B.Tech CSE,V,A2,Operating Systems,Thursday,11:05 AM,12:00 PM,106 (LT)
+B.Tech CSE,V,A2,Computer Networks- I,Thursday,12:55 PM,01:50 PM,123 (CR)
+B.Tech CSE,V,A2,Database Management Systems Lab,Thursday,02:10 PM,04:00 PM,209 (LAB)
+B.Tech CSE,V,A2,Career Excellence Classes,Thursday,04:55 PM,05:50 PM,529 (Audi)
+B.Tech CSE,V,A2,Database Management Systems,Friday,08:00 AM,08:55 AM,124 (LT)
+B.Tech CSE,V,A2,Career Skill- III,Friday,08:55 AM,09:50 AM,113 (CR)
+B.Tech CSE,V,A2,Operating Systems Lab,Friday,10:10 AM,12:00 PM,302-A (LAB)
+B.Tech CSE,V,A2,Foundation of Quantum Computing,Friday,12:00 PM,12:55 PM,114 (CR)
+B.Tech CSE,V,A2,Security Audit and Compliance- I,Friday,12:00 PM,12:55 PM,115 (CR)
+B.Tech CSE,V,A2,Computer System Security,Friday,12:00 PM,12:55 PM,124 (LT)
+B.Tech CSE,V,A2,Machine learning,Friday,12:00 PM,12:55 PM,206 (LT)
+B.Tech CSE,V,A2,Database Management Systems Lab,Friday,02:10 PM,04:00 PM,121 (LAB)
+B.Tech CSE,V,B1,Foundation of Quantum Computing,Monday,12:00 PM,12:55 PM,114 (CR)
+B.Tech CSE,V,B1,Security Audit and Compliance- I,Monday,12:00 PM,12:55 PM,115 (CR)
+B.Tech CSE,V,B1,Computer System Security,Monday,12:00 PM,12:55 PM,124 (LT)
+B.Tech CSE,V,B1,Machine learning,Monday,12:00 PM,12:55 PM,206 (LT)
+B.Tech CSE,V,B1,Operating Systems,Monday,12:55 PM,01:50 PM,116 (CR)
+B.Tech CSE,V,B1,Database Management Systems Lab,Monday,02:10 PM,04:00 PM,121 (LAB)
+B.Tech CSE,V,B1,Career Excellence Classes,Monday,04:55 PM,05:50 PM,529 (Audi)
+B.Tech CSE,V,B1,System Design,Tuesday,08:55 AM,09:50 AM,106 (LT)
+B.Tech CSE,V,B1,Database Management Systems,Tuesday,10:10 AM,11:05 AM,206 (LT)
+B.Tech CSE,V,B1,Computer Networks- I,Tuesday,11:05 AM,12:00 PM,017 (CR)
+B.Tech CSE,V,B1,Operating Systems Lab,Tuesday,02:10 PM,04:00 PM,002-B (LAB)
+B.Tech CSE,V,B1,Database Management Systems Lab,Wednesday,08:00 AM,09:50 AM,002-B (LAB)
+B.Tech CSE,V,B1,Career Skill- III,Wednesday,10:10 AM,11:05 AM,113 (CR)
+B.Tech CSE,V,B1,Operating Systems,Wednesday,11:05 AM,12:00 PM,116 (CR)
+B.Tech CSE,V,B1,Foundation of Quantum Computing,Wednesday,12:00 PM,12:55 PM,114 (CR)
+B.Tech CSE,V,B1,Security Audit and Compliance- I,Wednesday,12:00 PM,12:55 PM,115 (CR)
+B.Tech CSE,V,B1,Computer System Security,Wednesday,12:00 PM,12:55 PM,124 (LT)
+B.Tech CSE,V,B1,Machine learning,Wednesday,12:00 PM,12:55 PM,206 (LT)
+B.Tech CSE,V,B1,Database Management Systems,Thursday,08:00 AM,08:55 AM,206 (LT)
+B.Tech CSE,V,B1,Career Skill- III,Thursday,08:55 AM,09:50 AM,123 (CR)
+B.Tech CSE,V,B1,Computer Networks- I,Thursday,10:10 AM,11:05 AM,113 (CR)
+B.Tech CSE,V,B1,System Design,Thursday,12:00 PM,12:55 PM,224 (LT)
+B.Tech CSE,V,B1,Operating Systems Lab,Thursday,02:10 PM,04:00 PM,002-B (LAB)
+B.Tech CSE,V,B1,Career Excellence Classes,Thursday,04:55 PM,05:50 PM,529 (Audi)
+B.Tech CSE,V,B1,System Design,Friday,08:00 AM,08:55 AM,224 (LT)
+B.Tech CSE,V,B1,Database Management Systems,Friday,08:55 AM,09:50 AM,106 (LT)
+B.Tech CSE,V,B1,Computer Networks- I,Friday,10:10 AM,11:05 AM,113 (CR)
+B.Tech CSE,V,B1,Operating Systems,Friday,11:05 AM,12:00 PM,116 (CR)
+B.Tech CSE,V,B1,Foundation of Quantum Computing,Friday,12:00 PM,12:55 PM,114 (CR)
+B.Tech CSE,V,B1,Security Audit and Compliance- I,Friday,12:00 PM,12:55 PM,115 (CR)
+B.Tech CSE,V,B1,Computer System Security,Friday,12:00 PM,12:55 PM,124 (LT)
+B.Tech CSE,V,B1,Machine learning,Friday,12:00 PM,12:55 PM,206 (LT)
+B.Tech CSE,V,B1,Computer Networks- I Lab,Friday,02:10 PM,04:00 PM,302-B (LAB)
+B.Tech CSE,V,B2,Database Management Systems Lab,Monday,08:00 AM,09:50 AM,002-B (LAB)
+B.Tech CSE,V,B2,Career Skill- III,Monday,11:05 AM,12:00 PM,113 (CR)
+B.Tech CSE,V,B2,Foundation of Quantum Computing,Monday,12:00 PM,12:55 PM,114 (CR)
+B.Tech CSE,V,B2,Security Audit and Compliance- I,Monday,12:00 PM,12:55 PM,115 (CR)
+B.Tech CSE,V,B2,Computer System Security,Monday,12:00 PM,12:55 PM,124 (LT)
+B.Tech CSE,V,B2,Machine learning,Monday,12:00 PM,12:55 PM,206 (LT)
+B.Tech CSE,V,B2,Computer Networks- I,Monday,02:10 PM,03:05 PM,017 (CR)
+B.Tech CSE,V,B2,Operating Systems,Monday,03:05 PM,04:00 PM,116 (CR)
+B.Tech CSE,V,B2,Career Excellence Classes,Monday,04:55 PM,05:50 PM,529 (Audi)
+B.Tech CSE,V,B2,Computer Networks- I,Tuesday,08:00 AM,08:55 AM,113 (CR)
+B.Tech CSE,V,B2,System Design,Tuesday,08:55 AM,09:50 AM,106 (LT)
+B.Tech CSE,V,B2,Database Management Systems,Tuesday,10:10 AM,11:05 AM,206 (LT)
+B.Tech CSE,V,B2,Operating Systems,Tuesday,11:05 AM,12:00 PM,116 (CR)
+B.Tech CSE,V,B2,Computer Networks- I Lab,Tuesday,02:10 PM,04:00 PM,102-A (LAB)
+B.Tech CSE,V,B2,Foundation of Quantum Computing,Wednesday,12:00 PM,12:55 PM,114 (CR)
+B.Tech CSE,V,B2,Security Audit and Compliance- I,Wednesday,12:00 PM,12:55 PM,115 (CR)
+B.Tech CSE,V,B2,Computer System Security,Wednesday,12:00 PM,12:55 PM,124 (LT)
+B.Tech CSE,V,B2,Machine learning,Wednesday,12:00 PM,12:55 PM,206 (LT)
+B.Tech CSE,V,B2,Career Skill- III,Wednesday,12:55 PM,01:50 PM,017 (CR)
+B.Tech CSE,V,B2,Operating Systems Lab,Wednesday,02:10 PM,04:00 PM,002-B (LAB)
+B.Tech CSE,V,B2,Database Management Systems,Thursday,08:00 AM,08:55 AM,206 (LT)
+B.Tech CSE,V,B2,Computer Networks- I,Thursday,08:55 AM,09:50 AM,017 (CR)
+B.Tech CSE,V,B2,Operating Systems,Thursday,11:05 AM,12:00 PM,116 (CR)
+B.Tech CSE,V,B2,System Design,Thursday,12:00 PM,12:55 PM,224 (LT)
+B.Tech CSE,V,B2,Database Management Systems Lab,Thursday,02:10 PM,04:00 PM,121 (LAB)
+B.Tech CSE,V,B2,Career Excellence Classes,Thursday,04:55 PM,05:50 PM,529 (Audi)
+B.Tech CSE,V,B2,System Design,Friday,08:00 AM,08:55 AM,224 (LT)
+B.Tech CSE,V,B2,Database Management Systems,Friday,08:55 AM,09:50 AM,106 (LT)
+B.Tech CSE,V,B2,Foundation of Quantum Computing,Friday,12:00 PM,12:55 PM,114 (CR)
+B.Tech CSE,V,B2,Security Audit and Compliance- I,Friday,12:00 PM,12:55 PM,115 (CR)
+B.Tech CSE,V,B2,Computer System Security,Friday,12:00 PM,12:55 PM,124 (LT)
+B.Tech CSE,V,B2,Machine learning,Friday,12:00 PM,12:55 PM,206 (LT)
+B.Tech CSE,V,B2,Operating Systems Lab,Friday,02:10 PM,04:00 PM,002-B (LAB)
+B.Tech CSE,V,C1,Database Management Systems Lab,Monday,08:00 AM,09:50 AM,209 (LAB)
+B.Tech CSE,V,C1,Computer Networks- I,Monday,11:05 AM,12:00 PM,117 (CR)
+B.Tech CSE,V,C1,Foundation of Quantum Computing,Monday,12:00 PM,12:55 PM,114 (CR)
+B.Tech CSE,V,C1,Security Audit and Compliance- I,Monday,12:00 PM,12:55 PM,115 (CR)
+B.Tech CSE,V,C1,Computer System Security,Monday,12:00 PM,12:55 PM,124 (LT)
+B.Tech CSE,V,C1,Machine learning,Monday,12:00 PM,12:55 PM,206 (LT)
+B.Tech CSE,V,C1,Database Management Systems,Monday,12:55 PM,01:50 PM,224 (LT)
+B.Tech CSE,V,C1,Operating Systems Lab,Monday,02:10 PM,04:00 PM,002-A (LAB)
+B.Tech CSE,V,C1,System Design,Monday,04:00 PM,04:55 PM,117 (CR)
+B.Tech CSE,V,C1,Career Excellence Classes,Monday,04:55 PM,05:50 PM,529 (Audi)
+B.Tech CSE,V,C1,Computer Networks- I,Tuesday,08:00 AM,08:55 AM,206 (LT)
+B.Tech CSE,V,C1,Career Skill- III,Tuesday,08:55 AM,09:50 AM,123 (CR)
+B.Tech CSE,V,C1,Operating Systems,Tuesday,11:05 AM,12:00 PM,106 (LT)
+B.Tech CSE,V,C1,Operating Systems Lab,Tuesday,02:10 PM,04:00 PM,002-A (LAB)
+B.Tech CSE,V,C1,Career Skill- III,Wednesday,10:10 AM,11:05 AM,114 (CR)
+B.Tech CSE,V,C1,Operating Systems,Wednesday,11:05 AM,12:00 PM,106 (LT)
+B.Tech CSE,V,C1,Foundation of Quantum Computing,Wednesday,12:00 PM,12:55 PM,114 (CR)
+B.Tech CSE,V,C1,Security Audit and Compliance- I,Wednesday,12:00 PM,12:55 PM,115 (CR)
+B.Tech CSE,V,C1,Computer System Security,Wednesday,12:00 PM,12:55 PM,124 (LT)
+B.Tech CSE,V,C1,Machine learning,Wednesday,12:00 PM,12:55 PM,206 (LT)
+B.Tech CSE,V,C1,Database Management Systems Lab,Thursday,08:00 AM,09:50 AM,002-A (LAB)
+B.Tech CSE,V,C1,Computer Networks- I,Thursday,10:10 AM,11:05 AM,117 (CR)
+B.Tech CSE,V,C1,Operating Systems,Thursday,11:05 AM,12:00 PM,106 (LT)
+B.Tech CSE,V,C1,Database Management Systems,Thursday,12:55 PM,01:50 PM,224 (LT)
+B.Tech CSE,V,C1,Computer Networks- I Lab,Thursday,02:10 PM,04:00 PM,102-A (LAB)
+B.Tech CSE,V,C1,System Design,Thursday,04:00 PM,04:55 PM,117 (CR)
+B.Tech CSE,V,C1,Career Excellence Classes,Thursday,04:55 PM,05:50 PM,529 (Audi)
+B.Tech CSE,V,C1,Foundation of Quantum Computing,Friday,12:00 PM,12:55 PM,114 (CR)
+B.Tech CSE,V,C1,Security Audit and Compliance- I,Friday,12:00 PM,12:55 PM,115 (CR)
+B.Tech CSE,V,C1,Computer System Security,Friday,12:00 PM,12:55 PM,124 (LT)
+B.Tech CSE,V,C1,Machine learning,Friday,12:00 PM,12:55 PM,206 (LT)
+B.Tech CSE,V,C1,System Design,Friday,12:55 PM,01:50 PM,117 (CR)
+B.Tech CSE,V,C1,Database Management Systems,Friday,02:10 PM,03:05 PM,206 (LT)
+B.Tech CSE,V,C2,Computer Networks- I Lab,Monday,08:00 AM,09:50 AM,102-A (LAB)
+B.Tech CSE,V,C2,Computer Networks- I,Monday,11:05 AM,12:00 PM,117 (CR)
+B.Tech CSE,V,C2,Foundation of Quantum Computing,Monday,12:00 PM,12:55 PM,114 (CR)
+B.Tech CSE,V,C2,Security Audit and Compliance- I,Monday,12:00 PM,12:55 PM,115 (CR)
+B.Tech CSE,V,C2,Computer System Security,Monday,12:00 PM,12:55 PM,124 (LT)
+B.Tech CSE,V,C2,Machine learning,Monday,12:00 PM,12:55 PM,206 (LT)
+B.Tech CSE,V,C2,Database Management Systems,Monday,12:55 PM,01:50 PM,224 (LT)
+B.Tech CSE,V,C2,Career Skill- III,Monday,02:10 PM,03:05 PM,123 (CR)
+B.Tech CSE,V,C2,System Design,Monday,04:00 PM,04:55 PM,117 (CR)
+B.Tech CSE,V,C2,Career Excellence Classes,Monday,04:55 PM,05:50 PM,529 (Audi)
+B.Tech CSE,V,C2,Computer Networks- I,Tuesday,08:00 AM,08:55 AM,206 (LT)
+B.Tech CSE,V,C2,Career Skill- III,Tuesday,10:10 AM,11:05 AM,123 (CR)
+B.Tech CSE,V,C2,Operating Systems,Tuesday,11:05 AM,12:00 PM,106 (LT)
+B.Tech CSE,V,C2,Database Management Systems Lab,Wednesday,08:00 AM,09:50 AM,102-A (LAB)
+B.Tech CSE,V,C2,Operating Systems,Wednesday,11:05 AM,12:00 PM,106 (LT)
+B.Tech CSE,V,C2,Foundation of Quantum Computing,Wednesday,12:00 PM,12:55 PM,114 (CR)
+B.Tech CSE,V,C2,Security Audit and Compliance- I,Wednesday,12:00 PM,12:55 PM,115 (CR)
+B.Tech CSE,V,C2,Computer System Security,Wednesday,12:00 PM,12:55 PM,124 (LT)
+B.Tech CSE,V,C2,Machine learning,Wednesday,12:00 PM,12:55 PM,206 (LT)
+B.Tech CSE,V,C2,Operating Systems Lab,Wednesday,02:10 PM,04:00 PM,102-A (LAB)
+B.Tech CSE,V,C2,Computer Networks- I,Thursday,10:10 AM,11:05 AM,117 (CR)
+B.Tech CSE,V,C2,Operating Systems,Thursday,11:05 AM,12:00 PM,106 (LT)
+B.Tech CSE,V,C2,Database Management Systems,Thursday,12:55 PM,01:50 PM,224 (LT)
+B.Tech CSE,V,C2,Operating Systems Lab,Thursday,02:10 PM,04:00 PM,302-A (LAB)
+B.Tech CSE,V,C2,System Design,Thursday,04:00 PM,04:55 PM,117 (CR)
+B.Tech CSE,V,C2,Career Excellence Classes,Thursday,04:55 PM,05:50 PM,529 (Audi)
+B.Tech CSE,V,C2,Database Management Systems Lab,Friday,10:10 AM,12:00 PM,102-B (LAB)
+B.Tech CSE,V,C2,Foundation of Quantum Computing,Friday,12:00 PM,12:55 PM,114 (CR)
+B.Tech CSE,V,C2,Security Audit and Compliance- I,Friday,12:00 PM,12:55 PM,115 (CR)
+B.Tech CSE,V,C2,Computer System Security,Friday,12:00 PM,12:55 PM,124 (LT)
+B.Tech CSE,V,C2,Machine learning,Friday,12:00 PM,12:55 PM,206 (LT)
+B.Tech CSE,V,C2,System Design,Friday,12:55 PM,01:50 PM,117 (CR)
+B.Tech CSE,V,C2,Database Management Systems,Friday,02:10 PM,03:05 PM,206 (LT)
+B.Tech CSE,V,D1,Operating Systems Lab,Monday,10:10 AM,12:00 PM,002-A (LAB)
+B.Tech CSE,V,D1,Foundation of Quantum Computing,Monday,12:00 PM,12:55 PM,114 (CR)
+B.Tech CSE,V,D1,Security Audit and Compliance- I,Monday,12:00 PM,12:55 PM,115 (CR)
+B.Tech CSE,V,D1,Computer System Security,Monday,12:00 PM,12:55 PM,124 (LT)
+B.Tech CSE,V,D1,Machine learning,Monday,12:00 PM,12:55 PM,206 (LT)
+B.Tech CSE,V,D1,System Design,Monday,02:10 PM,03:05 PM,224 (LT)
+B.Tech CSE,V,D1,Computer Networks- I,Monday,03:05 PM,04:00 PM,115 (CR)
+B.Tech CSE,V,D1,Database Management Systems,Tuesday,12:00 PM,12:55 PM,106 (LT)
+B.Tech CSE,V,D1,Operating Systems,Tuesday,12:55 PM,01:50 PM,115 (CR)
+B.Tech CSE,V,D1,Career Skill- III,Tuesday,02:10 PM,03:05 PM,107 (CR)
+B.Tech CSE,V,D1,Computer Networks- I,Tuesday,03:05 PM,04:00 PM,113 (CR)
+B.Tech CSE,V,D1,System Design,Tuesday,04:00 PM,04:55 PM,117 (CR)
+B.Tech CSE,V,D1,Career Excellence Classes,Tuesday,04:55 PM,05:50 PM,529 (Audi)
+B.Tech CSE,V,D1,Database Management Systems Lab,Wednesday,08:00 AM,09:50 AM,102-B (LAB)
+B.Tech CSE,V,D1,Operating Systems,Wednesday,11:05 AM,12:00 PM,114 (CR)
+B.Tech CSE,V,D1,Foundation of Quantum Computing,Wednesday,12:00 PM,12:55 PM,114 (CR)
+B.Tech CSE,V,D1,Security Audit and Compliance- I,Wednesday,12:00 PM,12:55 PM,115 (CR)
+B.Tech CSE,V,D1,Computer System Security,Wednesday,12:00 PM,12:55 PM,124 (LT)
+B.Tech CSE,V,D1,Machine learning,Wednesday,12:00 PM,12:55 PM,206 (LT)
+B.Tech CSE,V,D1,Computer Networks- I Lab,Wednesday,02:10 PM,04:00 PM,302-B (LAB)
+B.Tech CSE,V,D1,System Design,Thursday,08:00 AM,08:55 AM,224 (LT)
+B.Tech CSE,V,D1,Database Management Systems,Thursday,10:10 AM,11:05 AM,206 (LT)
+B.Tech CSE,V,D1,Career Skill- III,Thursday,11:05 AM,12:00 PM,123 (CR)
+B.Tech CSE,V,D1,Computer Networks- I,Thursday,12:00 PM,12:55 PM,113 (CR)
+B.Tech CSE,V,D1,Operating Systems Lab,Thursday,02:10 PM,04:00 PM,002-A (LAB)
+B.Tech CSE,V,D1,Database Management Systems Lab,Friday,08:00 AM,09:50 AM,209 (LAB)
+B.Tech CSE,V,D1,Operating Systems,Friday,11:05 AM,12:00 PM,114 (CR)
+B.Tech CSE,V,D1,Foundation of Quantum Computing,Friday,12:00 PM,12:55 PM,114 (CR)
+B.Tech CSE,V,D1,Security Audit and Compliance- I,Friday,12:00 PM,12:55 PM,115 (CR)
+B.Tech CSE,V,D1,Computer System Security,Friday,12:00 PM,12:55 PM,124 (LT)
+B.Tech CSE,V,D1,Machine learning,Friday,12:00 PM,12:55 PM,206 (LT)
+B.Tech CSE,V,D1,Database Management Systems,Friday,02:10 PM,03:05 PM,117 (CR)
+B.Tech CSE,V,D1,Career Excellence Classes,Friday,04:00 PM,04:55 PM,529 (Audi)
+B.Tech CSE,V,D2,Computer Networks- I Lab,Monday,08:00 AM,09:50 AM,102-B (LAB)
+B.Tech CSE,V,D2,Database Management Systems,Monday,10:10 AM,11:05 AM,224 (LT)
+B.Tech CSE,V,D2,Foundation of Quantum Computing,Monday,12:00 PM,12:55 PM,114 (CR)
+B.Tech CSE,V,D2,Security Audit and Compliance- I,Monday,12:00 PM,12:55 PM,115 (CR)
+B.Tech CSE,V,D2,Computer System Security,Monday,12:55 PM,01:50 PM,124 (LT)
+B.Tech CSE,V,D2,Machine learning,Monday,12:55 PM,01:50 PM,206 (LT)
+B.Tech CSE,V,D2,System Design,Monday,02:10 PM,03:05 PM,224 (LT)
+B.Tech CSE,V,D2,Operating Systems,Monday,03:05 PM,04:00 PM,114 (CR)
+B.Tech CSE,V,D2,Career Skill- III,Tuesday,08:55 AM,09:50 AM,017 (CR)
+B.Tech CSE,V,D2,Database Management Systems Lab,Tuesday,10:10 AM,12:00 PM,121 (LAB)
+B.Tech CSE,V,D2,Computer Networks- I,Tuesday,12:55 PM,01:50 PM,113 (CR)
+B.Tech CSE,V,D2,Database Management Systems,Tuesday,03:05 PM,04:00 PM,124 (LT)
+B.Tech CSE,V,D2,System Design,Tuesday,04:00 PM,04:55 PM,117 (CR)
+B.Tech CSE,V,D2,Career Excellence Classes,Tuesday,04:55 PM,05:50 PM,529 (Audi)
+B.Tech CSE,V,D2,Career Skill- III,Wednesday,08:55 AM,09:50 AM,113 (CR)
+B.Tech CSE,V,D2,Computer Networks- I,Wednesday,10:10 AM,11:05 AM,115 (CR)
+B.Tech CSE,V,D2,Operating Systems,Wednesday,11:05 AM,12:00 PM,115 (CR)
+B.Tech CSE,V,D2,Foundation of Quantum Computing,Wednesday,12:00 PM,12:55 PM,114 (CR)
+B.Tech CSE,V,D2,Security Audit and Compliance- I,Wednesday,12:00 PM,12:55 PM,115 (CR)
+B.Tech CSE,V,D2,Computer System Security,Wednesday,12:55 PM,01:50 PM,124 (LT)
+B.Tech CSE,V,D2,Machine learning,Wednesday,12:55 PM,01:50 PM,206 (LT)
+B.Tech CSE,V,D2,Operating Systems Lab,Wednesday,02:10 PM,04:00 PM,302-A (LAB)
+B.Tech CSE,V,D2,System Design,Thursday,08:00 AM,08:55 AM,224 (LT)
+B.Tech CSE,V,D2,Database Management Systems Lab,Thursday,10:10 AM,12:00 PM,302-A (LAB)
+B.Tech CSE,V,D2,Database Management Systems,Thursday,12:00 PM,12:55 PM,117 (CR)
+B.Tech CSE,V,D2,Computer Networks- I,Thursday,02:10 PM,03:05 PM,113 (CR)
+B.Tech CSE,V,D2,Operating Systems,Thursday,03:05 PM,04:00 PM,114 (CR)
+B.Tech CSE,V,D2,Foundation of Quantum Computing,Friday,12:00 PM,12:55 PM,114 (CR)
+B.Tech CSE,V,D2,Security Audit and Compliance- I,Friday,12:00 PM,12:55 PM,115 (CR)
+B.Tech CSE,V,D2,Computer System Security,Friday,12:55 PM,01:50 PM,124 (LT)
+B.Tech CSE,V,D2,Machine learning,Friday,12:55 PM,01:50 PM,206 (LT)
+B.Tech CSE,V,D2,Operating Systems Lab,Friday,02:10 PM,04:00 PM,002-A (LAB)
+B.Tech CSE,V,D2,Career Excellence Classes,Friday,04:00 PM,04:55 PM,529 (Audi)
+B.Tech CSE,V,E1,Foundation of Quantum Computing,Monday,12:00 PM,12:55 PM,114 (CR)
+B.Tech CSE,V,E1,Security Audit and Compliance- I,Monday,12:00 PM,12:55 PM,115 (CR)
+B.Tech CSE,V,E1,Computer System Security,Monday,12:55 PM,01:50 PM,124 (LT)
+B.Tech CSE,V,E1,Machine learning,Monday,12:55 PM,01:50 PM,206 (LT)
+B.Tech CSE,V,E1,Operating Systems Lab,Monday,02:10 PM,04:00 PM,209 (LAB)
+B.Tech CSE,V,E1,Database Management Systems,Tuesday,08:00 AM,08:55 AM,116 (CR)
+B.Tech CSE,V,E1,System Design,Tuesday,08:55 AM,09:50 AM,124 (LT)
+B.Tech CSE,V,E1,Computer Networks- I Lab,Tuesday,10:10 AM,12:00 PM,102-A (LAB)
+B.Tech CSE,V,E1,Career Skill- III,Tuesday,12:00 PM,12:55 PM,123 (CR)
+B.Tech CSE,V,E1,Operating Systems,Tuesday,02:10 PM,03:05 PM,114 (CR)
+B.Tech CSE,V,E1,Computer Networks- I,Tuesday,03:05 PM,04:00 PM,106 (LT)
+B.Tech CSE,V,E1,Career Excellence Classes,Tuesday,04:55 PM,05:50 PM,529 (Audi)
+B.Tech CSE,V,E1,System Design,Wednesday,08:00 AM,08:55 AM,224 (LT)
+B.Tech CSE,V,E1,Database Management Systems Lab,Wednesday,10:10 AM,12:00 PM,002-B (LAB)
+B.Tech CSE,V,E1,Foundation of Quantum Computing,Wednesday,12:00 PM,12:55 PM,114 (CR)
+B.Tech CSE,V,E1,Security Audit and Compliance- I,Wednesday,12:00 PM,12:55 PM,115 (CR)
+B.Tech CSE,V,E1,Computer System Security,Wednesday,12:55 PM,01:50 PM,124 (LT)
+B.Tech CSE,V,E1,Machine learning,Wednesday,12:55 PM,01:50 PM,206 (LT)
+B.Tech CSE,V,E1,Career Skill- III,Wednesday,02:10 PM,03:05 PM,224 (LT)
+B.Tech CSE,V,E1,Operating Systems,Wednesday,03:05 PM,04:00 PM,115 (CR)
+B.Tech CSE,V,E1,Database Management Systems,Thursday,08:55 AM,09:50 AM,114 (CR)
+B.Tech CSE,V,E1,Computer Networks- I,Thursday,10:10 AM,11:05 AM,124 (LT)
+B.Tech CSE,V,E1,System Design,Thursday,11:05 AM,12:00 PM,224 (LT)
+B.Tech CSE,V,E1,Operating Systems Lab,Thursday,12:00 PM,01:50 PM,302-A (LAB)
+B.Tech CSE,V,E1,Operating Systems,Thursday,03:05 PM,04:00 PM,115 (CR)
+B.Tech CSE,V,E1,Database Management Systems,Friday,08:55 AM,09:50 AM,114 (CR)
+B.Tech CSE,V,E1,Database Management Systems Lab,Friday,10:10 AM,12:00 PM,002-B (LAB)
+B.Tech CSE,V,E1,Foundation of Quantum Computing,Friday,12:00 PM,12:55 PM,114 (CR)
+B.Tech CSE,V,E1,Security Audit and Compliance- I,Friday,12:00 PM,12:55 PM,115 (CR)
+B.Tech CSE,V,E1,Computer System Security,Friday,12:55 PM,01:50 PM,124 (LT)
+B.Tech CSE,V,E1,Machine learning,Friday,12:55 PM,01:50 PM,206 (LT)
+B.Tech CSE,V,E1,Computer Networks- I,Friday,02:10 PM,03:05 PM,124 (LT)
+B.Tech CSE,V,E1,Career Excellence Classes,Friday,04:00 PM,04:55 PM,529 (Audi)
+B.Tech CSE,V,E2,Database Management Systems,Monday,10:10 AM,11:05 AM,116 (CR)
+B.Tech CSE,V,E2,Career Skill- III,Monday,11:05 AM,12:00 PM,114 (CR)
+B.Tech CSE,V,E2,Foundation of Quantum Computing,Monday,12:00 PM,12:55 PM,114 (CR)
+B.Tech CSE,V,E2,Security Audit and Compliance- I,Monday,12:00 PM,12:55 PM,115 (CR)
+B.Tech CSE,V,E2,Computer System Security,Monday,12:55 PM,01:50 PM,124 (LT)
+B.Tech CSE,V,E2,Machine learning,Monday,12:55 PM,01:50 PM,206 (LT)
+B.Tech CSE,V,E2,Database Management Systems Lab,Monday,02:10 PM,04:00 PM,302-A (LAB)
+B.Tech CSE,V,E2,Operating Systems,Tuesday,08:00 AM,08:55 AM,115 (CR)
+B.Tech CSE,V,E2,System Design,Tuesday,08:55 AM,09:50 AM,124 (LT)
+B.Tech CSE,V,E2,Operating Systems Lab,Tuesday,10:10 AM,12:00 PM,002-B (LAB)
+B.Tech CSE,V,E2,Database Management Systems Lab,Tuesday,12:00 PM,01:50 PM,002-B (LAB)
+B.Tech CSE,V,E2,Computer Networks- I,Tuesday,03:05 PM,04:00 PM,106 (LT)
+B.Tech CSE,V,E2,Career Excellence Classes,Tuesday,04:55 PM,05:50 PM,529 (Audi)
+B.Tech CSE,V,E2,System Design,Wednesday,08:00 AM,08:55 AM,224 (LT)
+B.Tech CSE,V,E2,Career Skill- III,Wednesday,08:55 AM,09:50 AM,114 (CR)
+B.Tech CSE,V,E2,Computer Networks- I Lab,Wednesday,10:10 AM,12:00 PM,102-B (LAB)
+B.Tech CSE,V,E2,Foundation of Quantum Computing,Wednesday,12:00 PM,12:55 PM,114 (CR)
+B.Tech CSE,V,E2,Security Audit and Compliance- I,Wednesday,12:00 PM,12:55 PM,115 (CR)
+B.Tech CSE,V,E2,Computer System Security,Wednesday,12:55 PM,01:50 PM,124 (LT)
+B.Tech CSE,V,E2,Machine learning,Wednesday,12:55 PM,01:50 PM,206 (LT)
+B.Tech CSE,V,E2,Operating Systems,Wednesday,02:10 PM,03:05 PM,115 (CR)
+B.Tech CSE,V,E2,Database Management Systems,Wednesday,03:05 PM,04:00 PM,113 (CR)
+B.Tech CSE,V,E2,Operating Systems Lab,Thursday,08:00 AM,09:50 AM,209 (LAB)
+B.Tech CSE,V,E2,Computer Networks- I,Thursday,10:10 AM,11:05 AM,124 (LT)
+B.Tech CSE,V,E2,System Design,Thursday,11:05 AM,12:00 PM,224 (LT)
+B.Tech CSE,V,E2,Database Management Systems,Thursday,12:00 PM,12:55 PM,114 (CR)
+B.Tech CSE,V,E2,Foundation of Quantum Computing,Friday,12:00 PM,12:55 PM,114 (CR)
+B.Tech CSE,V,E2,Security Audit and Compliance- I,Friday,12:00 PM,12:55 PM,115 (CR)
+B.Tech CSE,V,E2,Computer System Security,Friday,12:55 PM,01:50 PM,124 (LT)
+B.Tech CSE,V,E2,Machine learning,Friday,12:55 PM,01:50 PM,206 (LT)
+B.Tech CSE,V,E2,Computer Networks- I,Friday,02:10 PM,03:05 PM,124 (LT)
+B.Tech CSE,V,E2,Operating Systems,Friday,03:05 PM,04:00 PM,114 (CR)
+B.Tech CSE,V,E2,Career Excellence Classes,Friday,04:00 PM,04:55 PM,529 (Audi)
+B.Tech CSE,V,F1,System Design,Monday,08:00 AM,08:55 AM,206 (LT)
+B.Tech CSE,V,F1,Computer Networks- I,Monday,08:55 AM,09:50 AM,017 (CR)
+B.Tech CSE,V,F1,Database Management Systems Lab,Monday,10:10 AM,12:00 PM,102-A (LAB)
+B.Tech CSE,V,F1,Foundation of Quantum Computing,Monday,12:00 PM,12:55 PM,114 (CR)
+B.Tech CSE,V,F1,Security Audit and Compliance- I,Monday,12:00 PM,12:55 PM,115 (CR)
+B.Tech CSE,V,F1,Computer System Security,Monday,12:55 PM,01:50 PM,124 (LT)
+B.Tech CSE,V,F1,Machine learning,Monday,12:55 PM,01:50 PM,206 (LT)
+B.Tech CSE,V,F1,Operating Systems Lab,Monday,02:10 PM,04:00 PM,302-B (LAB)
+B.Tech CSE,V,F1,Operating Systems Lab,Tuesday,10:10 AM,12:00 PM,302-B (LAB)
+B.Tech CSE,V,F1,Database Management Systems,Tuesday,12:00 PM,12:55 PM,106 (LT)
+B.Tech CSE,V,F1,Database Management Systems Lab,Tuesday,02:10 PM,04:00 PM,121 (LAB)
+B.Tech CSE,V,F1,Career Excellence Classes,Tuesday,04:55 PM,05:50 PM,529 (Audi)
+B.Tech CSE,V,F1,Computer Networks- I,Wednesday,08:55 AM,09:50 AM,116 (CR)
+B.Tech CSE,V,F1,Computer Networks- I Lab,Wednesday,10:10 AM,12:00 PM,102-A (LAB)
+B.Tech CSE,V,F1,Foundation of Quantum Computing,Wednesday,12:00 PM,12:55 PM,114 (CR)
+B.Tech CSE,V,F1,Security Audit and Compliance- I,Wednesday,12:00 PM,12:55 PM,115 (CR)
+B.Tech CSE,V,F1,Computer System Security,Wednesday,12:55 PM,01:50 PM,124 (LT)
+B.Tech CSE,V,F1,Machine learning,Wednesday,12:55 PM,01:50 PM,206 (LT)
+B.Tech CSE,V,F1,Career Skill- III,Wednesday,02:10 PM,03:05 PM,224 (LT)
+B.Tech CSE,V,F1,Operating Systems,Wednesday,03:05 PM,04:00 PM,124 (LT)
+B.Tech CSE,V,F1,System Design,Thursday,08:55 AM,09:50 AM,206 (LT)
+B.Tech CSE,V,F1,Database Management Systems,Thursday,10:10 AM,11:05 AM,206 (LT)
+B.Tech CSE,V,F1,Career Skill- III,Thursday,11:05 AM,12:00 PM,017 (CR)
+B.Tech CSE,V,F1,Operating Systems,Thursday,12:00 PM,12:55 PM,206 (LT)
+B.Tech CSE,V,F1,Computer Networks- I,Friday,08:55 AM,09:50 AM,116 (CR)
+B.Tech CSE,V,F1,Operating Systems,Friday,10:10 AM,11:05 AM,124 (LT)
+B.Tech CSE,V,F1,Foundation of Quantum Computing,Friday,12:00 PM,12:55 PM,114 (CR)
+B.Tech CSE,V,F1,Security Audit and Compliance- I,Friday,12:00 PM,12:55 PM,115 (CR)
+B.Tech CSE,V,F1,Computer System Security,Friday,12:55 PM,01:50 PM,124 (LT)
+B.Tech CSE,V,F1,Machine learning,Friday,12:55 PM,01:50 PM,206 (LT)
+B.Tech CSE,V,F1,Database Management Systems,Friday,02:10 PM,03:05 PM,117 (CR)
+B.Tech CSE,V,F1,System Design,Friday,03:05 PM,04:00 PM,224 (LT)
+B.Tech CSE,V,F1,Career Excellence Classes,Friday,04:00 PM,04:55 PM,529 (Audi)
+B.Tech CSE,V,F2,System Design,Monday,08:00 AM,08:55 AM,206 (LT)
+B.Tech CSE,V,F2,Database Management Systems,Monday,08:55 AM,09:50 AM,113 (CR)
+B.Tech CSE,V,F2,Operating Systems Lab,Monday,10:10 AM,12:00 PM,302-B (LAB)
+B.Tech CSE,V,F2,Foundation of Quantum Computing,Monday,12:00 PM,12:55 PM,114 (CR)
+B.Tech CSE,V,F2,Security Audit and Compliance- I,Monday,12:00 PM,12:55 PM,115 (CR)
+B.Tech CSE,V,F2,Computer System Security,Monday,12:55 PM,01:50 PM,124 (LT)
+B.Tech CSE,V,F2,Machine learning,Monday,12:55 PM,01:50 PM,206 (LT)
+B.Tech CSE,V,F2,Career Skill- III,Monday,02:10 PM,03:05 PM,113 (CR)
+B.Tech CSE,V,F2,Computer Networks- I Lab,Tuesday,12:00 PM,01:50 PM,102-A (LAB)
+B.Tech CSE,V,F2,Career Skill- III,Tuesday,02:10 PM,03:05 PM,113 (CR)
+B.Tech CSE,V,F2,Database Management Systems,Tuesday,04:00 PM,04:55 PM,115 (CR)
+B.Tech CSE,V,F2,Career Excellence Classes,Tuesday,04:55 PM,05:50 PM,529 (Audi)
+B.Tech CSE,V,F2,Foundation of Quantum Computing,Wednesday,12:00 PM,12:55 PM,114 (CR)
+B.Tech CSE,V,F2,Security Audit and Compliance- I,Wednesday,12:00 PM,12:55 PM,115 (CR)
+B.Tech CSE,V,F2,Computer System Security,Wednesday,12:55 PM,01:50 PM,124 (LT)
+B.Tech CSE,V,F2,Machine learning,Wednesday,12:55 PM,01:50 PM,206 (LT)
+B.Tech CSE,V,F2,Computer Networks- I,Wednesday,02:10 PM,03:05 PM,116 (CR)
+B.Tech CSE,V,F2,Operating Systems,Wednesday,03:05 PM,04:00 PM,124 (LT)
+B.Tech CSE,V,F2,Database Management Systems Lab,Wednesday,04:00 PM,05:50 PM,002-B (LAB)
+B.Tech CSE,V,F2,Computer Networks- I,Thursday,08:00 AM,08:55 AM,116 (CR)
+B.Tech CSE,V,F2,System Design,Thursday,08:55 AM,09:50 AM,206 (LT)
+B.Tech CSE,V,F2,Operating Systems Lab,Thursday,10:10 AM,12:00 PM,302-B (LAB)
+B.Tech CSE,V,F2,Operating Systems,Thursday,12:00 PM,12:55 PM,206 (LT)
+B.Tech CSE,V,F2,Database Management Systems Lab,Friday,08:00 AM,09:50 AM,002-A (LAB)
+B.Tech CSE,V,F2,Operating Systems,Friday,10:10 AM,11:05 AM,124 (LT)
+B.Tech CSE,V,F2,Computer Networks- I,Friday,11:05 AM,12:00 PM,113 (CR)
+B.Tech CSE,V,F2,Foundation of Quantum Computing,Friday,12:00 PM,12:55 PM,114 (CR)
+B.Tech CSE,V,F2,Security Audit and Compliance- I,Friday,12:00 PM,12:55 PM,115 (CR)
+B.Tech CSE,V,F2,Computer System Security,Friday,12:55 PM,01:50 PM,124 (LT)
+B.Tech CSE,V,F2,Machine learning,Friday,12:55 PM,01:50 PM,206 (LT)
+B.Tech CSE,V,F2,Database Management Systems,Friday,02:10 PM,03:05 PM,017 (CR)
+B.Tech CSE,V,F2,System Design,Friday,03:05 PM,04:00 PM,224 (LT)
+B.Tech CSE,V,F2,Career Excellence Classes,Friday,04:00 PM,04:55 PM,529 (Audi)
+B.Tech CSE,V,G1,Database Management Systems,Monday,08:00 AM,08:55 AM,224 (LT)
+B.Tech CSE,V,G1,System Design,Monday,08:55 AM,09:50 AM,106 (LT)
+B.Tech CSE,V,G1,Operating Systems Lab,Monday,10:10 AM,12:00 PM,002-B (LAB)
+B.Tech CSE,V,G1,Foundation of Quantum Computing,Monday,12:00 PM,12:55 PM,114 (CR)
+B.Tech CSE,V,G1,Security Audit and Compliance- I,Monday,12:00 PM,12:55 PM,115 (CR)
+B.Tech CSE,V,G1,Computer System Security,Monday,12:55 PM,01:50 PM,124 (LT)
+B.Tech CSE,V,G1,Machine learning,Monday,12:55 PM,01:50 PM,206 (LT)
+B.Tech CSE,V,G1,Database Management Systems Lab,Monday,02:10 PM,04:00 PM,102-A (LAB)
+B.Tech CSE,V,G1,Career Skill- III,Tuesday,10:10 AM,11:05 AM,017 (CR)
+B.Tech CSE,V,G1,Operating Systems,Tuesday,11:05 AM,12:00 PM,115 (CR)
+B.Tech CSE,V,G1,System Design,Tuesday,12:00 PM,12:55 PM,124 (LT)
+B.Tech CSE,V,G1,Operating Systems Lab,Tuesday,02:10 PM,04:00 PM,302-B (LAB)
+B.Tech CSE,V,G1,Database Management Systems,Wednesday,10:10 AM,11:05 AM,224 (LT)
+B.Tech CSE,V,G1,Career Skill- III,Wednesday,11:05 AM,12:00 PM,113 (CR)
+B.Tech CSE,V,G1,Foundation of Quantum Computing,Wednesday,12:00 PM,12:55 PM,114 (CR)
+B.Tech CSE,V,G1,Security Audit and Compliance- I,Wednesday,12:00 PM,12:55 PM,115 (CR)
+B.Tech CSE,V,G1,Computer System Security,Wednesday,12:55 PM,01:50 PM,124 (LT)
+B.Tech CSE,V,G1,Machine learning,Wednesday,12:55 PM,01:50 PM,206 (LT)
+B.Tech CSE,V,G1,Computer Networks- I Lab,Wednesday,02:10 PM,04:00 PM,102-B (LAB)
+B.Tech CSE,V,G1,Computer Networks- I,Wednesday,04:00 PM,04:55 PM,113 (CR)
+B.Tech CSE,V,G1,Career Excellence Classes,Wednesday,04:55 PM,05:50 PM,529 (Audi)
+B.Tech CSE,V,G1,Operating Systems,Thursday,12:00 PM,12:55 PM,115 (CR)
+B.Tech CSE,V,G1,Computer Networks- I,Thursday,12:55 PM,01:50 PM,114 (CR)
+B.Tech CSE,V,G1,System Design,Thursday,03:05 PM,04:00 PM,106 (LT)
+B.Tech CSE,V,G1,Database Management Systems Lab,Thursday,04:00 PM,05:50 PM,102-B (LAB)
+B.Tech CSE,V,G1,Database Management Systems,Friday,10:10 AM,11:05 AM,106 (LT)
+B.Tech CSE,V,G1,Operating Systems,Friday,11:05 AM,12:00 PM,115 (CR)
+B.Tech CSE,V,G1,Foundation of Quantum Computing,Friday,12:00 PM,12:55 PM,114 (CR)
+B.Tech CSE,V,G1,Security Audit and Compliance- I,Friday,12:00 PM,12:55 PM,115 (CR)
+B.Tech CSE,V,G1,Computer System Security,Friday,12:55 PM,01:50 PM,124 (LT)
+B.Tech CSE,V,G1,Machine learning,Friday,12:55 PM,01:50 PM,206 (LT)
+B.Tech CSE,V,G1,Computer Networks- I,Friday,04:00 PM,04:55 PM,017 (CR)
+B.Tech CSE,V,G1,Career Excellence Classes,Friday,04:55 PM,05:50 PM,529 (Audi)
+B.Tech CSE,V,CS1,Database Management Systems,Monday,08:00 AM,08:55 AM,224 (LT)
+B.Tech CSE,V,CS1,System Design,Monday,08:55 AM,09:50 AM,106 (LT)
+B.Tech CSE,V,CS1,Computer System Security,Monday,10:10 AM,11:05 AM,114 (CR)
+B.Tech CSE,V,CS1,Computer Networks Lab,Monday,12:00 PM,01:50 PM,102-A (LAB)
+B.Tech CSE,V,CS1,Computer Networks,Monday,03:05 PM,04:00 PM,123 (CR)
+B.Tech CSE,V,CS1,Computer System Security Lab,Tuesday,08:00 AM,09:50 AM,302-A (LAB)
+B.Tech CSE,V,CS1,Computer Networks,Tuesday,10:10 AM,11:05 AM,113 (CR)
+B.Tech CSE,V,CS1,Operating Systems,Tuesday,11:05 AM,12:00 PM,114 (CR)
+B.Tech CSE,V,CS1,System Design,Tuesday,12:00 PM,12:55 PM,124 (LT)
+B.Tech CSE,V,CS1,Database Management Systems,Wednesday,10:10 AM,11:05 AM,224 (LT)
+B.Tech CSE,V,CS1,Computer Networks,Wednesday,12:00 PM,12:55 PM,123 (CR)
+B.Tech CSE,V,CS1,Career Skill- III,Wednesday,12:55 PM,01:50 PM,113 (CR)
+B.Tech CSE,V,CS1,Operating Systems Lab,Wednesday,02:10 PM,04:00 PM,002-A (LAB)
+B.Tech CSE,V,CS1,Career Skill- III,Wednesday,04:00 PM,04:55 PM,017 (CR)
+B.Tech CSE,V,CS1,Career Excellence Classes,Wednesday,04:55 PM,05:50 PM,529 (Audi)
+B.Tech CSE,V,CS1,Computer System Security Lab,Thursday,08:00 AM,09:50 AM,302-A (LAB)
+B.Tech CSE,V,CS1,Computer System Security,Thursday,10:10 AM,11:05 AM,114 (CR)
+B.Tech CSE,V,CS1,Operating Systems,Thursday,11:05 AM,12:00 PM,115 (CR)
+B.Tech CSE,V,CS1,Database Management Systems Lab,Thursday,12:00 PM,01:50 PM,102-A (LAB)
+B.Tech CSE,V,CS1,System Design,Thursday,03:05 PM,04:00 PM,106 (LT)
+B.Tech CSE,V,CS1,Database Management Systems,Friday,10:10 AM,11:05 AM,106 (LT)
+B.Tech CSE,V,CS1,Operating Systems,Friday,12:55 PM,01:50 PM,115 (CR)
+B.Tech CSE,V,CS1,Database Management Systems Lab,Friday,02:10 PM,04:00 PM,102-B (LAB)
+B.Tech CSE,V,CS1,Computer System Security,Friday,04:00 PM,04:55 PM,113 (CR)
+B.Tech CSE,V,CS1,Career Excellence Classes,Friday,04:55 PM,05:50 PM,529 (Audi)
+B.Tech CSE,V,ML1,Natural Language Processing and Computer Vision Lab,Monday,08:00 AM,09:50 AM,121 (LAB)
+B.Tech CSE,V,ML1,Computer Networks Lab,Monday,10:10 AM,12:00 PM,102-B (LAB)
+B.Tech CSE,V,ML1,Operating Systems,Monday,12:00 PM,12:55 PM,224 (LT)
+B.Tech CSE,V,ML1,System Design,Monday,12:55 PM,01:50 PM,106 (LT)
+B.Tech CSE,V,ML1,Natural Language Processing and Computer Vision,Monday,03:05 PM,04:00 PM,224 (LT)
+B.Tech CSE,V,ML1,Operating Systems Lab,Tuesday,08:00 AM,09:50 AM,009 (LAB)
+B.Tech CSE,V,ML1,System Design,Tuesday,10:10 AM,11:05 AM,124 (LT)
+B.Tech CSE,V,ML1,Computer Networks,Tuesday,11:05 AM,12:00 PM,224 (LT)
+B.Tech CSE,V,ML1,Career Skill- III,Tuesday,12:00 PM,12:55 PM,114 (CR)
+B.Tech CSE,V,ML1,Database Management Systems,Tuesday,03:05 PM,04:00 PM,117 (CR)
+B.Tech CSE,V,ML1,System Design,Wednesday,12:00 PM,12:55 PM,224 (LT)
+B.Tech CSE,V,ML1,Database Management Systems,Wednesday,02:10 PM,03:05 PM,124 (LT)
+B.Tech CSE,V,ML1,Natural Language Processing and Computer Vision,Wednesday,03:05 PM,04:00 PM,224 (LT)
+B.Tech CSE,V,ML1,Operating Systems,Wednesday,04:00 PM,04:55 PM,117 (CR)
+B.Tech CSE,V,ML1,Career Excellence Classes,Wednesday,04:55 PM,05:50 PM,529 (Audi)
+B.Tech CSE,V,ML1,Computer Networks,Thursday,08:00 AM,08:55 AM,124 (LT)
+B.Tech CSE,V,ML1,Operating Systems,Thursday,08:55 AM,09:50 AM,117 (CR)
+B.Tech CSE,V,ML1,Database Management Systems Lab,Thursday,10:10 AM,12:00 PM,102-B (LAB)
+B.Tech CSE,V,ML1,Natural Language Processing and Computer Vision,Thursday,12:55 PM,01:50 PM,117 (CR)
+B.Tech CSE,V,ML1,Database Management Systems,Thursday,02:10 PM,03:05 PM,124 (LT)
+B.Tech CSE,V,ML1,Career Skill- III,Thursday,03:05 PM,04:00 PM,123 (CR)
+B.Tech CSE,V,ML1,Natural Language Processing and Computer Vision Lab,Friday,08:00 AM,09:50 AM,102-B (LAB)
+B.Tech CSE,V,ML1,Database Management Systems Lab,Friday,12:00 PM,01:50 PM,121 (LAB)
+B.Tech CSE,V,ML1,Computer Networks,Friday,03:05 PM,04:00 PM,106 (LT)
+B.Tech CSE,V,ML1,Career Excellence Classes,Friday,04:55 PM,05:50 PM,529 (Audi)
+B.Tech CSE,V,ML2,Operating Systems,Monday,12:00 PM,12:55 PM,224 (LT)
+B.Tech CSE,V,ML2,System Design,Monday,12:55 PM,01:50 PM,106 (LT)
+B.Tech CSE,V,ML2,Natural Language Processing and Computer Vision,Monday,03:05 PM,04:00 PM,224 (LT)
+B.Tech CSE,V,ML2,Natural Language Processing and Computer Vision Lab,Tuesday,08:00 AM,09:50 AM,302-B (LAB)
+B.Tech CSE,V,ML2,System Design,Tuesday,10:10 AM,11:05 AM,124 (LT)
+B.Tech CSE,V,ML2,Computer Networks,Tuesday,11:05 AM,12:00 PM,224 (LT)
+B.Tech CSE,V,ML2,Database Management Systems Lab,Tuesday,12:00 PM,01:50 PM,002-A (LAB)
+B.Tech CSE,V,ML2,Database Management Systems,Tuesday,03:05 PM,04:00 PM,117 (CR)
+B.Tech CSE,V,ML2,PCS 511,Wednesday,10:10 AM,12:00 PM,302-A (LAB)
+B.Tech CSE,V,ML2,System Design,Wednesday,12:00 PM,12:55 PM,224 (LT)
+B.Tech CSE,V,ML2,Database Management Systems,Wednesday,02:10 PM,03:05 PM,124 (LT)
+B.Tech CSE,V,ML2,Natural Language Processing and Computer Vision,Wednesday,03:05 PM,04:00 PM,224 (LT)
+B.Tech CSE,V,ML2,Operating Systems,Wednesday,04:00 PM,04:55 PM,117 (CR)
+B.Tech CSE,V,ML2,Career Excellence Classes,Wednesday,04:55 PM,05:50 PM,529 (Audi)
+B.Tech CSE,V,ML2,Computer Networks,Thursday,08:00 AM,08:55 AM,124 (LT)
+B.Tech CSE,V,ML2,Operating Systems,Thursday,08:55 AM,09:50 AM,117 (CR)
+B.Tech CSE,V,ML2,Database Management Systems Lab,Thursday,10:10 AM,12:00 PM,209 (LAB)
+B.Tech CSE,V,ML2,Natural Language Processing and Computer Vision,Thursday,12:55 PM,01:50 PM,117 (CR)
+B.Tech CSE,V,ML2,Database Management Systems,Thursday,02:10 PM,03:05 PM,124 (LT)
+B.Tech CSE,V,ML2,Career Skill- III,Friday,08:00 AM,08:55 AM,113 (CR)
+B.Tech CSE,V,ML2,Career Skill- III,Friday,08:55 AM,09:50 AM,017 (CR)
+B.Tech CSE,V,ML2,Natural Language Processing and Computer Vision Lab,Friday,10:10 AM,12:00 PM,302-B (LAB)
+B.Tech CSE,V,ML2,Operating Systems Lab,Friday,12:00 PM,01:50 PM,009 (LAB)
+B.Tech CSE,V,ML2,Computer Networks,Friday,03:05 PM,04:00 PM,106 (LT)
+B.Tech CSE,V,ML2,Career Excellence Classes,Friday,04:55 PM,05:50 PM,529 (Audi)
+B.Tech CSE,V,ML3,Operating Systems Lab,Monday,08:00 AM,09:50 AM,002-A (LAB)
+B.Tech CSE,V,ML3,Database Management Systems,Monday,10:10 AM,11:05 AM,115 (CR)
+B.Tech CSE,V,ML3,Operating Systems,Monday,11:05 AM,12:00 PM,206 (LT)
+B.Tech CSE,V,ML3,System Design,Monday,12:55 PM,01:50 PM,106 (LT)
+B.Tech CSE,V,ML3,Computer Networks,Monday,02:10 PM,03:05 PM,115 (CR)
+B.Tech CSE,V,ML3,Career Skill- III,Monday,03:05 PM,04:00 PM,017 (CR)
+B.Tech CSE,V,ML3,Computer Networks,Tuesday,08:00 AM,08:55 AM,114 (CR)
+B.Tech CSE,V,ML3,Database Management Systems,Tuesday,08:55 AM,09:50 AM,113 (CR)
+B.Tech CSE,V,ML3,System Design,Tuesday,10:10 AM,11:05 AM,124 (LT)
+B.Tech CSE,V,ML3,Natural Language Processing and Computer Vision,Tuesday,11:05 AM,12:00 PM,123 (CR)
+B.Tech CSE,V,ML3,Career Skill- III,Tuesday,12:55 PM,01:50 PM,117 (CR)
+B.Tech CSE,V,ML3,Database Management Systems Lab,Tuesday,02:10 PM,04:00 PM,209 (LAB)
+B.Tech CSE,V,ML3,System Design,Wednesday,12:00 PM,12:55 PM,224 (LT)
+B.Tech CSE,V,ML3,Database Management Systems,Wednesday,12:55 PM,01:50 PM,123 (CR)
+B.Tech CSE,V,ML3,Database Management Systems Lab,Wednesday,02:10 PM,04:00 PM,121 (LAB)
+B.Tech CSE,V,ML3,Natural Language Processing and Computer Vision,Wednesday,04:00 PM,04:55 PM,115 (CR)
+B.Tech CSE,V,ML3,Career Excellence Classes,Wednesday,04:55 PM,05:50 PM,529 (Audi)
+B.Tech CSE,V,ML3,Computer Networks Lab,Thursday,08:00 AM,09:50 AM,102-A (LAB)
+B.Tech CSE,V,ML3,Natural Language Processing and Computer Vision Lab,Thursday,10:10 AM,12:00 PM,121 (LAB)
+B.Tech CSE,V,ML3,Operating Systems,Thursday,12:55 PM,01:50 PM,124 (LT)
+B.Tech CSE,V,ML3,Natural Language Processing and Computer Vision,Thursday,02:10 PM,03:05 PM,116 (CR)
+B.Tech CSE,V,ML3,Computer Networks,Friday,12:00 PM,12:55 PM,017 (CR)
+B.Tech CSE,V,ML3,Natural Language Processing and Computer Vision Lab,Friday,02:10 PM,04:00 PM,102-A (LAB)
+B.Tech CSE,V,ML3,Operating Systems,Friday,04:00 PM,04:55 PM,117 (CR)
+B.Tech CSE,V,ML3,Career Excellence Classes,Friday,04:55 PM,05:50 PM,529 (Audi)
+B.Tech CSE,V,DS1,Computer Networks,Monday,08:00 AM,08:55 AM,113 (CR)
+B.Tech CSE,V,DS1,System Design,Monday,08:55 AM,09:50 AM,106 (LT)
+B.Tech CSE,V,DS1,Database Management Systems,Monday,10:10 AM,11:05 AM,224 (LT)
+B.Tech CSE,V,DS1,Operating Systems,Monday,11:05 AM,12:00 PM,206 (LT)
+B.Tech CSE,V,DS1,Database Management Systems Lab,Tuesday,08:00 AM,09:50 AM,209 (LAB)
+B.Tech CSE,V,DS1,Operating Systems Lab,Tuesday,10:10 AM,12:00 PM,209 (LAB)
+B.Tech CSE,V,DS1,System Design,Tuesday,12:00 PM,12:55 PM,124 (LT)
+B.Tech CSE,V,DS1,Exploratory Data Analysis,Tuesday,02:10 PM,03:05 PM,123 (CR)
+B.Tech CSE,V,DS1,Database Management Systems,Tuesday,03:05 PM,04:00 PM,124 (LT)
+B.Tech CSE,V,DS1,Data Science Lab- I,Wednesday,10:10 AM,12:00 PM,302-B (LAB)
+B.Tech CSE,V,DS1,Database Management Systems Lab,Wednesday,12:00 PM,01:50 PM,209 (LAB)
+B.Tech CSE,V,DS1,Computer Networks,Wednesday,02:10 PM,03:05 PM,017 (CR)
+B.Tech CSE,V,DS1,Exploratory Data Analysis,Wednesday,04:00 PM,04:55 PM,114 (CR)
+B.Tech CSE,V,DS1,Career Excellence Classes,Wednesday,04:55 PM,05:50 PM,529 (Audi)
+B.Tech CSE,V,DS1,Career Skill- III,Thursday,08:00 AM,08:55 AM,114 (CR)
+B.Tech CSE,V,DS1,Career Skill- III,Thursday,08:55 AM,09:50 AM,115 (CR)
+B.Tech CSE,V,DS1,Data Science Lab- I,Thursday,10:10 AM,12:00 PM,002-B (LAB)
+B.Tech CSE,V,DS1,Database Management Systems,Thursday,12:00 PM,12:55 PM,117 (CR)
+B.Tech CSE,V,DS1,Operating Systems,Thursday,12:55 PM,01:50 PM,124 (LT)
+B.Tech CSE,V,DS1,System Design,Thursday,03:05 PM,04:00 PM,106 (LT)
+B.Tech CSE,V,DS1,Computer Networks Lab,Friday,12:00 PM,01:50 PM,102-B (LAB)
+B.Tech CSE,V,DS1,Computer Networks,Friday,02:10 PM,03:05 PM,123 (CR)
+B.Tech CSE,V,DS1,Exploratory Data Analysis,Friday,03:05 PM,04:00 PM,115 (CR)
+B.Tech CSE,V,DS1,Operating Systems,Friday,04:00 PM,04:55 PM,117 (CR)
+B.Tech CSE,V,DS1,Career Excellence Classes,Friday,04:55 PM,05:50 PM,529 (Audi)
+B.Tech,I,A1,Physics Lab,Monday,04:00 PM,05:50 PM,CR-406
+B.Tech,I,A1,Fundamental of Computers & Introduction to Programming,Monday,12:55 PM,01:50 PM,CR-406
+B.Tech,I,A1,Basic Electrical Engineering Lab,Monday,04:00 PM,05:50 PM,CR-406
+B.Tech,I,A1,Physics Lab,Tuesday,04:00 PM,05:50 PM,CR-406
+B.Tech,I,A1,Engineering Physics,Tuesday,03:05 PM,04:00 PM,CR-406
+B.Tech,I,A1,Engineering Physics,Wednesday,03:05 PM,04:00 PM,CR-406
+B.Tech,I,A1,Computer Lab-I,Wednesday,04:00 PM,05:50 PM,LAB2
+B.Tech,I,A1,Engineering Mathematics-I,Wednesday,12:00 PM,12:55 PM,CR-406
+B.Tech,I,A1,Fundamental of Computers & Introduction to Programming,Wednesday,12:55 PM,01:50 PM,CR-406
+B.Tech,I,A1,Engineering Mathematics-I,Thursday,12:00 PM,12:55 PM,CR-406
+B.Tech,I,A1,Basic Electrical Engineering,Friday,12:00 PM,12:55 PM,CR-406
+B.Tech,I,A1,Design Thinking Lab,Saturday,02:10 PM,04:00 PM,CR-422
+B.Tech,I,A1,Engineering Mathematics-I,Saturday,04:00 PM,04:55 PM,CR-422
+B.Tech,I,A1,Engineering Mathematics-I,Saturday,04:55 PM,05:50 PM,CR-422
+B.Tech,I,A1,Engineering Physics,Saturday,12:55 PM,01:50 PM,CR-406
+B.Tech,I,B1,Design Thinking Lab,Monday,10:10 AM,12:00 PM,CR-412
+B.Tech,I,B1,Design Thinking Lab,Monday,12:00 PM,01:50 PM,CR-412
+B.Tech,I,B1,Engineering Physics,Monday,08:55 AM,09:50 AM,CR-422
+B.Tech,I,B1,Physics Lab,Tuesday,08:55 AM,11:05 AM,CR-422
+B.Tech,I,B1,Engineering Physics,Tuesday,11:05 AM,12:00 PM,CR-422
+B.Tech,I,B1,Engineering Mathematics-I,Tuesday,12:00 PM,12:55 PM,CR-422
+B.Tech,I,B1,Engineering Mathematics-I,Wednesday,08:55 AM,09:50 AM,CR-412
+B.Tech,I,B1,Engineering Physics,Wednesday,12:00 PM,12:55 PM,CR-422
+B.Tech,I,B1,Professional Communication,Thursday,08:55 AM,09:50 AM,CR-422
+B.Tech,I,B1,Computer Lab-I,Friday,08:00 AM,09:50 AM,LAB
+B.Tech,I,B1,Computer Lab-I,Saturday,08:00 AM,09:50 AM,LAB
+B.Tech,I,AI-1,Basic Electrical Engineering Lab,Monday,11:05 AM,12:55 PM,CR-406
+B.Tech,I,AI-1,Fundamental of Computers & Introduction to Programming,Tuesday,08:55 AM,09:50 AM,CR-406
+B.Tech,I,AI-1,Fundamental of Computers & Introduction to Programming,Tuesday,10:10 AM,11:05 AM,CR-406
+B.Tech,I,AI-1,Computer Lab-I,Thursday,11:05 AM,12:55 PM,LAB 2
+B.Tech,I,AI-1,Basic Electrical Engineering Lab,Friday,08:55 AM,11:05 AM,CR-406
+B.Tech,I,AI-1,Basic Electrical Engineering Lab,Friday,08:00 AM,09:50 AM,CR-406
+B.Tech,I,AI-1,Fundamental of Computers & Introduction to Programming,Saturday,02:10 PM,03:05 PM,CR-416
+B.Tech,I,AI-1,Fundamental of Computers & Introduction to Programming,Saturday,08:55 AM,09:50 AM,CR-406
+B.Tech,I,AI-2,Fundamental of Computers & Introduction to Programming,Monday,08:55 AM,09:50 AM,CR-317
+B.Tech,I,AI-2,Engineering Mathematics-I,Monday,10:10 AM,11:05 AM,CR-317
+B.Tech,I,AI-2,Fundamental of Computers & Introduction to Programming,Tuesday,10:10 AM,11:05 AM,CR-317
+B.Tech,I,AI-2,Engineering Mathematics-I,Tuesday,11:05 AM,12:00 PM,CR-317
+B.Tech,I,AI-2,Basic Electrical Engineering Lab,Tuesday,12:00 PM,01:50 PM,CR-317
+B.Tech,I,AI-2,Basic Electrical Engineering Lab,Wednesday,08:00 AM,09:50 AM,CR-317
+B.Tech,I,AI-2,Engineering Mathematics-I,Wednesday,11:05 AM,12:00 PM,CR-317
+B.Tech,I,AI-2,Fundamental of Computers & Introduction to Programming,Thursday,08:55 AM,09:50 AM,CR-317
+B.Tech,I,AI-2,Computer Lab-I,Thursday,12:00 PM,01:50 PM,CR-317
+B.Tech,I,AI-2,Engineering Mathematics-I,Thursday,11:05 AM,12:00 PM,CR-317
+B.Tech,I,AI-2,Fundamental of Computers & Introduction to Programming,Friday,08:55 AM,09:50 AM,CR-317
+B.Tech,I,AI-2,Basic Electrical Engineering,Friday,10:10 AM,11:05 AM,CR-317
+B.Tech,I,AI-2,Fundamental of Computers & Introduction to Programming,Friday,11:05 AM,12:00 PM,CR-317
+B.Tech,I,AI-2,Basic Electrical Engineering Lab,Friday,12:00 PM,01:50 PM,CR-317
+B.Tech,I,AI-2,Basic Electrical Engineering,Saturday,10:10 AM,11:05 AM,CR-317
+B.Tech,I,AI-2,Basic Electrical Engineering Lab,Saturday,02:10 PM,04:00 PM,CR-317
+B.Tech,I,AI-3,Engineering Mathematics-I,Monday,11:05 AM,12:00 PM,CR-416
+B.Tech,I,AI-3,Fundamental of Computers & Introduction to Programming,Monday,12:00 PM,12:55 PM,CR-422
+B.Tech,I,AI-3,Engineering Mathematics-I,Monday,02:10 PM,03:05 PM,CR-412
+B.Tech,I,AI-3,Computer Lab-I,Monday,03:05 PM,04:55 PM,LAB
+B.Tech,I,AI-3,Engineering Mathematics-I,Tuesday,02:10 PM,03:05 PM,CR-412
+B.Tech,I,AI-3,Basic Electrical Engineering,Wednesday,12:00 PM,12:55 PM,CR-317
+B.Tech,I,AI-3,Basic Electrical Engineering,Wednesday,12:55 PM,01:50 PM,CR-317
+B.Tech,I,AI-3,Fundamental of Computers & Introduction to Programming,Wednesday,02:10 PM,03:05 PM,CR-313
+B.Tech,I,AI-3,Basic Electrical Engineering Lab,Thursday,11:05 AM,12:55 PM,CR-317
+B.Tech,I,AI-3,Engineering Mathematics-I,Thursday,03:05 PM,04:00 PM,CR-317
+B.Tech,I,AI-3,Engineering Mathematics-I,Thursday,04:00 PM,04:55 PM,CR-317
+B.Tech,I,AI-3,Fundamental of Computers & Introduction to Programming,Friday,08:00 AM,08:55 AM,CR-313
+B.Tech,I,AI-3,Basic Electrical Engineering Lab,Friday,08:55 AM,11:05 AM,CR-317
+B.Tech,I,AI-3,Fundamental of Computers & Introduction to Programming,Saturday,11:05 AM,12:00 PM,CR-416
+B.Tech,I,AI-4,Basic Electrical Engineering Lab,Monday,08:55 AM,11:05 AM,CR-313
+B.Tech,I,AI-4,Computer Lab-I,Tuesday,11:05 AM,12:55 PM,LAB
+B.Tech,I,AI-4,Fundamental of Computers & Introduction to Programming,Tuesday,10:10 AM,11:05 AM,CR-313
+B.Tech,I,AI-4,Basic Electrical Engineering,Wednesday,03:05 PM,04:00 PM,CR-313
+B.Tech,I,AI-4,Fundamental of Computers & Introduction to Programming,Wednesday,11:05 AM,12:00 PM,CR-313
+B.Tech,I,AI-4,Basic Electrical Engineering Lab,Thursday,08:55 AM,11:05 AM,CR-313
+B.Tech,I,AI-4,Fundamental of Computers & Introduction to Programming,Thursday,11:05 AM,12:00 PM,CR-313
+B.Tech,I,AI-4,Computer Lab-I,Friday,11:05 AM,12:55 PM,LAB
+B.Tech,I,AI-4,Fundamental of Computers & Introduction to Programming,Friday,12:55 PM,01:50 PM,CR-313
+B.Tech,I,AI-4,Basic Electrical Engineering,Saturday,10:10 AM,11:05 AM,CR-313
+B.Tech,I,AI-5,Fundamental of Computers & Introduction to Programming,Monday,12:55 PM,01:50 PM,CR-313
+B.Tech,I,AI-5,Fundamental of Computers & Introduction to Programming,Tuesday,12:55 PM,01:50 PM,CR-313
+B.Tech,I,AI-5,Computer Lab-I,Wednesday,02:10 PM,04:00 PM,LAB 2
+B.Tech,I,AI-5,Fundamental of Computers & Introduction to Programming,Wednesday,12:55 PM,01:50 PM,CR-313
+B.Tech,I,AI-5,Basic Electrical Engineering Lab,Thursday,04:00 PM,05:50 PM,CR-313
+B.Tech,I,AI-5,Fundamental of Computers & Introduction to Programming,Thursday,02:10 PM,03:05 PM,CR-313
+B.Tech,I,AI-5,Basic Electrical Engineering Lab,Friday,04:00 PM,05:50 PM,CR-313
+B.Tech,I,AI-5,Fundamental of Computers & Introduction to Programming,Saturday,03:05 PM,04:00 PM,CR-313
+B.Tech,I,AI-6,Computer Lab-I,Monday,11:05 AM,12:55 PM,LAB 5
+B.Tech,I,AI-6,Basic Electrical Engineering,Monday,12:55 PM,01:50 PM,CR-416
+B.Tech,I,AI-6,Fundamental of Computers & Introduction to Programming,Monday,10:10 AM,11:05 AM,CR-416
+B.Tech,I,AI-6,Basic Electrical Engineering Lab,Tuesday,08:55 AM,11:05 AM,CR-416
+B.Tech,I,AI-6,Fundamental of Computers & Introduction to Programming,Tuesday,11:05 AM,12:00 PM,CR-416
+B.Tech,I,AI-6,Fundamental of Computers & Introduction to Programming,Tuesday,12:55 PM,01:50 PM,CR-416
+B.Tech,I,AI-6,Basic Electrical Engineering Lab,Tuesday,08:00 AM,09:50 AM,CR-416
+B.Tech,I,AI-6,Fundamental of Computers & Introduction to Programming,Wednesday,12:00 PM,12:55 PM,CR-416
+B.Tech,I,AI-6,Fundamental of Computers & Introduction to Programming,Thursday,12:55 PM,01:50 PM,CR-416
+B.Tech,I,AI-6,Computer Lab-I,Friday,08:55 AM,11:05 AM,LAB 5
+B.Tech,I,AI-6,Basic Electrical Engineering Lab,Saturday,08:00 AM,09:50 AM,CR-416
+B.Tech,I,AI-6,Basic Electrical Engineering,Saturday,12:55 PM,01:50 PM,CR-416
+B.Tech,I,AI-6,Basic Electrical Engineering Lab,Saturday,08:55 AM,11:05 AM,CR-416
+B.Tech,I,AI-7,Basic Electrical Engineering,Tuesday,11:05 AM,12:00 PM,CR-412
+B.Tech,I,AI-7,Fundamental of Computers & Introduction to Programming,Tuesday,08:55 AM,09:50 AM,CR-412
+B.Tech,I,AI-7,Fundamental of Computers & Introduction to Programming,Tuesday,02:10 PM,03:05 PM,CR-412
+B.Tech,I,AI-7,Basic Electrical Engineering,Wednesday,04:00 PM,04:55 PM,CR-412
+B.Tech,I,AI-7,Basic Electrical Engineering Lab,Wednesday,02:10 PM,04:00 PM,CR-412
+B.Tech,I,AI-7,Basic Electrical Engineering Lab,Thursday,02:10 PM,04:00 PM,CR-412
+B.Tech,I,AI-7,Basic Electrical Engineering Lab,Friday,02:10 PM,04:00 PM,CR-412
+B.Tech,I,AI-7,Fundamental of Computers & Introduction to Programming,Friday,04:00 PM,04:55 PM,CR-412
+B.Tech,I,AI-7,Fundamental of Computers & Introduction to Programming,Saturday,08:00 AM,08:55 AM,CR-412
+B.Tech,I,AI-7,Fundamental of Computers & Introduction to Programming,Saturday,08:55 AM,09:50 AM,CR-412
+B.Tech,I,AI-8,Basic Electrical Engineering,Monday,12:55 PM,01:50 PM,CR-406
+B.Tech,I,AI-8,Fundamental of Computers & Introduction to Programming,Monday,02:10 PM,03:05 PM,CR-406
+B.Tech,I,AI-8,Basic Electrical Engineering Lab,Tuesday,02:10 PM,04:00 PM,CR-406
+B.Tech,I,AI-8,Fundamental of Computers & Introduction to Programming,Tuesday,04:00 PM,04:55 PM,CR-406
+B.Tech,I,AI-8,Basic Electrical Engineering Lab,Wednesday,04:00 PM,05:50 PM,CR-406
+B.Tech,I,AI-8,Basic Electrical Engineering,Thursday,12:00 PM,12:55 PM,CR-406
+B.Tech,I,AI-8,Fundamental of Computers & Introduction to Programming,Thursday,02:10 PM,03:05 PM,CR-406
+B.Tech,I,AI-8,Fundamental of Computers & Introduction to Programming,Friday,03:05 PM,04:00 PM,CR-406
+B.Tech,I,AI-9,Basic Electrical Engineering,Tuesday,11:05 AM,12:00 PM,CR-416
+B.Tech,I,AI-9,Basic Electrical Engineering Lab,Wednesday,12:00 PM,01:50 PM,CR-416
+B.Tech,I,AI-9,Basic Electrical Engineering,Thursday,02:10 PM,03:05 PM,CR-416
+B.Tech,I,AI-9,Fundamental of Computers & Introduction to Programming,Thursday,03:05 PM,04:00 PM,CR-416
+B.Tech,I,AI-9,Fundamental of Computers & Introduction to Programming,Friday,04:00 PM,04:55 PM,CR-416
+B.Tech,I,AI-9,Fundamental of Computers & Introduction to Programming,Saturday,08:55 AM,09:50 AM,CR-416
+B.Tech,I,AI-9,Basic Electrical Engineering Lab,Saturday,12:00 PM,01:50 PM,CR-416
+B.Tech,I,AI-9,Computer Lab-I,Saturday,02:10 PM,04:00 PM,LAB 5
+B.Tech,I,AI-10,Basic Electrical Engineering,Monday,12:00 PM,12:55 PM,CR-406
+B.Tech,I,AI-10,Fundamental of Computers & Introduction to Programming,Monday,10:10 AM,11:05 AM,CR-406
+B.Tech,I,AI-10,Basic Electrical Engineering,Tuesday,12:55 PM,01:50 PM,CR-406
+B.Tech,I,AI-10,Basic Electrical Engineering Lab,Thursday,11:05 AM,12:55 PM,CR-406
+B.Tech,I,AI-10,Fundamental of Computers & Introduction to Programming,Thursday,10:10 AM,11:05 AM,CR-406
+B.Tech,I,AI-10,Fundamental of Computers & Introduction to Programming,Thursday,03:05 PM,04:00 PM,CR-406
+B.Tech,I,AI-10,Fundamental of Computers & Introduction to Programming,Friday,10:10 AM,11:05 AM,CR-406
+B.Tech,I,AI-10,Fundamental of Computers & Introduction to Programming,Friday,03:05 PM,04:00 PM,CR-406
+B.Tech,I,AI-10,Basic Electrical Engineering Lab,Saturday,11:05 AM,12:55 PM,CR-406
+B.Tech,I,A2,Fundamental of Computers & Introduction to Programming,Monday,10:10 AM,11:05 AM,CR-412
+B.Tech,I,A2,Engineering Mathematics-I,Monday,12:00 PM,12:55 PM,CR-412
+B.Tech,I,A2,Basic Electrical Engineering Lab,Tuesday,11:05 AM,12:55 PM,CR-412
+B.Tech,I,A2,Basic Electrical Engineering Lab,Wednesday,11:05 AM,12:55 PM,CR-412
+B.Tech,I,A2,Fundamental of Computers & Introduction to Programming,Wednesday,08:00 AM,08:55 AM,CR-412
+B.Tech,I,A2,Engineering Mathematics-I,Wednesday,12:55 PM,01:50 PM,CR-412
+B.Tech,I,A2,Fundamental of Computers & Introduction to Programming,Thursday,10:10 AM,11:05 AM,CR-412
+B.Tech,I,A2,Fundamental of Computers & Introduction to Programming,Thursday,11:05 AM,12:00 PM,CR-412
+B.Tech,I,A2,Engineering Mathematics-I,Thursday,12:00 PM,12:55 PM,CR-412
+B.Tech,I,A2,Engineering Mathematics-I,Thursday,04:55 PM,05:50 PM,CR-412
+B.Tech,I,A2,Fundamental of Computers & Introduction to Programming,Friday,10:10 AM,11:05 AM,CR-412
+B.Tech,I,A2,Computer Lab-I,Friday,12:55 PM,03:05 PM,LAB
+B.Tech,I,B2,Basic Electrical Engineering Lab,Monday,12:00 PM,01:50 PM,CR-317
+B.Tech,I,B2,Basic Electrical Engineering Lab,Monday,11:05 AM,12:55 PM,CR-317
+B.Tech,I,B2,Computer Lab-I,Tuesday,04:00 PM,05:50 PM,LAB
+B.Tech,I,B2,Engineering Mathematics-I,Tuesday,02:10 PM,03:05 PM,CR-317
+B.Tech,I,B2,Fundamental of Computers & Introduction to Programming,Tuesday,03:05 PM,04:00 PM,CR-317
+B.Tech,I,B2,Basic Electrical Engineering,Thursday,12:55 PM,01:50 PM,CR-317
+B.Tech,I,B2,Computer Lab-I,Thursday,03:05 PM,04:55 PM,LAB
+B.Tech,I,B2,Basic Electrical Engineering Lab,Friday,02:10 PM,04:00 PM,CR-317
+B.Tech,I,B2,Fundamental of Computers & Introduction to Programming,Friday,11:05 AM,12:00 PM,CR-317
+B.Tech,I,B2,Fundamental of Computers & Introduction to Programming,Friday,12:55 PM,01:50 PM,CR-317
+B.Tech,I,B2,Basic Electrical Engineering,Saturday,03:05 PM,04:00 PM,CR-317
+B.Tech,I,B2,Fundamental of Computers & Introduction to Programming,Saturday,04:55 PM,05:50 PM,CR-317
+B.Tech,I,C2,Physics Lab,Monday,11:05 AM,12:55 PM,CR-317
+B.Tech,I,C2,Engineering Physics,Monday,10:10 AM,11:05 AM,CR-317
+B.Tech,I,C2,Basic Electrical Engineering Lab,Monday,11:05 AM,12:55 PM,CR-317
+B.Tech,I,C2,Physics Lab,Tuesday,11:05 AM,12:55 PM,CR-317
+B.Tech,I,C2,Professional Communication,Tuesday,08:00 AM,08:55 AM,CR-317
+B.Tech,I,C2,Engineering Mathematics-I,Tuesday,10:10 AM,11:05 AM,CR-317
+B.Tech,I,C2,Engineering Physics,Tuesday,12:55 PM,01:50 PM,CR-317
+B.Tech,I,C2,Basic Electrical Engineering Lab,Tuesday,11:05 AM,12:55 PM,CR-317
+B.Tech,I,C2,Engineering Mathematics-I,Wednesday,08:00 AM,08:55 AM,CR-317
+B.Tech,I,C2,Basic Electrical Engineering,Wednesday,12:55 PM,01:50 PM,CR-317
+B.Tech,I,C2,Engineering Mathematics-I,Thursday,08:00 AM,08:55 AM,CR-317
+B.Tech,I,C2,Computer Lab-I,Thursday,11:05 AM,12:55 PM,LAB
+B.Tech,I,C2,Engineering Physics,Thursday,10:10 AM,11:05 AM,CR-317
+B.Tech,I,C2,Basic Electrical Engineering,Thursday,12:55 PM,01:50 PM,CR-317
+B.Tech,I,C2,Engineering Mathematics-I,Friday,08:00 AM,08:55 AM,CR-317
+B.Tech,I,C2,Professional Communication,Friday,10:10 AM,11:05 AM,CR-317
+B.Tech,I,C2,Design Thinking Lab,Saturday,08:00 AM,09:50 AM,CR-317
+B.Tech,I,C2,Design Thinking Lab,Saturday,08:55 AM,11:05 AM,CR-317
+B.Tech,I,C2,Computer Lab-I,Saturday,11:05 AM,12:55 PM,CR-317
+B.Tech,I,D2,Design Thinking Lab,Monday,12:00 PM,01:50 PM,CR-317
+B.Tech,I,D2,Fundamental of Computers & Introduction to Programming,Monday,02:10 PM,03:05 PM,CR-317
+B.Tech,I,D2,Basic Electrical Engineering,Monday,03:05 PM,04:00 PM,CR-317
+B.Tech,I,D2,Computer Lab-I,Monday,04:00 PM,05:50 PM,LAB
+B.Tech,I,D2,Fundamental of Computers & Introduction to Programming,Tuesday,12:55 PM,01:50 PM,CR-317
+B.Tech,I,D2,Physics Lab,Wednesday,02:10 PM,04:00 PM,CR-317
+B.Tech,I,D2,Engineering Mathematics-I,Wednesday,12:55 PM,01:50 PM,CR-317
+B.Tech,I,D2,Engineering Physics,Wednesday,04:55 PM,05:50 PM,CR-317
+B.Tech,I,D2,Engineering Mathematics-I,Thursday,12:55 PM,01:50 PM,CR-317
+B.Tech,I,D2,Engineering Physics,Thursday,02:10 PM,03:05 PM,CR-416
+B.Tech,I,D2,Physics Lab,Thursday,04:00 PM,05:50 PM,CR-317
+B.Tech,I,D2,Basic Electrical Engineering Lab,Thursday,04:00 PM,05:50 PM,CR-317
+B.Tech,I,D2,Computer Lab-I,Friday,04:00 PM,05:50 PM,LAB
+B.Tech,I,D2,Fundamental of Computers & Introduction to Programming,Friday,02:10 PM,03:05 PM,CR-317
+B.Tech,I,D2,Engineering Mathematics-I,Friday,03:05 PM,04:00 PM,CR-317
+B.Tech,I,D2,Engineering Physics,Saturday,12:55 PM,01:50 PM,CR-317
+B.Tech,I,D2,Engineering Mathematics-I,Saturday,02:10 PM,03:05 PM,CR-317
+B.Tech,I,D2,Professional Communication,Saturday,03:05 PM,04:00 PM,CR-317
+B.Tech,I,E2,Engineering Physics,Monday,08:00 AM,08:55 AM,CR-313
+B.Tech,I,E2,Engineering Mathematics-I,Monday,12:00 PM,12:55 PM,CR-313
+B.Tech,I,E2,Engineering Mathematics-I,Tuesday,03:05 PM,04:00 PM,CR-313
+B.Tech,I,E2,Basic Electrical Engineering,Tuesday,04:55 PM,05:50 PM,CR-313
+B.Tech,I,E2,Professional Communication,Wednesday,08:00 AM,08:55 AM,CR-313
+B.Tech,I,E2,Engineering Physics,Wednesday,10:10 AM,11:05 AM,CR-313
+B.Tech,I,E2,Engineering Mathematics-I,Wednesday,03:05 PM,04:00 PM,CR-313
+B.Tech,I,E2,Engineering Mathematics-I,Thursday,08:00 AM,08:55 AM,CR-313
+B.Tech,I,E2,Engineering Physics,Thursday,10:10 AM,11:05 AM,CR-313
+B.Tech,I,E2,Physics Lab,Friday,11:05 AM,12:55 PM,CR-313
+B.Tech,I,E2,Basic Electrical Engineering Lab,Friday,08:00 AM,09:50 AM,CR-313
+B.Tech,I,E2,Basic Electrical Engineering Lab,Friday,11:05 AM,12:55 PM,CR-313
+B.Tech,I,E2,Physics Lab,Saturday,11:05 AM,12:55 PM,CR-313
+B.Tech,I,E2,Design Thinking Lab,Saturday,08:00 AM,09:50 AM,CR-313
+B.Tech,I,F2,Physics Lab,Monday,03:05 PM,04:55 PM,CR-412
+B.Tech,I,F2,Basic Electrical Engineering,Monday,12:00 PM,12:55 PM,CR-412
+B.Tech,I,F2,Fundamental of Computers & Introduction to Programming,Monday,04:55 PM,05:50 PM,CR-412
+B.Tech,I,F2,Basic Electrical Engineering Lab,Monday,03:05 PM,04:55 PM,CR-412
+B.Tech,I,F2,Professional Communication,Tuesday,04:55 PM,05:50 PM,CR-412
+B.Tech,I,F2,Fundamental of Computers & Introduction to Programming,Wednesday,12:55 PM,01:50 PM,CR-412
+B.Tech,I,F2,Basic Electrical Engineering,Wednesday,03:05 PM,04:00 PM,CR-412
+B.Tech,I,F2,Engineering Physics,Wednesday,04:00 PM,04:55 PM,CR-412
+B.Tech,I,F2,Professional Communication,Thursday,12:00 PM,12:55 PM,CR-412
+B.Tech,I,F2,Engineering Mathematics-I,Thursday,12:55 PM,01:50 PM,CR-412
+B.Tech,I,F2,Computer Lab-I,Thursday,03:05 PM,04:55 PM,LAB 5
+B.Tech,I,F2,Physics Lab,Friday,02:10 PM,04:00 PM,CR-412
+B.Tech,I,F2,Fundamental of Computers & Introduction to Programming,Friday,12:00 PM,12:55 PM,CR-412
+B.Tech,I,F2,Engineering Mathematics-I,Friday,12:55 PM,01:50 PM,CR-412
+B.Tech,I,F2,Basic Electrical Engineering Lab,Friday,03:05 PM,04:55 PM,CR-412
+B.Tech,I,F2,Engineering Physics,Saturday,12:00 PM,12:55 PM,CR-412
+B.Tech,I,F2,Engineering Mathematics-I,Saturday,02:10 PM,03:05 PM,CR-412
+B.Tech,I,F2,Design Thinking Lab,Saturday,03:05 PM,04:55 PM,CR-412
+B.Tech,I,G2,Computer Lab-I,Monday,08:55 AM,11:05 AM,LAB 2
+B.Tech,I,G2,Design Thinking Lab,Monday,11:05 AM,12:55 PM,CR-422
+B.Tech,I,G2,Physics Lab,Monday,12:55 PM,03:05 PM,CR-412
+B.Tech,I,G2,Healthy Living & Fitness,Monday,04:00 PM,04:55 PM,CR-412
+B.Tech,I,G2,Basic Electrical Engineering Lab,Monday,12:55 PM,03:05 PM,CR-412
+B.Tech,I,G2,Healthy Living & Fitness,Monday,04:55 PM,05:50 PM,CR-412
+B.Tech,I,G2,Engineering Physics,Tuesday,08:00 AM,08:55 AM,CR-412
+B.Tech,I,G2,Professional Communication,Tuesday,10:10 AM,11:05 AM,CR-412
+B.Tech,I,G2,Basic Electrical Engineering Lab,Wednesday,08:55 AM,11:05 AM,CR-412
+B.Tech,I,G2,Basic Electrical Engineering,Wednesday,11:05 AM,12:00 PM,CR-412
+B.Tech,I,G2,Engineering Physics,Thursday,08:00 AM,08:55 AM,CR-412
+B.Tech,I,G2,Engineering Mathematics-I,Thursday,10:10 AM,11:05 AM,CR-412
+B.Tech,I,G2,Physics Lab,Thursday,11:05 AM,12:55 PM,CR-412
+B.Tech,I,G2,Professional Communication,Friday,08:00 AM,08:55 AM,CR-412
+B.Tech,I,G2,Engineering Mathematics-I,Friday,10:10 AM,11:05 AM,CR-412
+B.Tech,I,G2,Computer Lab-I,Saturday,11:05 AM,12:55 PM,LAB 5
+B.Tech,I,G2,Engineering Mathematics-I,Saturday,08:00 AM,08:55 AM,CR-412
+B.Tech,I,G2,Engineering Physics,Saturday,10:10 AM,11:05 AM,CR-412
+B.Tech,I,H2,Engineering Physics,Monday,02:10 PM,03:05 PM,CR-313
+B.Tech,I,H2,Design Thinking Lab,Monday,03:05 PM,04:55 PM,CR-313
+B.Tech,I,H2,Design Thinking Lab,Monday,04:00 PM,05:50 PM,CR-313
+B.Tech,I,H2,Basic Electrical Engineering Lab,Tuesday,12:55 PM,03:05 PM,CR-313
+B.Tech,I,H2,Basic Electrical Engineering,Tuesday,04:00 PM,04:55 PM,CR-416
+B.Tech,I,H2,Fundamental of Computers & Introduction to Programming,Tuesday,04:55 PM,05:50 PM,CR-416
+B.Tech,I,H2,Physics Lab,Tuesday,02:10 PM,04:00 PM,CR-313
+B.Tech,I,H2,Engineering Physics,Wednesday,04:00 PM,04:55 PM,CR-313
+B.Tech,I,H2,Engineering Mathematics-I,Wednesday,04:55 PM,05:50 PM,CR-313
+B.Tech,I,H2,Fundamental of Computers & Introduction to Programming,Thursday,02:10 PM,03:05 PM,CR-313
+B.Tech,I,H2,Engineering Mathematics-I,Thursday,04:00 PM,04:55 PM,CR-313
+B.Tech,I,H2,Engineering Physics,Thursday,04:55 PM,05:50 PM,CR-313
+B.Tech,I,H2,Computer Lab-I,Friday,12:00 PM,01:50 PM,LAB 5
+B.Tech,I,H2,Basic Electrical Engineering,Friday,02:10 PM,03:05 PM,CR-313
+B.Tech,I,H2,Professional Communication,Friday,04:55 PM,05:50 PM,CR-313
+B.Tech,I,H2,Basic Electrical Engineering Lab,Saturday,04:00 PM,05:50 PM,CR-313
+B.Tech,I,H2,Professional Communication,Saturday,12:55 PM,01:50 PM,CR-313
+B.Tech,I,H2,Physics Lab,Saturday,02:10 PM,04:00 PM,CR-313
+B.Tech,I,I2,Fundamental of Computers & Introduction to Programming,Monday,11:05 AM,12:00 PM,CR-416
+B.Tech,I,I2,Professional Communication,Monday,12:00 PM,12:55 PM,CR-416
+B.Tech,I,I2,Professional Communication,Monday,08:00 AM,08:55 AM,CR-416
+B.Tech,I,I2,Engineering Physics,Monday,10:10 AM,11:05 AM,CR-416
+B.Tech,I,I2,Engineering Mathematics-I,Tuesday,08:00 AM,08:55 AM,CR-416
+B.Tech,I,I2,Fundamental of Computers & Introduction to Programming,Tuesday,10:10 AM,11:05 AM,CR-416
+B.Tech,I,I2,Basic Electrical Engineering Lab,Tuesday,11:05 AM,12:55 PM,CR-416
+B.Tech,I,I2,Physics Lab,Wednesday,11:05 AM,12:55 PM,CR-416
+B.Tech,I,I2,Computer Lab-I,Wednesday,11:05 AM,12:55 PM,LAB 2
+B.Tech,I,I2,Engineering Mathematics-I,Wednesday,08:00 AM,08:55 AM,CR-416
+B.Tech,I,I2,Basic Electrical Engineering,Wednesday,10:10 AM,11:05 AM,CR-416
+B.Tech,I,I2,Physics Lab,Wednesday,12:55 PM,03:05 PM,CR-416
+B.Tech,I,I2,Design Thinking Lab,Thursday,08:55 AM,11:05 AM,CR-416
+B.Tech,I,I2,Fundamental of Computers & Introduction to Programming,Thursday,11:05 AM,12:00 PM,CR-416
+B.Tech,I,I2,Engineering Physics,Thursday,12:00 PM,12:55 PM,CR-416
+B.Tech,I,I2,Engineering Physics,Friday,08:00 AM,08:55 AM,CR-416
+B.Tech,I,I2,Engineering Mathematics-I,Friday,12:00 PM,12:55 PM,CR-416
+B.Tech,I,I2,Fundamental of Computers & Introduction to Programming,Saturday,08:00 AM,08:55 AM,CR-416
+B.Tech,I,J2,Professional Communication,Monday,02:10 PM,03:05 PM,CR-412
+B.Tech,I,J2,Engineering Physics,Monday,12:00 PM,12:55 PM,CR-416
+B.Tech,I,J2,Physics Lab,Tuesday,12:00 PM,01:50 PM,CR-416
+B.Tech,I,J2,Fundamental of Computers & Introduction to Programming,Tuesday,02:10 PM,03:05 PM,CR-416
+B.Tech,I,J2,Engineering Mathematics-I,Tuesday,03:05 PM,04:00 PM,CR-416
+B.Tech,I,J2,Basic Electrical Engineering,Tuesday,04:00 PM,04:55 PM,CR-317
+B.Tech,I,J2,Basic Electrical Engineering Lab,Tuesday,12:00 PM,01:50 PM,CR-416
+B.Tech,I,J2,Engineering Mathematics-I,Wednesday,12:55 PM,01:50 PM,CR-416
+B.Tech,I,J2,Engineering Physics,Wednesday,03:05 PM,04:00 PM,CR-416
+B.Tech,I,J2,Computer Lab-I,Wednesday,04:00 PM,05:50 PM,LAB 5
+B.Tech,I,J2,Design Thinking Lab,Thursday,12:55 PM,03:05 PM,CR-422
+B.Tech,I,J2,Basic Electrical Engineering,Thursday,03:05 PM,04:00 PM,CR-416
+B.Tech,I,J2,Fundamental of Computers & Introduction to Programming,Thursday,04:00 PM,04:55 PM,CR-416
+B.Tech,I,J2,Engineering Mathematics-I,Thursday,04:55 PM,05:50 PM,CR-416
+B.Tech,I,J2,Physics Lab,Friday,12:00 PM,01:50 PM,CR-416
+B.Tech,I,J2,Fundamental of Computers & Introduction to Programming,Friday,02:10 PM,03:05 PM,CR-416
+B.Tech,I,J2,Engineering Physics,Friday,03:05 PM,04:00 PM,CR-416
+B.Tech,I,J2,Computer Lab-I,Friday,04:00 PM,05:50 PM,LAB 2
+B.Tech,I,J2,Basic Electrical Engineering Lab,Friday,12:00 PM,01:50 PM,CR-416
+B.Tech,I,K2,Computer Lab-I,Monday,12:55 PM,03:05 PM,LAB 2
+B.Tech,I,K2,Engineering Physics,Monday,04:55 PM,05:50 PM,CR-422
+B.Tech,I,K2,Basic Electrical Engineering Lab,Monday,08:55 AM,11:05 AM,CR-422
+B.Tech,I,K2,Fundamental of Computers & Introduction to Programming,Monday,03:05 PM,04:00 PM,CR-422
+B.Tech,I,K2,Engineering Mathematics-I,Tuesday,08:55 AM,09:50 AM,CR-422
+B.Tech,I,K2,Fundamental of Computers & Introduction to Programming,Tuesday,10:10 AM,11:05 AM,CR-422
+B.Tech,I,K2,Engineering Physics,Tuesday,12:55 PM,01:50 PM,CR-422
+B.Tech,I,K2,Physics Lab,Wednesday,12:55 PM,03:05 PM,CR-422
+B.Tech,I,K2,Professional Communication,Wednesday,08:55 AM,09:50 AM,CR-422
+B.Tech,I,K2,Basic Electrical Engineering,Wednesday,10:10 AM,11:05 AM,CR-422
+B.Tech,I,K2,Engineering Mathematics-I,Wednesday,03:05 PM,04:00 PM,CR-422
+B.Tech,I,K2,Basic Electrical Engineering Lab,Wednesday,12:55 PM,03:05 PM,CR-422
+B.Tech,I,K2,Physics Lab,Thursday,08:00 AM,09:50 AM,CR-422
+B.Tech,I,K2,Basic Electrical Engineering,Thursday,11:05 AM,12:00 PM,CR-422
+B.Tech,I,K2,Engineering Mathematics-I,Thursday,12:00 PM,12:55 PM,CR-422
+B.Tech,I,K2,Fundamental of Computers & Introduction to Programming,Friday,10:10 AM,11:05 AM,CR-422
+B.Tech,I,K2,Professional Communication,Friday,12:55 PM,01:50 PM,CR-422
+B.Tech,I,L2,Engineering Physics,Monday,04:00 PM,04:55 PM,CR-422
+B.Tech,I,L2,Computer Lab-I,Tuesday,12:00 PM,01:50 PM,LAB 2
+B.Tech,I,L2,Engineering Physics,Tuesday,02:10 PM,03:05 PM,CR-422
+B.Tech,I,L2,Fundamental of Computers & Introduction to Programming,Tuesday,03:05 PM,04:00 PM,CR-422
+B.Tech,I,L2,Basic Electrical Engineering,Tuesday,04:00 PM,04:55 PM,CR-422
+B.Tech,I,L2,Physics Lab,Wednesday,04:00 PM,05:50 PM,CR-422
+B.Tech,I,L2,Engineering Mathematics-I,Wednesday,12:00 PM,12:55 PM,CR-422
+B.Tech,I,L2,Engineering Mathematics-I,Wednesday,12:55 PM,01:50 PM,CR-422
+B.Tech,I,L2,Engineering Physics,Wednesday,03:05 PM,04:00 PM,CR-422
+B.Tech,I,L2,Basic Electrical Engineering Lab,Wednesday,04:00 PM,05:50 PM,CR-422
+B.Tech,I,L2,Physics Lab,Friday,04:00 PM,05:50 PM,CR-422
+B.Tech,I,L2,Engineering Mathematics-I,Friday,12:55 PM,01:50 PM,CR-422
+B.Tech,I,L2,Fundamental of Computers & Introduction to Programming,Friday,03:05 PM,04:00 PM,CR-422
+B.Tech,I,L2,Basic Electrical Engineering Lab,Friday,04:00 PM,05:50 PM,CR-422
+B.Tech,I,L2,Design Thinking Lab,Saturday,02:10 PM,04:00 PM,CR-422
+B.Tech,I,L2,Professional Communication,Saturday,04:00 PM,04:55 PM,CR-416
+B.Tech,I,L2,Fundamental of Computers & Introduction to Programming,Saturday,12:00 PM,12:55 PM,CR-422
+B.Tech,I,L2,Engineering Mathematics-I,Saturday,12:55 PM,01:50 PM,CR-422
+B.Tech,I,A1,Fundamental of Computers & Introduction to Programming,Tuesday,12:00 PM,12:55 PM,CR-406
+B.Tech,I,A1,Basic Electrical Engineering,Tuesday,12:55 PM,01:50 PM,CR-406
+B.Tech,I,A1,Professional Communication,Tuesday,02:10 PM,03:05 PM,CR-406
+B.Tech,I,A1,Basic Electrical Engineering Lab,Tuesday,04:00 PM,05:50 PM,CR-406
+B.Tech,I,A1,Professional Communication,Thursday,12:55 PM,01:50 PM,CR-406
+B.Tech,I,A1,Workshop and Manufacturing Practices,Friday,08:00 AM,12:00 PM,CR-406
+B.Tech,I,B1,Design Thinking Lab,Monday,11:05 AM,12:55 PM,CR-422
+B.Tech,I,B1,Engineering Mathematics-I,Tuesday,12:55 PM,01:50 PM,CR-422
+B.Tech,I,B1,Engineering Mathematics-I,Friday,11:05 AM,12:00 PM,CR-422
+B.Tech,I,AI-1,Computer Lab-I,Monday,08:55 AM,11:05 AM,CR-406
+B.Tech,I,AI-1,Fundamental of Computers & Introduction to Programming,Saturday,03:05 PM,04:00 PM,CR-406
+B.Tech,I,AI-2,Engineering Mathematics-I,Tuesday,12:00 PM,12:55 PM,CR-317
+B.Tech,I,AI-2,Engineering Mathematics-I,Wednesday,12:00 PM,12:55 PM,CR-317
+B.Tech,I,AI-2,Engineering Mathematics-I,Thursday,12:00 PM,12:55 PM,CR-317
+B.Tech,I,AI-2,Fundamental of Computers & Introduction to Programming,Friday,12:00 PM,12:55 PM,CR-317
+B.Tech,I,AI-3,Engineering Mathematics-I,Monday,03:05 PM,04:00 PM,CR-317
+B.Tech,I,AI-3,Engineering Mathematics-I,Monday,12:00 PM,12:55 PM,CR-317
+B.Tech,I,AI-3,Fundamental of Computers & Introduction to Programming,Monday,12:55 PM,01:50 PM,CR-317
+B.Tech,I,AI-3,Engineering Mathematics-I,Tuesday,03:05 PM,04:00 PM,CR-317
+B.Tech,I,AI-3,Engineering Mathematics-I,Thursday,04:55 PM,05:50 PM,CR-317
+B.Tech,I,AI-3,Basic Electrical Engineering Lab,Thursday,12:00 PM,01:50 PM,CR-317
+B.Tech,I,AI-3,Fundamental of Computers & Introduction to Programming,Thursday,03:05 PM,04:00 PM,CR-317
+B.Tech,I,AI-3,Basic Electrical Engineering Lab,Friday,10:10 AM,12:00 PM,CR-317
+B.Tech,I,AI-3,Fundamental of Computers & Introduction to Programming,Saturday,12:00 PM,12:55 PM,CR-317
+B.Tech,I,AI-4,Fundamental of Computers & Introduction to Programming,Monday,02:10 PM,03:05 PM,CR-313
+B.Tech,I,AI-4,Fundamental of Computers & Introduction to Programming,Thursday,10:10 AM,11:05 AM,CR-313
+B.Tech,I,AI-4,Fundamental of Computers & Introduction to Programming,Friday,02:10 PM,03:05 PM,CR-313
+B.Tech,I,AI-5,Computer Lab-I,Monday,02:10 PM,04:00 PM,CR-313
+B.Tech,I,AI-6,Fundamental of Computers & Introduction to Programming,Wednesday,12:55 PM,01:50 PM,CR-416
+B.Tech,I,AI-8,Computer Lab-I,Wednesday,02:10 PM,04:00 PM,CR-406
+B.Tech,I,AI-8,Fundamental of Computers & Introduction to Programming,Saturday,12:00 PM,12:55 PM,CR-406
+B.Tech,I,AI-8,Computer Lab-I,Saturday,04:00 PM,05:50 PM,CR-406
+B.Tech,I,AI-10,Basic Electrical Engineering,Monday,12:55 PM,01:50 PM,CR-406
+B.Tech,I,AI-10,Basic Electrical Engineering Lab,Thursday,12:00 PM,01:50 PM,CR-406
+B.Tech,I,AI-10,Fundamental of Computers & Introduction to Programming,Thursday,04:00 PM,04:55 PM,CR-406
+B.Tech,I,AI-10,Fundamental of Computers & Introduction to Programming,Friday,04:00 PM,04:55 PM,CR-406
+B.Tech,I,AI-10,Basic Electrical Engineering Lab,Saturday,12:00 PM,01:50 PM,CR-406
+B.Tech,I,A2,Fundamental of Computers & Introduction to Programming,Wednesday,08:55 AM,09:50 AM,CR-412
+B.Tech,I,A2,Engineering Mathematics-I,Wednesday,02:10 PM,03:05 PM,CR-412
+B.Tech,I,A2,Computer Lab-I,Friday,02:10 PM,04:00 PM,CR-412
+B.Tech,I,B2,Engineering Mathematics-I,Wednesday,03:05 PM,04:00 PM,CR-317
+B.Tech,I,B2,Computer Lab-I,Thursday,04:00 PM,05:50 PM,CR-317
+B.Tech,I,B2,Fundamental of Computers & Introduction to Programming,Friday,12:00 PM,12:55 PM,CR-317
+B.Tech,I,B2,Engineering Mathematics-I,Saturday,04:55 PM,05:50 PM,CR-317
+B.Tech,I,C2,Engineering Mathematics-I,Wednesday,08:55 AM,09:50 AM,CR-317
+B.Tech,I,C2,Basic Electrical Engineering,Wednesday,02:10 PM,03:05 PM,CR-317
+B.Tech,I,C2,Engineering Mathematics-I,Thursday,08:55 AM,09:50 AM,CR-317
+B.Tech,I,C2,Basic Electrical Engineering,Thursday,02:10 PM,03:05 PM,CR-317
+B.Tech,I,D2,Workshop and Manufacturing Practices,Tuesday,02:10 PM,05:50 PM,CR-317
+B.Tech,I,D2,Basic Electrical Engineering,Thursday,03:05 PM,04:00 PM,CR-317
+B.Tech,I,E2,Engineering Mathematics-I,Wednesday,04:00 PM,04:55 PM,CR-313
+B.Tech,I,F2,Basic Electrical Engineering,Monday,12:55 PM,01:50 PM,CR-412
+B.Tech,I,F2,Computer Lab-I,Tuesday,03:05 PM,04:55 PM,CR-412
+B.Tech,I,F2,Engineering Mathematics-I,Tuesday,12:55 PM,01:50 PM,CR-412
+B.Tech,I,F2,Engineering Physics,Tuesday,02:10 PM,03:05 PM,CR-412
+B.Tech,I,F2,Fundamental of Computers & Introduction to Programming,Wednesday,02:10 PM,03:05 PM,CR-412
+B.Tech,I,F2,Workshop and Manufacturing Practices,Wednesday,08:00 AM,12:00 PM,CR-412
+B.Tech,I,F2,Engineering Mathematics-I,Thursday,02:10 PM,03:05 PM,CR-412
+B.Tech,I,F2,Physics Lab,Friday,03:05 PM,04:55 PM,CR-412
+B.Tech,I,F2,Fundamental of Computers & Introduction to Programming,Friday,12:55 PM,01:50 PM,CR-412
+B.Tech,I,F2,Engineering Mathematics-I,Friday,02:10 PM,03:05 PM,CR-412
+B.Tech,I,F2,Engineering Physics,Saturday,12:55 PM,01:50 PM,CR-412
+B.Tech,I,G2,Physics Lab,Monday,02:10 PM,04:00 PM,CR-412
+B.Tech,I,G2,Engineering Physics,Tuesday,08:55 AM,09:50 AM,CR-412
+B.Tech,I,G2,Engineering Mathematics-I,Tuesday,11:05 AM,12:00 PM,CR-412
+B.Tech,I,G2,Engineering Physics,Thursday,08:55 AM,09:50 AM,CR-412
+B.Tech,I,G2,Workshop and Manufacturing Practices,Thursday,02:10 PM,05:50 PM,CR-412
+B.Tech,I,G2,Engineering Mathematics-I,Saturday,08:55 AM,09:50 AM,CR-412
+B.Tech,I,H2,Engineering Mathematics-I,Monday,03:05 PM,04:00 PM,CR-313
+B.Tech,I,H2,Basic Electrical Engineering Lab,Tuesday,02:10 PM,04:00 PM,CR-313
+B.Tech,I,H2,Workshop and Manufacturing Practices,Wednesday,12:00 PM,04:00 PM,CR-313
+B.Tech,I,H2,Engineering Mathematics-I,Friday,03:05 PM,04:00 PM,CR-313
+B.Tech,I,H2,Fundamental of Computers & Introduction to Programming,Friday,04:00 PM,04:55 PM,CR-313
+B.Tech,I,I2,Computer Lab-I,Tuesday,11:05 AM,12:55 PM,CR-416
+B.Tech,I,I2,Engineering Physics,Tuesday,10:10 AM,11:05 AM,CR-416
+B.Tech,I,I2,Professional Communication,Tuesday,08:55 AM,09:50 AM,CR-416
+B.Tech,I,I2,Computer Lab-I,Thursday,11:05 AM,12:55 PM,CR-416
+B.Tech,I,I2,Engineering Mathematics-I,Thursday,08:55 AM,09:50 AM,CR-416
+B.Tech,I,I2,Basic Electrical Engineering,Thursday,10:10 AM,11:05 AM,CR-416
+B.Tech,I,I2,Physics Lab,Thursday,02:10 PM,04:00 PM,CR-416
+B.Tech,I,I2,Design Thinking Lab,Friday,08:55 AM,11:05 AM,CR-416
+B.Tech,I,I2,Fundamental of Computers & Introduction to Programming,Friday,11:05 AM,12:00 PM,CR-416
+B.Tech,I,I2,Engineering Physics,Friday,12:00 PM,12:55 PM,CR-416
+B.Tech,I,I2,Engineering Physics,Saturday,08:55 AM,09:50 AM,CR-416
+B.Tech,I,I2,Engineering Mathematics-I,Saturday,12:00 PM,12:55 PM,CR-416
+B.Tech,I,I2,Basic Electrical Engineering,Saturday,10:10 AM,11:05 AM,CR-416
+B.Tech,I,I2,Engineering Mathematics-I,Saturday,11:05 AM,12:00 PM,CR-416
+B.Tech,I,J2,Engineering Mathematics-I,Monday,12:55 PM,01:50 PM,CR-416
+B.Tech,I,K2,Computer Lab-I,Monday,02:10 PM,04:00 PM,CR-422
+B.Tech,I,K2,Fundamental of Computers & Introduction to Programming,Monday,04:00 PM,04:55 PM,CR-422
+B.Tech,I,K2,Physics Lab,Wednesday,02:10 PM,04:00 PM,CR-422
+B.Tech,I,K2,Physics Lab,Thursday,08:55 AM,11:05 AM,CR-422
+B.Tech,I,K2,Engineering Physics,Friday,11:05 AM,12:00 PM,CR-422
+B.Tech,I,L2,Basic Electrical Engineering,Friday,02:10 PM,03:05 PM,CR-422
+Diploma C.S,III,,Object Oriented Programming,Monday,08:00 AM,08:55 AM,107 (CR)
+Diploma C.S,III,,Digital Logic,Monday,08:55 AM,09:50 AM,107 (CR)
+Diploma C.S,III,,Relational Database Management Systems,Monday,10:10 AM,11:05 AM,107 (CR)
+Diploma C.S,III,,Applied Mathematics,Monday,11:05 AM,12:00 PM,RR-E
+Diploma C.S,III,,Object Oriented Programming Lab,Tuesday,08:00 AM,09:50 AM,121 (LAB)
+Diploma C.S,III,,Relational Database Management Systems,Tuesday,10:10 AM,11:05 AM,107 (CR)
+Diploma C.S,III,,Applied Mathematics,Tuesday,11:05 AM,12:00 PM,107 (CR)
+Diploma C.S,III,,Relational Database Management Systems Lab,Wednesday,12:00 PM,01:50 PM,102-B (LAB)
+Diploma C.S,III,,Applied Mathematics,Wednesday,02:10 PM,03:05 PM,107 (CR)
+Diploma C.S,III,,Software Engineering,Wednesday,03:05 PM,04:00 PM,107 (CR)
+Diploma C.S,III,,Digital Logic,Thursday,08:00 AM,08:55 AM,107 (CR)
+Diploma C.S,III,,Object Oriented Programming,Thursday,08:55 AM,09:50 AM,107 (CR)
+Diploma C.S,III,,Object Oriented Programming Lab,Thursday,10:10 AM,12:00 PM,102-A (LAB)
+Diploma C.S,III,,Software Engineering,Thursday,12:00 PM,12:55 PM,107 (CR)
+Diploma C.S,III,,Object Oriented Programming,Friday,08:55 AM,09:50 AM,107 (CR)
+Diploma C.S,III,,Relational Database Management Systems,Friday,11:05 AM,12:00 PM,107 (CR)
+Diploma C.S,III,,Digital Logic,Friday,12:00 PM,12:55 PM,107 (CR)
+Diploma C.S,III,,Software Engineering,Saturday,08:55 AM,09:50 AM,107 (CR)
+Diploma C.S,III,,Relational Database Management Systems Lab,Saturday,10:10 AM,12:00 PM,002-A (LAB)
+Diploma C.S,V,,Operating System,Monday,12:55 PM,01:50 PM,107 (CR)
+Diploma C.S,V,,Microprocessor & Programming,Monday,02:10 PM,03:05 PM,107 (CR)
+Diploma C.S,V,,Java Programming,Monday,03:05 PM,04:00 PM,107 (CR)
+Diploma C.S,V,,Web Technology,Tuesday,12:55 PM,01:50 PM,107 (CR)
+Diploma C.S,V,,Java Programming,Tuesday,03:05 PM,04:00 PM,107 (CR)
+Diploma C.S,V,,Java Programming Lab,Tuesday,04:00 PM,05:50 PM,102-A (LAB)
+Diploma C.S,V,,Microprocessor & Programming,Wednesday,08:00 AM,08:55 AM,107 (CR)
+Diploma C.S,V,,Java Programming,Wednesday,08:55 AM,09:50 AM,107 (CR)
+Diploma C.S,V,,Microprocessor & Programming Lab,Wednesday,10:10 AM,12:00 PM,MICRO LAB (3RD FLOOR)
+Diploma C.S,V,,Operating System,Wednesday,12:00 PM,12:55 PM,107 (CR)
+Diploma C.S,V,,Web Technology,Thursday,12:55 PM,01:50 PM,107 (CR)
+Diploma C.S,V,,Operating System,Thursday,02:10 PM,03:05 PM,107 (CR)
+Diploma C.S,V,,Microprocessor & Programming,Thursday,03:05 PM,04:00 PM,107 (CR)
+Diploma C.S,V,,Web Technology Lab,Thursday,04:00 PM,05:50 PM,102-A (LAB)
+Diploma C.S,V,,Java Programming Lab,Friday,12:00 PM,01:50 PM,102-A (LAB)
+Diploma C.S,V,,Web Technology,Friday,02:10 PM,03:05 PM,107 (CR)
+Diploma C.S,V,,Web Technology Lab,Friday,04:00 PM,05:50 PM,102-A (LAB)
+BCA,I,A1,Computer Programming Laboratory,Monday,08:00 AM,09:50 AM,LAB 6
+BCA,I,A1,Mathematical Foundation of Computer Science,Monday,10:10 AM,11:05 AM,013 (CR)
+BCA,I,A1,Professional Communication,Monday,11:05 AM,12:00 PM,013 (CR)
+BCA,I,A1,Computational Thinking and Fundamentals of IT,Tuesday,08:00 AM,08:55 AM,013 (CR)
+BCA,I,A1,Foundations of Computer Programming,Tuesday,08:55 AM,09:50 AM,013 (CR)
+BCA,I,A1,Mathematical Foundation of Computer Science,Tuesday,10:10 AM,11:05 AM,013 (CR)
+BCA,I,A1,Foundations of Computer Programming,Tuesday,11:05 AM,12:00 PM,013 (CR)
+BCA,I,A1,Digital Productivity Tools for Modern Workplaces Laboratory,Wednesday,08:00 AM,09:50 AM,LAB 6
+BCA,I,A1,Foundations of Computer Programming,Wednesday,10:10 AM,11:05 AM,013 (CR)
+BCA,I,A1,Computational Thinking and Fundamentals of IT,Wednesday,11:05 AM,12:00 PM,013 (CR)
+BCA,I,A1,Foundations of Computer Programming,Thursday,08:00 AM,08:55 AM,013 (CR)
+BCA,I,A1,Mathematical Foundation of Computer Science,Thursday,08:55 AM,09:50 AM,013 (CR)
+BCA,I,A1,Computational Thinking and Fundamentals of IT,Thursday,10:10 AM,11:05 AM,013 (CR)
+BCA,I,A1,Professional Communication,Thursday,11:05 AM,12:00 PM,013 (CR)
+BCA,I,B1,Computational Thinking and Fundamentals of IT,Tuesday,12:55 PM,01:50 PM,013 (CR)
+BCA,I,B1,Professional Communication,Tuesday,03:05 PM,04:00 PM,013 (CR)
+BCA,I,B1,Digital Productivity Tools for Modern Workplaces Laboratory,Tuesday,04:00 PM,05:50 PM,LAB 6
+BCA,I,B1,Mathematical Foundation of Computer Science,Wednesday,03:05 PM,04:00 PM,013 (CR)
+BCA,I,B1,Foundations of Computer Programming,Thursday,12:55 PM,01:50 PM,013 (CR)
+BCA,I,B1,Mathematical Foundation of Computer Science,Thursday,02:10 PM,03:05 PM,013 (CR)
+BCA,I,B1,Computational Thinking and Fundamentals of IT,Thursday,03:05 PM,04:00 PM,013 (CR)
+BCA,I,B1,Foundations of Computer Programming,Thursday,04:00 PM,04:55 PM,013 (CR)
+BCA,I,B1,Computational Thinking and Fundamentals of IT,Friday,12:55 PM,01:50 PM,007(CR)
+BCA,I,B1,Foundations of Computer Programming,Friday,02:10 PM,03:05 PM,007(CR)
+BCA,I,B1,Computer Programming Laboratory,Friday,04:00 PM,05:50 PM,013 (CR)
+BCA,I,A2,Foundations of Computer Programming,Monday,12:00 PM,12:55 PM,301(CR)
+BCA,I,A2,Computational Thinking and Fundamentals of IT,Monday,12:55 PM,01:50 PM,301(CR)
+BCA,I,A2,Computer Programming Laboratory,Monday,02:10 PM,04:00 PM,LAB 8
+BCA,I,A2,Basic Mathematics – I,Monday,04:00 PM,04:55 PM,301(CR)
+BCA,I,A2,Professional Communication,Thursday,02:10 PM,03:05 PM,016 (CR)
+BCA,I,A2,Foundations of Computer Programming,Thursday,03:05 PM,04:00 PM,016(CR)
+BCA,I,A2,Digital Productivity Tools for Modern Workplaces Laboratory,Thursday,04:00 PM,05:50 PM,LAB 8
+BCA,I,A2,Mathematical Foundation of Computer Science,Friday,12:55 PM,01:50 PM,323(CR)
+BCA,I,A2,Foundations of Computer Programming,Friday,02:10 PM,03:05 PM,323(CR)
+BCA,I,A2,Computational Thinking and Fundamentals of IT,Friday,03:05 PM,04:00 PM,323(CR)
+BCA,I,A2,Foundations of Computer Programming,Friday,04:00 PM,04:55 PM,323(CR)
+BCA,I,A2,Professional Communication,Friday,04:55 PM,05:50 PM,323(CR)
+BCA,I,A2,Mathematical Foundation of Computer Science,Saturday,12:55 PM,01:50 PM,323(CR)
+BCA,I,A2,Computational Thinking and Fundamentals of IT,Saturday,02:10 PM,03:05 PM,323(CR)
+BCA,I,A2,Basic Mathematics – I,Saturday,03:05 PM,04:00 PM,323(CR)
+BCA,I,A2,Mathematical Foundation of Computer Science,Saturday,04:00 PM,04:55 PM,323(CR)
+BCA,I,B2,Basic Mathematics – I,Monday,08:00 AM,08:55 AM,015(CR)
+BCA,I,B2,Mathematical Foundation of Computer Science,Monday,08:55 AM,09:50 AM,015(CR)
+BCA,I,B2,Foundations of Computer Programming,Monday,10:10 AM,11:05 AM,015(CR)
+BCA,I,B2,Professional Communication,Monday,11:05 AM,12:00 PM,015(CR)
+BCA,I,B2,Mathematical Foundation of Computer Science,Monday,12:00 PM,12:55 PM,016(CR)
+BCA,I,B2,Digital Productivity Tools for Modern Workplaces Laboratory,Wednesday,08:00 AM,09:50 AM,LAB 8
+BCA,I,B2,Computer Programming Laboratory,Wednesday,10:10 AM,12:00 PM,LAB 4
+BCA,I,B2,Basic Mathematics – I,Friday,08:00 AM,08:55 AM,015(CR)
+BCA,I,B2,Computational Thinking and Fundamentals of IT,Friday,08:55 AM,09:50 AM,015(CR)
+BCA,I,B2,Foundations of Computer Programming,Friday,10:10 AM,11:05 AM,015(CR)
+BCA,I,B2,Professional Communication,Friday,11:05 AM,12:00 PM,015(CR)
+BCA,I,B2,Mathematical Foundation of Computer Science,Friday,12:00 PM,12:55 PM,015(CR)
+BCA,I,B2,Computational Thinking and Fundamentals of IT,Saturday,08:00 AM,08:55 AM,015(CR)
+BCA,I,B2,Foundations of Computer Programming,Saturday,08:55 AM,09:50 AM,015(CR)
+BCA,I,B2,Foundations of Computer Programming,Saturday,10:10 AM,11:05 AM,015(CR)
+BCA,I,B2,Computational Thinking and Fundamentals of IT,Saturday,11:05 AM,12:00 PM,015(CR)
+BCA AI&DS,I,A1,Computational Thinking and Fundamentals of IT,Tuesday,08:00 AM,08:55 AM,015(CR)
+BCA AI&DS,I,A1,Fundamentals of Python Programming,Tuesday,08:55 AM,09:50 AM,015(CR)
+BCA AI&DS,I,A1,Professional Communication,Tuesday,10:10 AM,11:05 AM,015(CR)
+BCA AI&DS,I,A1,Mathematical Foundation for AI,Tuesday,11:05 AM,12:00 PM,015(CR)
+BCA AI&DS,I,A1,Professional Communication,Wednesday,08:00 AM,08:55 AM,015(CR)
+BCA AI&DS,I,A1,Fundamentals of Python Programming,Wednesday,08:55 AM,09:50 AM,015(CR)
+BCA AI&DS,I,A1,Computational Thinking and Fundamentals of IT,Wednesday,10:10 AM,11:05 AM,015(CR)
+BCA AI&DS,I,A1,Mathematical Foundation for AI,Wednesday,11:05 AM,12:00 PM,015(CR)
+BCA AI&DS,I,A1,Mathematical Foundation for AI,Thursday,08:00 AM,08:55 AM,015(CR)
+BCA AI&DS,I,A1,Fundamentals of Python Programming,Thursday,08:55 AM,09:50 AM,015(CR)
+BCA AI&DS,I,A1,Computational Thinking and Fundamentals of IT,Thursday,10:10 AM,11:05 AM,015(CR)
+BCA AI&DS,I,A1,Fundamentals of Python Programming,Thursday,11:05 AM,12:00 PM,015(CR)
+BCA AI&DS,I,A1,Fundamentals of Python Programming Laboratory,Saturday,08:00 AM,09:50 AM,LAB 6
+BCA AI&DS,I,A1,Digital Productivity Tools for Modern Workplaces Laboratory,Saturday,10:10 AM,12:00 PM,LAB 8
+BCA AI&DS,I,B1,Mathematical Foundation for AI,Monday,12:00 PM,12:55 PM,015(CR)
+BCA AI&DS,I,B1,Professional Communication,Monday,12:55 PM,01:50 PM,015(CR)
+BCA AI&DS,I,B1,Fundamentals of Python Programming Laboratory,Monday,02:10 PM,04:00 PM,LAB 7
+BCA AI&DS,I,B1,Fundamentals of Python Programming,Tuesday,12:55 PM,01:50 PM,016(CR)
+BCA AI&DS,I,B1,Computational Thinking and Fundamentals of IT,Tuesday,02:10 PM,03:05 PM,016(CR)
+BCA AI&DS,I,B1,Fundamentals of Python Programming,Tuesday,03:05 PM,04:00 PM,016(CR)
+BCA AI&DS,I,B1,Fundamentals of Python Programming,Wednesday,12:00 PM,12:55 PM,015(CR)
+BCA AI&DS,I,B1,Mathematical Foundation for AI,Wednesday,12:55 PM,01:50 PM,015(CR)
+BCA AI&DS,I,B1,Fundamentals of Python Programming,Wednesday,02:10 PM,03:05 PM,015(CR)
+BCA AI&DS,I,B1,Mathematical Foundation for AI,Wednesday,03:05 PM,04:00 PM,015(CR)
+BCA AI&DS,I,B1,Digital Productivity Tools for Modern Workplaces Laboratory,Wednesday,04:00 PM,05:50 PM,LAB 6
+BCA AI&DS,I,B1,Computational Thinking and Fundamentals of IT,Thursday,12:55 PM,01:50 PM,007(CR)
+BCA AI&DS,I,B1,Professional Communication,Thursday,02:10 PM,03:05 PM,007(CR)
+BCA AI&DS,I,B1,Computational Thinking and Fundamentals of IT,Thursday,03:05 PM,04:00 PM,007(CR)
+BCA AI&DS,I,C1,Fundamentals of Python Programming,Tuesday,12:00 PM,12:55 PM,013(CR)
+BCA AI&DS,I,C1,Mathematical Foundation for AI,Tuesday,02:10 PM,03:05 PM,015(CR)
+BCA AI&DS,I,C1,Computational Thinking and Fundamentals of IT,Tuesday,03:05 PM,04:00 PM,015(CR)
+BCA AI&DS,I,C1,Fundamentals of Python Programming,Tuesday,04:00 PM,04:55 PM,015(CR)
+BCA AI&DS,I,C1,Professional Communication,Wednesday,12:55 PM,01:50 PM,016(CR)
+BCA AI&DS,I,C1,Fundamentals of Python Programming,Wednesday,02:10 PM,03:05 PM,016(CR)
+BCA AI&DS,I,C1,Computational Thinking and Fundamentals of IT,Wednesday,03:05 PM,04:00 PM,016(CR)
+BCA AI&DS,I,C1,Computational Thinking and Fundamentals of IT,Friday,12:55 PM,01:50 PM,013(CR)
+BCA AI&DS,I,C1,Mathematical Foundation for AI,Friday,02:10 PM,03:05 PM,013(CR)
+BCA AI&DS,I,C1,Professional Communication,Friday,03:05 PM,04:00 PM,013(CR)
+BCA AI&DS,I,C1,Mathematical Foundation for AI,Friday,04:00 PM,04:55 PM,013(CR)
+BCA AI&DS,I,C1,Fundamentals of Python Programming,Friday,04:55 PM,05:50 PM,013(CR)
+BCA AI&DS,I,C1,Digital Productivity Tools for Modern Workplaces Laboratory,Saturday,12:00 PM,01:50 PM,LAB 8
+BCA AI&DS,I,C1,Fundamentals of Python Programming Laboratory,Saturday,02:10 PM,04:00 PM,LAB 4
+BCA AI&DS,I,D1,Professional Communication,Monday,12:55 PM,01:50 PM,007 (CR)
+BCA AI&DS,I,D1,Fundamentals of Python Programming Laboratory,Monday,02:10 PM,04:00 PM,LAB 6
+BCA AI&DS,I,D1,Mathematical Foundation for AI,Tuesday,02:10 PM,03:05 PM,329(CR)
+BCA AI&DS,I,D1,Fundamentals of Python Programming,Tuesday,03:05 PM,04:00 PM,329(CR)
+BCA AI&DS,I,D1,Digital Productivity Tools for Modern Workplaces Laboratory,Tuesday,04:00 PM,05:50 PM,007/329/307 (CR)
+BCA AI&DS,I,D1,LAB 121,Tuesday,04:00 PM,05:50 PM,LAB 121
+BCA AI&DS,I,D1,Fundamentals of Python Programming,Thursday,12:55 PM,01:50 PM,329(CR)
+BCA AI&DS,I,D1,Professional Communication,Thursday,02:10 PM,03:05 PM,329(CR)
+BCA AI&DS,I,D1,Fundamentals of Python Programming,Thursday,03:05 PM,04:00 PM,329(CR)
+BCA AI&DS,I,D1,Computational Thinking and Fundamentals of IT,Thursday,04:00 PM,04:55 PM,329(CR)
+BCA AI&DS,I,D1,Mathematical Foundation for AI,Thursday,04:55 PM,05:50 PM,329(CR)
+BCA AI&DS,I,D1,Computational Thinking and Fundamentals of IT,Friday,12:00 PM,12:55 PM,329(CR)
+BCA AI&DS,I,D1,Fundamentals of Python Programming,Friday,02:10 PM,03:05 PM,307(CR)
+BCA AI&DS,I,D1,Computational Thinking and Fundamentals of IT,Friday,03:05 PM,04:00 PM,307(CR)
+BCA AI&DS,I,D1,Mathematical Foundation for AI,Friday,04:00 PM,04:55 PM,307(CR)
+BCA AI&DS,I,E1,Mathematical Foundation for AI,Monday,12:00 PM,12:55 PM,013(CR)
+BCA AI&DS,I,E1,Fundamentals of Python Programming,Monday,12:55 PM,01:50 PM,013(CR)
+BCA AI&DS,I,E1,Mathematical Foundation for AI,Monday,02:10 PM,03:05 PM,013(CR)
+BCA AI&DS,I,E1,Professional Communication,Monday,03:05 PM,04:00 PM,013(CR)
+BCA AI&DS,I,E1,Digital Productivity Tools for Modern Workplaces Laboratory,Monday,04:00 PM,05:50 PM,LAB 8
+BCA AI&DS,I,E1,Mathematical Foundation for AI,Wednesday,12:00 PM,12:55 PM,329(CR)
+BCA AI&DS,I,E1,Computational Thinking and Fundamentals of IT,Wednesday,12:55 PM,01:50 PM,329(CR)
+BCA AI&DS,I,E1,Professional Communication,Wednesday,02:10 PM,03:05 PM,329(CR)
+BCA AI&DS,I,E1,Fundamentals of Python Programming,Wednesday,03:05 PM,04:00 PM,329(CR)
+BCA AI&DS,I,E1,Fundamentals of Python Programming,Friday,12:55 PM,01:50 PM,329(CR)
+BCA AI&DS,I,E1,Computational Thinking and Fundamentals of IT,Friday,02:10 PM,03:05 PM,329(CR)
+BCA AI&DS,I,E1,Fundamentals of Python Programming,Friday,03:05 PM,04:00 PM,329(CR)
+BCA AI&DS,I,E1,Computational Thinking and Fundamentals of IT,Saturday,12:00 PM,12:55 PM,329(CR)
+BCA AI&DS,I,E1,Fundamentals of Python Programming Laboratory,Saturday,02:10 PM,04:00 PM,LAB 6
+BCA AI&DS,I,A2,Basic Mathematics -I,Tuesday,08:00 AM,08:55 AM,007(CR)
+BCA AI&DS,I,A2,Mathematical Foundation for AI,Tuesday,08:55 AM,09:50 AM,007(CR)
+BCA AI&DS,I,A2,Computational Thinking and Fundamentals of IT,Tuesday,10:10 AM,11:05 AM,007(CR)
+BCA AI&DS,I,A2,Fundamentals of Python Programming,Tuesday,11:05 AM,12:00 PM,007(CR)
+BCA AI&DS,I,A2,Professional Communication,Tuesday,12:00 PM,12:55 PM,007 (CR)
+BCA AI&DS,I,A2,Fundamentals of Python Programming,Thursday,08:00 AM,08:55 AM,016(CR)
+BCA AI&DS,I,A2,Computational Thinking and Fundamentals of IT,Thursday,08:55 AM,09:50 AM,016(CR)
+BCA AI&DS,I,A2,Mathematical Foundation for AI,Thursday,10:10 AM,11:05 AM,016(CR)
+BCA AI&DS,I,A2,Computational Thinking and Fundamentals of IT,Thursday,11:05 AM,12:00 PM,016(CR)
+BCA AI&DS,I,A2,Basic Mathematics -I,Thursday,12:00 PM,12:55 PM,013(CR)
+BCA AI&DS,I,A2,Professional Communication,Friday,08:00 AM,08:55 AM,016(CR)
+BCA AI&DS,I,A2,Fundamentals of Python Programming,Friday,08:55 AM,09:50 AM,016(CR)
+BCA AI&DS,I,A2,Fundamentals of Python Programming Laboratory,Friday,10:10 AM,12:00 PM,LAB 8
+BCA AI&DS,I,A2,Mathematical Foundation for AI,Friday,12:00 PM,12:55 PM,016(CR)
+BCA AI&DS,I,A2,Digital Productivity Tools for Modern Workplaces Laboratory,Saturday,08:00 AM,09:50 AM,LAB 4
+BCA AI&DS,I,A2,Fundamentals of Python Programming,Saturday,10:10 AM,11:05 AM,307(CR)
+BCA AI&DS,I,B2,Mathematical Foundation for AI,Monday,08:00 AM,08:55 AM,013(CR)
+BCA AI&DS,I,B2,Professional Communication,Monday,08:55 AM,09:50 AM,013(CR)
+BCA AI&DS,I,B2,Fundamentals of Python Programming Laboratory,Monday,10:10 AM,12:00 PM,LAB 7
+BCA AI&DS,I,B2,Digital Productivity Tools for Modern Workplaces Laboratory,Tuesday,08:00 AM,09:50 AM,LAB 6
+BCA AI&DS,I,B2,Fundamentals of Python Programming,Tuesday,10:10 AM,11:05 AM,301(CR)
+BCA AI&DS,I,B2,Computational Thinking and Fundamentals of IT,Tuesday,11:05 AM,12:00 PM,301(CR)
+BCA AI&DS,I,B2,Basic Mathematics -I,Thursday,08:00 AM,08:55 AM,007(CR)
+BCA AI&DS,I,B2,Fundamentals of Python Programming,Thursday,08:55 AM,09:50 AM,007(CR)
+BCA AI&DS,I,B2,Computational Thinking and Fundamentals of IT,Thursday,10:10 AM,11:05 AM,007(CR)
+BCA AI&DS,I,B2,Mathematical Foundation for AI,Thursday,11:05 AM,12:00 PM,007(CR)
+BCA AI&DS,I,B2,Fundamentals of Python Programming,Thursday,12:00 PM,12:55 PM,007(CR)
+BCA AI&DS,I,B2,Computational Thinking and Fundamentals of IT,Friday,08:00 AM,08:55 AM,007(CR)
+BCA AI&DS,I,B2,Fundamentals of Python Programming,Friday,08:55 AM,09:50 AM,007(CR)
+BCA AI&DS,I,B2,Mathematical Foundation for AI,Friday,10:10 AM,11:05 AM,007(CR)
+BCA AI&DS,I,B2,Basic Mathematics -I,Friday,11:05 AM,12:00 PM,007(CR)
+BCA AI&DS,I,B2,Professional Communication,Friday,12:00 PM,12:55 PM,007(CR)
+BCA AI&DS,I,C2,Fundamentals of Python Programming Laboratory,Monday,08:00 AM,09:50 AM,LAB 8
+BCA AI&DS,I,C2,Professional Communication,Monday,10:10 AM,11:05 AM,007(CR)
+BCA AI&DS,I,C2,Mathematical Foundation for AI,Monday,11:05 AM,12:00 PM,007 (CR)
+BCA AI&DS,I,C2,Mathematical Foundation for AI,Tuesday,08:00 AM,08:55 AM,016(CR)
+BCA AI&DS,I,C2,Computational Thinking and Fundamentals of IT,Tuesday,08:55 AM,09:50 AM,016(CR)
+BCA AI&DS,I,C2,Professional Communication,Tuesday,10:10 AM,11:05 AM,016(CR)
+BCA AI&DS,I,C2,Fundamentals of Python Programming,Tuesday,11:05 AM,12:00 PM,016(CR)
+BCA AI&DS,I,C2,Computational Thinking and Fundamentals of IT,Tuesday,12:00 PM,12:55 PM,016(CR)
+BCA AI&DS,I,C2,Basic Mathematics -I,Wednesday,08:00 AM,08:55 AM,016(CR)
+BCA AI&DS,I,C2,Mathematical Foundation for AI,Wednesday,08:55 AM,09:50 AM,016(CR)
+BCA AI&DS,I,C2,Fundamentals of Python Programming,Wednesday,10:10 AM,11:05 AM,016(CR)
+BCA AI&DS,I,C2,Computational Thinking and Fundamentals of IT,Wednesday,11:05 AM,12:00 PM,016(CR)
+BCA AI&DS,I,C2,Fundamentals of Python Programming,Wednesday,12:00 PM,12:55 PM,016(CR)
+BCA AI&DS,I,C2,Fundamentals of Python Programming,Saturday,08:00 AM,08:55 AM,013 (CR)
+BCA AI&DS,I,C2,Basic Mathematics -I,Saturday,08:55 AM,09:50 AM,013(CR)
+BCA AI&DS,I,C2,Digital Productivity Tools for Modern Workplaces Laboratory,Saturday,10:10 AM,12:00 PM,007/ 016/ 013 (CR)
+BCA CS,I,A1,Mathematical Foundation for AI,Monday,12:55 PM,01:50 PM,016(CR)
+BCA CS,I,A1,Professional Communication,Monday,02:10 PM,03:05 PM,016(CR)
+BCA CS,I,A1,Mathematical Foundation for AI,Monday,03:05 PM,04:00 PM,016(CR)
+BCA CS,I,A1,Fundamentals of Python Programming Laboratory,Tuesday,08:00 AM,09:50 AM,LAB 8
+BCA CS,I,A1,Digital Productivity Tools for Modern Workplaces Laboratory,Tuesday,10:10 AM,12:00 PM,LAB 8
+BCA CS,I,A1,Computational Thinking and Fundamentals of IT,Tuesday,12:00 PM,12:55 PM,301(CR)
+BCA CS,I,A1,Fundamentals of Python Programming,Wednesday,12:55 PM,01:50 PM,007(CR)
+BCA CS,I,A1,Computational Thinking and Fundamentals of IT,Wednesday,02:10 PM,03:05 PM,007(CR)
+BCA CS,I,A1,Fundamentals of Python Programming,Wednesday,03:05 PM,04:00 PM,007(CR)
+BCA CS,I,A1,Mathematical Foundation for AI,Wednesday,04:00 PM,04:55 PM,007(CR)
+BCA CS,I,A1,Fundamentals of Python Programming,Friday,12:55 PM,01:50 PM,016(CR)
+BCA CS,I,A1,Professional Communication,Friday,02:10 PM,03:05 PM,016(CR)
+BCA CS,I,A1,Computational Thinking and Fundamentals of IT,Friday,03:05 PM,04:00 PM,016(CR)
+BCA CS,I,A1,Fundamentals of Python Programming,Friday,04:00 PM,04:55 PM,016(CR)
+BCA CS,I,A2,Computational Thinking and Fundamentals of IT,Wednesday,08:00 AM,08:55 AM,307(CR)
+BCA CS,I,A2,Mathematical Foundation for AI,Wednesday,08:55 AM,09:50 AM,307(CR)
+BCA CS,I,A2,Fundamentals of Python Programming,Wednesday,10:10 AM,11:05 AM,307(CR)
+BCA CS,I,A2,Professional Communication,Wednesday,11:05 AM,12:00 PM,323(CR)
+BCA CS,I,A2,Digital Productivity Tools for Modern Workplaces Laboratory,Thursday,08:00 AM,09:50 AM,LAB 6
+BCA CS,I,A2,Professional Communication,Thursday,10:10 AM,11:05 AM,301(CR)
+BCA CS,I,A2,Computational Thinking and Fundamentals of IT,Thursday,11:05 AM,12:00 PM,301/307(CR)
+BCA CS,I,A2,Mathematical Foundation for AI,Friday,08:00 AM,08:55 AM,307(CR)
+BCA CS,I,A2,Fundamentals of Python Programming,Friday,08:55 AM,09:50 AM,307(CR)
+BCA CS,I,A2,Fundamentals of Python Programming,Friday,10:10 AM,11:05 AM,307(CR)
+BCA CS,I,A2,Computational Thinking and Fundamentals of IT,Friday,11:05 AM,12:00 PM,301/307(CR)
+BCA CS,I,A2,Basic Mathematics – I,Friday,12:00 PM,12:55 PM,307(CR)
+BCA CS,I,A2,Fundamentals of Python Programming Laboratory,Saturday,08:00 AM,09:50 AM,LAB 7
+BCA CS,I,A2,Fundamentals of Python Programming,Saturday,10:10 AM,11:05 AM,301(CR)
+BCA CS,I,A2,Mathematical Foundation for AI,Saturday,11:05 AM,12:00 PM,301(CR)
+BCA CS,I,A2,Basic Mathematics – I,Saturday,12:00 PM,12:55 PM,301(CR)
+B.Sc. IT,I,,Computer Fundamentals and Information Technology,Monday,12:00 PM,12:55 PM,307(CR)
+B.Sc. IT,I,,Foundations of Computer Programming Laboratory,Monday,02:10 PM,04:00 PM,LAB 4
+B.Sc. IT,I,,Digital Productivity Tools for Modern Workplaces Laboratory,Monday,04:00 PM,05:50 PM,LAB 4
+B.Sc. IT,I,,Foundations of Computer Programming,Tuesday,12:55 PM,01:50 PM,007(CR)
+B.Sc. IT,I,,Professional Communication,Tuesday,02:10 PM,03:05 PM,007(CR)
+B.Sc. IT,I,,Computer Fundamentals and Information Technology,Tuesday,03:05 PM,04:00 PM,007(CR)
+B.Sc. IT,I,,Foundations of Computer Programming,Tuesday,04:00 PM,04:55 PM,007(CR)
+B.Sc. IT,I,,Professional Communication,Friday,12:55 PM,01:50 PM,015(CR)
+B.Sc. IT,I,,Computer Fundamentals and Information Technology,Friday,02:10 PM,03:05 PM,015(CR)
+B.Sc. IT,I,,Foundations of Computer Programming,Friday,03:05 PM,04:00 PM,015(CR)
+MCA,I,A +B+C,Mathematical Foundation of Computer Science (Bridge Course),Monday,12:00 PM,12:55 PM,323(CR)
+MCA,I,A +B+C,Full Stack Development,Monday,12:55 PM,01:50 PM,423 (LT)
+MCA,I,A +B+C,Python programming,Monday,02:10 PM,03:05 PM,423 (LT)
+MCA,I,A +B+C,Career Skills - I,Monday,03:05 PM,04:00 PM,423 (LT)
+MCA,I,A,Full Stack Development Laboratory,Monday,04:00 PM,05:50 PM,LAB 7
+MCA,I,B,Full Stack Development Laboratory,Tuesday,12:00 PM,01:50 PM,LAB 4
+MCA,I,A,Advanced Operating Systems and Computer Networks Laboratory,Tuesday,12:00 PM,01:50 PM,LAB 8
+MCA,I,C,Programming and Problem-Solving Laboratory,Tuesday,12:00 PM,01:50 PM,LAB 7
+MCA,I,A +B+C,Advanced Operating Systems,Tuesday,02:10 PM,03:05 PM,405 (LT)
+MCA,I,A +B+C,Full Stack Development,Tuesday,03:05 PM,04:00 PM,405 (LT)
+MCA,I,A +B+C,Python programming,Tuesday,04:00 PM,04:55 PM,306 (LT)
+MCA,I,A +B+C,Career Skills - I,Tuesday,04:55 PM,05:50 PM,423 (LT)/ 306 (LT)/405 (LT)
+MCA,I,A +B+C,Mathematical Foundation of Computer Science (Bridge Course),Wednesday,12:00 PM,12:55 PM,013(CR)
+MCA,I,A +B+C,Python programming,Wednesday,12:55 PM,01:50 PM,306 (LT)
+MCA,I,A +B+C,Programming and Problem-Solving,Wednesday,02:10 PM,03:05 PM,306 (LT)
+MCA,I,A +B+C,Full Stack Development,Wednesday,03:05 PM,04:00 PM,306 (LT)
+MCA,I,A +B+C,Computer Networks,Wednesday,04:00 PM,04:55 PM,306 (LT)
+MCA,I,A +B+C,Advanced Operating Systems,Wednesday,04:55 PM,05:50 PM,306 (LT)
+MCA,I,C,Full Stack Development Laboratory,Friday,12:00 PM,01:50 PM,LAB 4
+MCA,I,B,Advanced Operating Systems and Computer Networks Laboratory,Friday,12:00 PM,01:50 PM,LAB 8
+MCA,I,A,Programming and Problem-Solving Laboratory,Friday,12:00 PM,01:50 PM,LAB 6
+MCA,I,A +B+C,Career Skills - I,Friday,02:10 PM,03:05 PM,306 (LT)
+MCA,I,A +B+C,Introduction to Operating System (Bridge Course),Friday,03:05 PM,04:00 PM,306 (LT)
+MCA,I,A +B+C,Python programming,Friday,04:00 PM,04:55 PM,306 (LT)
+MCA,I,A +B+C,Advanced Operating Systems,Friday,04:55 PM,05:50 PM,306 (LT)
+MCA,I,A +B+C,Programming and Problem-Solving,Saturday,12:00 PM,12:55 PM,405 (LT)
+MCA,I,A +B+C,Computer Networks,Saturday,12:55 PM,01:50 PM,405 (LT)
+MCA,I,A +B+C,Programming and Problem-Solving,Saturday,02:10 PM,03:05 PM,405 (LT)
+MCA,I,A +B+C,Computer Networks,Saturday,03:05 PM,04:00 PM,405 (LT)
+MCA,I,C,Advanced Operating Systems and Computer Networks Laboratory,Saturday,04:00 PM,05:50 PM,LAB 8
+MCA,I,B,Programming and Problem-Solving Laboratory,Saturday,04:00 PM,05:50 PM,LAB 6
+MCA AI&DS,I,A+B+C,Probability and Statistics,Monday,12:00 PM,12:55 PM,405 (LT)
+MCA AI&DS,I,A+B+C,Career Skills - I,Monday,12:55 PM,01:50 PM,405 (LT)
+MCA AI&DS,I,A+B+C,Programming and Problem-Solving,Monday,02:10 PM,03:05 PM,405 (LT)
+MCA AI&DS,I,A+B+C,System Design,Monday,03:05 PM,04:00 PM,405 (LT)
+MCA AI&DS,I,A+B+C,Introduction to Operating Systems,Monday,04:00 PM,04:55 PM,405 (LT)
+MCA AI&DS,I,A+B+C,Programming and Problem-Solving,Monday,04:55 PM,05:50 PM,405 (LT)
+MCA AI&DS,I,A+B+C,Probability and Statistics,Tuesday,12:00 PM,12:55 PM,405 (LT)
+MCA AI&DS,I,A+B+C,Python Programming,Tuesday,12:55 PM,01:50 PM,405 (LT)
+MCA AI&DS,I,C,Python Programming Laboratory,Tuesday,02:10 PM,04:00 PM,LAB 6
+MCA AI&DS,I,A,Advanced DBMS Laboratory,Tuesday,02:10 PM,04:00 PM,LAB 7
+MCA AI&DS,I,B,Programming and Problem-Solving Laboratory,Tuesday,02:10 PM,04:00 PM,LAB 4
+MCA AI&DS,I,A+B+C,Career Skills - I,Tuesday,04:00 PM,04:55 PM,405 (LT)
+MCA AI&DS,I,A+B+C,Advanced Database Management Systems,Tuesday,04:55 PM,05:50 PM,405 (LT)
+MCA AI&DS,I,A+B+C,Probability and Statistics,Wednesday,12:00 PM,12:55 PM,405 (LT)
+MCA AI&DS,I,A+B+C,Python Programming,Wednesday,12:55 PM,01:50 PM,405 (LT)
+MCA AI&DS,I,A+B+C,Programming and Problem-Solving,Wednesday,02:10 PM,03:05 PM,405 (LT)
+MCA AI&DS,I,A+B+C,Advanced Operating Systems,Wednesday,03:05 PM,04:00 PM,405 (LT)
+MCA AI&DS,I,A+B+C,Advanced Database Management Systems,Wednesday,04:00 PM,04:55 PM,405 (LT)
+MCA AI&DS,I,A+B+C,System Design,Wednesday,04:55 PM,05:50 PM,405 (LT)
+MCA AI&DS,I,A+B+C,Career Skills - I,Thursday,12:00 PM,12:55 PM,405 (LT)
+MCA AI&DS,I,A+B+C,System Design,Thursday,12:55 PM,01:50 PM,405 (LT)
+MCA AI&DS,I,A,Python Programming Laboratory,Thursday,02:10 PM,04:00 PM,LAB 4
+MCA AI&DS,I,B,Advanced DBMS Laboratory,Thursday,02:10 PM,04:00 PM,LAB 8
+MCA AI&DS,I,C,Programming and Problem-Solving Laboratory,Thursday,02:10 PM,04:00 PM,LAB 6
+MCA AI&DS,I,A+B+C,System Design,Thursday,04:00 PM,04:55 PM,423 (LT)
+MCA AI&DS,I,A+B+C,Introduction to DBMS (Bridge Course),Thursday,04:55 PM,05:50 PM,423 (LT)
+MCA AI&DS,I,B,Python Programming Laboratory,Friday,12:00 PM,01:50 PM,LAB 7
+MCA AI&DS,I,A+B+C,Python Programming,Friday,02:10 PM,03:05 PM,405 (LT)
+MCA AI&DS,I,A+B+C,Advanced Operating Systems,Friday,03:05 PM,04:00 PM,405 (LT)
+MCA AI&DS,I,C,Advanced DBMS Laboratory,Friday,04:00 PM,05:50 PM,LAB 4
+MCA AI&DS,I,A,Programming and Problem-Solving Laboratory,Friday,04:00 PM,05:50 PM,LAB 6
+MCA AI&DS,I,A+B+C,Linear Algebra (Bridge Course),Saturday,12:00 PM,12:55 PM,423 (LT)
+MCA AI&DS,I,A+B+C,Advanced Database Management Systems,Saturday,12:55 PM,01:50 PM,423 (LT)
+MCA AI&DS,I,A+B+C,Advanced Operating Systems,Saturday,02:10 PM,03:05 PM,423 (LT)
+MCA AI&DS,I,A+B+C,Linear Algebra (Bridge Course),Saturday,03:05 PM,04:00 PM,423 (LT)
+BCA,III,A1+A2,Career Skills - I,Monday,08:00 AM,08:55 AM,423(LT)
+BCA,III,A1+A2,Introduction to Data Structures,Monday,08:55 AM,09:50 AM,423(LT)
+BCA,III,A1+A2,Introduction to Data Structures,Monday,10:10 AM,11:05 AM,423(LT)
+BCA,III,A1+A2,Foundations of Artificial Intelligence (DSE),Monday,11:05 AM,12:00 PM,423(LT)
+BCA,III,A1+A2,Digital Logic Design,Monday,12:00 PM,12:55 PM,423(LT)
+BCA,III,A1+A2,Introduction to Data Structures,Tuesday,08:00 AM,08:55 AM,423(LT)
+BCA,III,A1+A2,Introductions to Database Management Systems,Tuesday,08:55 AM,09:50 AM,423(LT)
+BCA,III,A1+A2,Introductions to Database Management Systems,Tuesday,10:10 AM,11:05 AM,423(LT)
+BCA,III,A1+A2,Digital Logic Design,Tuesday,11:05 AM,12:00 PM,423(LT)
+BCA,III,A1+A2,Foundations of Artificial Intelligence (DSE),Tuesday,12:00 PM,12:55 PM,423(LT)
+BCA,III,A2,Database Management Systems Laboratory,Wednesday,08:00 AM,09:50 AM,LAB 4
+BCA,III,A1,Data Structures Laboratory,Wednesday,08:00 AM,09:50 AM,LAB 7
+BCA,III,A1+A2,Digital Logic Design,Wednesday,10:10 AM,11:05 AM,423(LT)
+BCA,III,A1+A2,Introductions to Database Management Systems,Wednesday,11:05 AM,12:00 PM,423(LT)
+BCA,III,A1+A2,Project Based Learning,Wednesday,12:00 PM,12:55 PM,423(LT)
+BCA,III,A1,Database Management Systems Laboratory,Thursday,08:00 AM,09:50 AM,LAB 4
+BCA,III,A2,Data Structures Laboratory,Thursday,08:00 AM,09:50 AM,LAB 7
+BCA,III,A1+A2,Career Skills - I,Thursday,10:10 AM,11:05 AM,423(LT)
+BCA,III,A1+A2,Foundations of Artificial Intelligence (DSE),Thursday,11:05 AM,12:00 PM,423(LT)
+BCA,III,A1+A2,Project Based Learning,Thursday,12:00 PM,12:55 PM,423(LT)
+BCA,III,B1+B2,Career Skills - I,Monday,12:00 PM,12:55 PM,306(LT)
+BCA,III,B1+B2,Foundations of Artificial Intelligence (DSE),Monday,12:55 PM,01:50 PM,306(LT)
+BCA,III,B1+B2,Digital Logic Design,Monday,02:10 PM,03:05 PM,306(LT)
+BCA,III,B1+B2,Introduction to Data Structures,Monday,03:05 PM,04:00 PM,306(LT)
+BCA,III,B1+B2,Digital Logic Design,Monday,04:00 PM,04:55 PM,306(LT)
+BCA,III,B1+B2,Project Based Learning,Wednesday,12:00 PM,12:55 PM,423/324/306 (LT)
+BCA,III,B1+B2,Foundations of Artificial Intelligence (DSE),Wednesday,12:55 PM,01:50 PM,423(LT)
+BCA,III,B1+B2,Introductions to Database Management Systems,Wednesday,02:10 PM,03:05 PM,423(LT)
+BCA,III,B1+B2,Career Skills - I,Wednesday,03:05 PM,04:00 PM,423(LT)
+BCA,III,B2,Database Management Systems Laboratory,Wednesday,04:00 PM,05:50 PM,LAB 7
+BCA,III,B1+B2,Project Based Learning,Thursday,12:00 PM,12:55 PM,423/324/306 (LT)
+BCA,III,B1+B2,Introductions to Database Management Systems,Thursday,12:55 PM,01:50 PM,423(LT)
+BCA,III,B1+B2,Foundations of Artificial Intelligence (DSE),Thursday,02:10 PM,03:05 PM,423(LT)
+BCA,III,B1+B2,Introduction to Data Structures,Thursday,03:05 PM,04:00 PM,423(LT)
+BCA,III,B2,Data Structures Laboratory,Thursday,04:00 PM,05:50 PM,LAB 4
+BCA,III,B1,Database Management Systems Laboratory,Thursday,04:00 PM,05:50 PM,LAB 7
+BCA,III,B1+B2,Introduction to Data Structures,Friday,12:55 PM,01:50 PM,306(LT)
+BCA,III,B,Data Structures Laboratory,Friday,02:10 PM,04:00 PM,LAB 7
+BCA,III,B1+B2,Introductions to Database Management Systems,Friday,04:00 PM,04:55 PM,324(LT)
+BCA,III,B1+B2,Digital Logic Design,Friday,04:55 PM,05:50 PM,324(LT)
+BCA AI&DS,III,A2,PBD 301,Monday,08:00 AM,09:50 AM,LAB 7
+BCA AI&DS,III,A1,PBD 302,Monday,08:00 AM,09:50 AM,LAB 4
+BCA AI&DS,III,A1+A2,TBD 301,Monday,10:10 AM,11:05 AM,324(LT)
+BCA AI&DS,III,A1+A2,TBD 302,Monday,11:05 AM,12:00 PM,324(LT)
+BCA AI&DS,III,A1+A2,XBD 301,Monday,12:00 PM,12:55 PM,324(LT)
+BCA AI&DS,III,A1,PBD 301,Tuesday,08:00 AM,09:50 AM,LAB7
+BCA AI&DS,III,A2,PBD 302,Tuesday,08:00 AM,09:50 AM,LAB 4
+BCA AI&DS,III,A1+A2,TBD 302,Tuesday,10:10 AM,11:05 AM,324(LT)
+BCA AI&DS,III,A1+A2,TBD 301,Tuesday,11:05 AM,12:00 PM,324(LT)
+BCA AI&DS,III,A1+A2,Project Based Learning,Tuesday,12:00 PM,12:55 PM,324/405 (LT)
+BCA AI&DS,III,A1+A2,XBD 301,Friday,08:00 AM,08:55 AM,405(LT)
+BCA AI&DS,III,A1+A2,TBD 303,Friday,08:55 AM,09:50 AM,405(LT)
+BCA AI&DS,III,A1+A2,TBD 301,Friday,10:10 AM,11:05 AM,405(LT)
+BCA AI&DS,III,A1+A2,TBD 313,Friday,11:05 AM,12:00 PM,405(LT)
+BCA AI&DS,III,A1+A2,TBD 302,Friday,12:00 PM,12:55 PM,405(LT)
+BCA AI&DS,III,A1+A2,TBD 303,Saturday,08:00 AM,08:55 AM,405(LT)
+BCA AI&DS,III,A1+A2,TBD 313,Saturday,08:55 AM,09:50 AM,324/405 (LT)
+BCA AI&DS,III,A1+A2,TBD 303,Saturday,10:10 AM,11:05 AM,405(LT)
+BCA AI&DS,III,A1+A2,TBD 313,Saturday,11:05 AM,12:00 PM,405(LT)
+BCA AI&DS,III,A1+A2,Project Based Learning,Saturday,12:00 PM,12:55 PM,324/405 (LT)
+BCA AI&DS,III,B1,Career Skills – 1,Tuesday,08:00 AM,08:55 AM,323(CR)
+BCA AI&DS,III,B1,Fundamentals of cloud computing (DSE),Tuesday,08:55 AM,09:50 AM,323(CR)
+BCA AI&DS,III,B1,Introduction to Machine Learning,Tuesday,10:10 AM,11:05 AM,323(CR)
+BCA AI&DS,III,B1,Project Based Learning,Tuesday,11:05 AM,12:00 PM,323(CR)
+BCA AI&DS,III,B1,Introduction to Data Structures,Wednesday,08:00 AM,08:55 AM,323(CR)
+BCA AI&DS,III,B1,Introduction to Database Management Systems,Wednesday,08:55 AM,09:50 AM,323(CR)
+BCA AI&DS,III,B1,Introduction to Machine Learning,Wednesday,10:10 AM,11:05 AM,323(CR)
+BCA AI&DS,III,B1,Fundamentals of cloud computing (DSE),Wednesday,11:05 AM,12:00 PM,323(CR)
+BCA AI&DS,III,B1,Data Structure Laboratory,Wednesday,12:00 PM,01:50 PM,LAB 4
+BCA AI&DS,III,B1,Career Skills – 1,Thursday,08:00 AM,08:55 AM,323(CR)
+BCA AI&DS,III,B1,Fundamentals of cloud computing (DSE),Thursday,08:55 AM,09:50 AM,323(CR)
+BCA AI&DS,III,B1,Introduction to Database Management Systems,Thursday,10:10 AM,11:05 AM,323(CR)
+BCA AI&DS,III,B1,Introduction to Data Structures,Thursday,11:05 AM,12:00 PM,323(CR)
+BCA AI&DS,III,B1,Database Management Systems and Machine Learning Laboratory,Thursday,12:00 PM,01:50 PM,LAB 4
+BCA AI&DS,III,B1,Introduction to Data Structures,Friday,08:00 AM,08:55 AM,323(CR)
+BCA AI&DS,III,B1,Introduction to Database Management Systems,Friday,08:55 AM,09:50 AM,323(CR)
+BCA AI&DS,III,B1,Introduction to Machine Learning,Friday,10:10 AM,11:05 AM,323(CR)
+BCA AI&DS,III,B1,Project Based Learning,Friday,11:05 AM,12:00 PM,323(CR)
+BCA AI&DS,III,B2,Introduction to Machine Learning,Tuesday,12:00 PM,03:05 PM,307(CR)
+BCA AI&DS,III,B2,Introduction to Data Structures,Tuesday,03:05 PM,05:50 PM,307(CR)
+BCA AI&DS,III,B2,Introduction to Machine Learning,Thursday,12:00 PM,03:05 PM,307(CR)
+BCA AI&DS,III,B2,Fundamentals of cloud computing (DSE),Thursday,03:05 PM,05:50 PM,307(CR)
+BCA AI&DS,III,B2,Fundamentals of cloud computing (DSE),Friday,12:00 PM,03:05 PM,307(CR)
+BCA AI&DS,III,B2,Introduction to Machine Learning,Friday,03:05 PM,05:50 PM,307(CR)
+BCA AI&DS,III,C1,Project Based Learning,Monday,12:00 PM,12:55 PM,323(CR)
+BCA AI&DS,III,C1,TBD 302,Monday,12:55 PM,01:50 PM,323(CR)
+BCA AI&DS,III,C1,XBD 301,Monday,02:10 PM,03:05 PM,323(CR)
+BCA AI&DS,III,C1,TBD 301,Monday,04:00 PM,05:50 PM,324(LT)
+BCA AI&DS,III,C1,TBD 313,Tuesday,12:00 PM,12:55 PM,015(CR)
+BCA AI&DS,III,C1,TBD 303,Tuesday,12:55 PM,01:50 PM,015(CR)
+BCA AI&DS,III,C1,PBD 301,Tuesday,02:10 PM,04:00 PM,LAB 8
+BCA AI&DS,III,C1,PBD 302,Tuesday,04:00 PM,05:50 PM,LAB 8
+BCA AI&DS,III,C1,TBD 303,Wednesday,12:00 PM,12:55 PM,323(CR)
+BCA AI&DS,III,C1,TBD 313,Wednesday,12:55 PM,01:50 PM,323(CR)
+BCA AI&DS,III,C1,TBD 313,Wednesday,02:10 PM,03:05 PM,323(CR)
+BCA AI&DS,III,C1,TBD 302,Wednesday,03:05 PM,04:00 PM,323(CR)
+BCA AI&DS,III,C1,TBD 301,Wednesday,04:55 PM,05:50 PM,323(CR)
+BCA AI&DS,III,C1,Project Based Learning,Thursday,12:00 PM,12:55 PM,323(CR)
+BCA AI&DS,III,C1,TBD 303,Thursday,12:55 PM,01:50 PM,016(CR)
+BCA AI&DS,III,C1,XBD 301,Thursday,02:10 PM,03:05 PM,323(CR)
+BCA AI&DS,III,C1,TBD 302,Thursday,03:05 PM,04:00 PM,323(CR)
+BCA AI&DS,III,C1,TBD 301,Thursday,04:00 PM,05:50 PM,306(LT)
+BCA AI&DS,III,C2,Project Based Learning,Monday,12:00 PM,12:55 PM,307(CR)
+BCA AI&DS,III,C2,XBD 301,Monday,12:55 PM,01:50 PM,307(CR)
+BCA AI&DS,III,C2,TBD 303,Monday,02:10 PM,03:05 PM,307(CR)
+BCA AI&DS,III,C2,TBD 302,Wednesday,12:00 PM,12:55 PM,307(CR)
+BCA AI&DS,III,C2,TBD 313,Wednesday,12:55 PM,01:50 PM,307(CR)
+BCA AI&DS,III,C2,TBD 302,Wednesday,02:10 PM,03:05 PM,307(CR)
+BCA AI&DS,III,C2,TBD 303,Wednesday,03:05 PM,04:00 PM,307(CR)
+BCA AI&DS,III,C2,TBD 301,Wednesday,04:55 PM,05:50 PM,307(CR)
+BCA AI&DS,III,C2,XBD 301,Thursday,12:00 PM,12:55 PM,015(CR)
+BCA AI&DS,III,C2,TBD 302,Thursday,12:55 PM,01:50 PM,015(CR)
+BCA AI&DS,III,C2,TBD 303,Thursday,02:10 PM,03:05 PM,015(CR)
+BCA AI&DS,III,C2,TBD 313,Thursday,03:05 PM,04:00 PM,015(CR)
+BCA AI&DS,III,C2,PBD 301,Saturday,12:00 PM,01:50 PM,LAB 6
+BCA AI&DS,III,C2,PBD 302,Saturday,02:10 PM,04:00 PM,LAB 7
+B.Sc. IT,III,,Introduction to Data Structures Laboratory,Monday,12:00 PM,01:50 PM,LAB 4
+B.Sc. IT,III,,Foundations of Artificial Intelligence,Monday,02:10 PM,03:05 PM,301(CR)
+B.Sc. IT,III,,Career Skills – 1,Monday,03:05 PM,04:00 PM,301(CR)
+B.Sc. IT,III,,Project Based Learning,Monday,04:00 PM,04:55 PM,301(CR)
+B.Sc. IT,III,,Introduction to Operating System,Tuesday,12:55 PM,01:50 PM,301(CR)
+B.Sc. IT,III,,Introductions to Database Management Systems,Tuesday,02:10 PM,03:05 PM,301(CR)
+B.Sc. IT,III,,Foundations of Artificial Intelligence,Tuesday,03:05 PM,04:00 PM,301(CR)
+B.Sc. IT,III,,Introductions to Database Management Systems,Tuesday,04:00 PM,04:55 PM,301(CR)
+B.Sc. IT,III,,Introduction to Operating System,Thursday,12:00 PM,12:55 PM,301(CR)
+B.Sc. IT,III,,Introduction to Data Structures,Thursday,12:55 PM,01:50 PM,323(CR)
+B.Sc. IT,III,,PBI 301,Thursday,02:10 PM,04:00 PM,LAB 7
+B.Sc. IT,III,,Introduction to Data Structures,Thursday,04:00 PM,04:55 PM,307(CR)
+B.Sc. IT,III,,Project Based Learning,Thursday,04:55 PM,05:50 PM,301(CR)
+B.Sc. IT,III,,Foundations of Artificial Intelligence,Friday,12:00 PM,12:55 PM,301(CR)
+B.Sc. IT,III,,Introduction to Operating System,Friday,12:55 PM,01:50 PM,301(CR)
+B.Sc. IT,III,,Introduction to Data Structures,Friday,03:05 PM,04:00 PM,301(CR)
+B.Sc. IT,III,,Career Skills – 1,Friday,04:00 PM,04:55 PM,301(CR)
+B.Sc. IT,III,,Introductions to Database Management Systems,Friday,04:55 PM,05:50 PM,301(CR)
+BCA CS,III,,Project Based Learning,Tuesday,12:00 PM,12:55 PM,301(CR)
+BCA CS,III,,Ethical Hacking (DSE),Tuesday,12:55 PM,01:50 PM,323(CR)
+BCA CS,III,,Introduction to Data Structures,Tuesday,02:10 PM,03:05 PM,323(CR)
+BCA CS,III,,Cryptography,Tuesday,03:05 PM,04:00 PM,323(CR)
+BCA CS,III,,Career Skills – 1,Tuesday,04:00 PM,04:55 PM,323(CR)
+BCA CS,III,,Operating Systems and Security,Wednesday,12:55 PM,01:50 PM,301(CR)
+BCA CS,III,,Career Skills – 1,Wednesday,02:10 PM,03:05 PM,301(CR)
+BCA CS,III,,Introduction to Data Structures,Wednesday,03:05 PM,04:00 PM,301(CR)
+BCA CS,III,,Introduction to Data Structures Laboratory,Wednesday,04:00 PM,05:50 PM,LAB 4
+BCA CS,III,,Operating Systems and Security,Thursday,12:00 PM,12:55 PM,301(CR)
+BCA CS,III,,Introduction to Data Structures,Thursday,12:55 PM,01:50 PM,301(CR)
+BCA CS,III,,Ethical Hacking (DSE),Thursday,02:10 PM,03:05 PM,301(CR)
+BCA CS,III,,Cryptography,Thursday,04:00 PM,04:55 PM,301(CR)
+BCA CS,III,,Ethical Hacking (DSE),Thursday,04:55 PM,05:50 PM,301(CR)
+BCA CS,III,,Cryptography,Saturday,12:55 PM,01:50 PM,301(CR)
+BCA CS,III,,Project Based Learning,Saturday,02:10 PM,03:05 PM,301(CR)
+BCA CS,III,,Operating Systems and Security,Saturday,03:05 PM,04:00 PM,301(CR)
+BCA CS,III,,Operating Systems and Security Laboratory,Saturday,04:00 PM,05:50 PM,LAB 4
+BCA,V,A1+B1,Introduction to Java Programming,Monday,08:00 AM,08:55 AM,324(LT)
+BCA,V,A1+B1,Introduction to Microcontrollers,Monday,08:55 AM,09:50 AM,324(LT)
+BCA,V,B1,Data Mining Laboratory,Monday,10:10 AM,12:00 PM,LAB4
+BCA,V,A1,Java Programming Laboratory,Monday,10:10 AM,12:00 PM,LAB6
+BCA,V,A1+B1,Project Based Learning,Monday,12:00 PM,12:55 PM,324(LT)
+BCA,V,A1+B1,CEC 113,Monday,12:55 PM,01:50 PM,113(CR)
+BCA,V,A1+B1,Introduction to Data Mining,Tuesday,08:00 AM,08:55 AM,324(LT)
+BCA,V,A1+B1,Introduction to Machine Learning (DSE),Tuesday,08:55 AM,09:50 AM,324(LT)
+BCA,V,A1,Data Mining Laboratory,Tuesday,10:10 AM,12:00 PM,LAB4
+BCA,V,B1,Java Programming Laboratory,Tuesday,10:10 AM,12:00 PM,LAB6
+BCA,V,A1+B1,Project Based Learning,Tuesday,12:00 PM,12:55 PM,324(LT)
+BCA,V,A1+B1,Introduction to Data Mining,Wednesday,08:00 AM,08:55 AM,324(LT)
+BCA,V,A1+B1,Introduction to Microcontrollers,Wednesday,08:55 AM,09:50 AM,324(LT)
+BCA,V,A1+B1,Career Skills – 3,Wednesday,10:10 AM,11:05 AM,324(LT)
+BCA,V,A1+B1,Introduction to Machine Learning (DSE),Wednesday,11:05 AM,12:00 PM,324(LT)
+BCA,V,A1+B1,Introduction to Data Mining,Wednesday,12:00 PM,12:55 PM,324(LT)
+BCA,V,A1+B1,Introduction to Microcontrollers,Thursday,08:00 AM,08:55 AM,324(LT)
+BCA,V,A1+B1,Introduction to Java Programming,Thursday,08:55 AM,09:50 AM,324(LT)
+BCA,V,A1+B1,Introduction to Machine Learning (DSE),Thursday,10:10 AM,11:05 AM,324(LT)
+BCA,V,A1+B1,Introduction to Java Programming,Thursday,11:05 AM,12:00 PM,324(LT)
+BCA,V,A1+B1,Career Skills – 3,Thursday,12:00 PM,12:55 PM,324(LT)
+BCA,V,C1+D1,Introduction to Microcontrollers,Tuesday,04:00 PM,04:55 PM,423(LT)
+BCA,V,C1+D1,Career Skills – 3,Wednesday,12:00 PM,12:55 PM,423(LT)
+BCA,V,C1+D1,Project Based Learning,Wednesday,12:55 PM,01:50 PM,423(LT)
+BCA,V,C1,Data Mining Laboratory,Wednesday,02:10 PM,04:00 PM,LAB 4
+BCA,V,D1,Java Programming Laboratory,Wednesday,02:10 PM,04:00 PM,LAB 6
+BCA,V,C1+D1,Introduction to Machine Learning,Wednesday,04:00 PM,04:55 PM,423(LT)
+BCA,V,C1+D1,Introduction to Microcontrollers,Wednesday,04:55 PM,05:50 PM,423(LT)
+BCA,V,C1+D1,Introduction to Java Programming,Thursday,12:00 PM,12:55 PM,423(LT)
+BCA,V,C1+D1,Project Based Learning,Thursday,12:55 PM,01:50 PM,423(LT)
+BCA,V,C1+D1,Introduction to Microcontrollers,Thursday,03:05 PM,04:00 PM,405(LT)
+BCA,V,C1+D1,Introduction to Machine Learning,Thursday,04:00 PM,04:55 PM,405(LT)
+BCA,V,C1+D1,Introduction to Java Programming,Thursday,04:55 PM,05:50 PM,405(LT)
+BCA,V,D1,Data Mining Laboratory,Friday,02:10 PM,04:00 PM,LAB 4
+BCA,V,C1,Java Programming Laboratory,Friday,02:10 PM,04:00 PM,LAB 6
+BCA,V,C1+D1,Introduction to Java Programming,Friday,04:00 PM,04:55 PM,423(LT)
+BCA,V,C1+D1,CEC 423,Friday,04:55 PM,05:50 PM,423(LT)
+BCA,V,A2+B2,Project Based Learning,Monday,12:00 PM,12:55 PM,324(LT)
+BCA,V,A2+B2,Introduction to Data Mining,Monday,12:55 PM,01:50 PM,324(LT)
+BCA,V,A2+B2,Career Skills – 3,Monday,02:10 PM,03:05 PM,324(LT)
+BCA,V,A2+B2,Introduction to Microcontrollers,Monday,03:05 PM,04:00 PM,324(LT)
+BCA,V,A2,Data Mining Laboratory,Monday,04:00 PM,05:50 PM,LAB 6
+BCA,V,A2+B2,Introduction to Microcontrollers,Tuesday,12:00 PM,12:55 PM,324(LT)
+BCA,V,A2+B2,Introduction to Data Mining,Tuesday,12:55 PM,01:50 PM,324(LT)
+BCA,V,A2+B2,Introduction to Java Programming,Tuesday,02:10 PM,03:05 PM,324(LT)
+BCA,V,A2+B2,Introduction to Data Mining,Tuesday,03:05 PM,04:00 PM,324(LT)
+BCA,V,A2,Java Programming Laboratory,Tuesday,04:00 PM,05:50 PM,LAB 7
+BCA,V,B2,Data Mining Laboratory,Tuesday,04:00 PM,05:50 PM,LAB 4
+BCA,V,A2+B2,Project Based Learning,Wednesday,12:00 PM,12:55 PM,324(LT)
+BCA,V,A2+B2,Introduction to Java Programming,Wednesday,12:55 PM,01:50 PM,324(LT)
+BCA,V,A2+B2,Introduction to Machine Learning,Wednesday,02:10 PM,03:05 PM,324(LT)
+BCA,V,A2+B2,Career Skills – 3,Wednesday,03:05 PM,04:00 PM,324(LT)
+BCA,V,B2,Java Programming Laboratory,Wednesday,04:00 PM,05:50 PM,LAB 8
+BCA,V,A2+B2,Introduction to Machine Learning,Thursday,12:55 PM,01:50 PM,324(LT)
+BCA,V,A2+B2,Introduction to Microcontrollers,Thursday,02:10 PM,03:05 PM,324(LT)
+BCA,V,A2+B2,Introduction to Java Programming,Thursday,03:05 PM,04:00 PM,324(LT)
+BCA,V,A2+B2,Introduction to Machine Learning,Thursday,04:00 PM,04:55 PM,324(LT)
+BCA,V,A2+B2,CEC 306,Thursday,04:55 PM,05:50 PM,306(LT)
+BCA,V,C2+D2,Introduction to Java Programming,Wednesday,08:00 AM,08:55 AM,306(LT)
+BCA,V,C2+D2,Introduction to Data Mining,Wednesday,08:55 AM,09:50 AM,306(LT)
+BCA,V,C2+D2,Career Skills – 3,Wednesday,10:10 AM,11:05 AM,306(LT)
+BCA,V,C2+D2,Introduction to Microcontrollers,Wednesday,11:05 AM,12:00 PM,306(LT)
+BCA,V,C2+D2,Introduction to Machine Learning,Wednesday,12:00 PM,12:55 PM,306(LT)
+BCA,V,C2+D2,Introduction to Java Programming,Thursday,08:00 AM,08:55 AM,306(LT)
+BCA,V,C2+D2,Introduction to Machine Learning,Thursday,08:55 AM,09:50 AM,306(LT)
+BCA,V,C2+D2,Career Skills – 3,Thursday,10:10 AM,11:05 AM,306(LT)
+BCA,V,C2+D2,Introduction to Data Mining,Thursday,11:05 AM,12:00 PM,306(LT)
+BCA,V,C2+D2,Project Based Learning,Thursday,12:00 PM,12:55 PM,306(LT)
+BCA,V,C2+D2,Introduction to Machine Learning,Friday,08:00 AM,08:55 AM,306(LT)
+BCA,V,C2+D2,Introduction to Microcontrollers,Friday,08:55 AM,09:50 AM,306(LT)
+BCA,V,C2,Data Mining Laboratory,Friday,10:10 AM,12:00 PM,LAB 4
+BCA,V,D2,Java Programming Laboratory,Friday,10:10 AM,12:00 PM,LAB 6
+BCA,V,C2+D2,Introduction to Microcontrollers,Friday,12:00 PM,12:55 PM,306(LT)
+BCA,V,C2+D2,Introduction to Java Programming,Saturday,08:00 AM,08:55 AM,306(LT)
+BCA,V,C2+D2,Introduction to Data Mining,Saturday,08:55 AM,09:50 AM,306(LT)
+BCA,V,D2,Data Mining Laboratory,Saturday,10:10 AM,12:00 PM,LAB 4
+BCA,V,C2,Java Programming Laboratory,Saturday,10:10 AM,12:00 PM,LAB 6
+BCA,V,C2+D2,CEC 306,Saturday,12:00 PM,12:55 PM,306(LT)
+BCA AI&DS,V,A1+B1,Project Based Learning,Thursday,11:05 AM,12:00 PM,324(LT)/ 306(LT)
+BCA AI&DS,V,A1+B1,Career Skills – 3,Thursday,12:00 PM,12:55 PM,306(LT)
+BCA AI&DS,V,A1+B1,Introduction to Mobile Application Development (DSE),Thursday,12:55 PM,01:50 PM,306(LT)
+BCA AI&DS,V,A1+B1,Introduction to Machine Learning,Thursday,02:10 PM,03:05 PM,306(LT)
+BCA AI&DS,V,A1+B1,Programming with ‘R’,Thursday,03:05 PM,04:00 PM,306(LT)
+BCA AI&DS,V,B1,Programming with 'R' laboratory,Thursday,04:00 PM,05:50 PM,LAB 6
+BCA AI&DS,V,A1+B1,Project Based Learning,Friday,11:05 AM,12:00 PM,324(LT)/ 306(LT)
+BCA AI&DS,V,A1+B1,Introduction to Mobile Application Development (DSE),Friday,12:00 PM,12:55 PM,324(LT)
+BCA AI&DS,V,A1+B1,Introduction to Machine Learning,Friday,12:55 PM,01:50 PM,324(LT)
+BCA AI&DS,V,A1+B1,Programming with ‘R’,Friday,02:10 PM,03:05 PM,324(LT)
+BCA AI&DS,V,A1+B1,Introduction to Mobile Application Development (DSE),Friday,03:05 PM,04:00 PM,324(LT)
+BCA AI&DS,V,A1,Programming with 'R' laboratory,Friday,04:00 PM,05:50 PM,LAB 7
+BCA AI&DS,V,B1,Machine Learning-1 Laboratory,Friday,04:00 PM,05:50 PM,LAB 8
+BCA AI&DS,V,A1,Machine Learning-1 Laboratory,Saturday,12:00 PM,01:50 PM,LAB 4
+BCA AI&DS,V,A1+B1,Introduction to Machine Learning,Saturday,02:10 PM,03:05 PM,324(LT)
+BCA AI&DS,V,A1+B1,Career Skills – 3,Saturday,03:05 PM,04:00 PM,324(LT)
+BCA AI&DS,V,A1+B1,Programming with ‘R’,Saturday,04:00 PM,04:55 PM,324(LT)
+BCA AI&DS,V,A1+B1,CEC 306,Saturday,04:55 PM,05:50 PM,306(LT)
+BCA AI&DS,V,C1+A2,Introduction to Mobile Application Development (DSE),Tuesday,12:00 PM,12:55 PM,306(LT)
+BCA AI&DS,V,C1+A2,Programming with ‘R’,Tuesday,12:55 PM,01:50 PM,306(LT)
+BCA AI&DS,V,C1+A2,Introduction to Mobile Application Development (DSE),Tuesday,02:10 PM,03:05 PM,306(LT)
+BCA AI&DS,V,C1+A2,Introduction to Machine Learning,Tuesday,03:05 PM,04:00 PM,306(LT)
+BCA AI&DS,V,C1,Machine Learning-1 Laboratory,Wednesday,12:00 PM,01:50 PM,LAB 6
+BCA AI&DS,V,A2,Programming with 'R' laboratory,Wednesday,12:00 PM,01:50 PM,LAB 8
+BCA AI&DS,V,A2,Machine Learning-1 Laboratory,Wednesday,02:10 PM,04:00 PM,LAB 7
+BCA AI&DS,V,C1,Programming with 'R' laboratory,Wednesday,02:10 PM,04:00 PM,LAB 8
+BCA AI&DS,V,C1+A2,Introduction to Machine Learning,Friday,12:00 PM,12:55 PM,423(LT)
+BCA AI&DS,V,C1+A2,Programming with ‘R’,Friday,12:55 PM,01:50 PM,423(LT)
+BCA AI&DS,V,C1+A2,Introduction to Mobile Application Development (DSE),Friday,02:10 PM,03:05 PM,423(LT)
+BCA AI&DS,V,C1+A2,Career Skills – 3,Friday,03:05 PM,04:00 PM,423(LT)
+BCA AI&DS,V,C1+A2,Project Based Learning,Friday,04:00 PM,04:55 PM,306(LT)/ 423(LT)
+BCA AI&DS,V,C1+A2,Project Based Learning,Saturday,12:00 PM,12:55 PM,306(LT)/ 423(LT)
+BCA AI&DS,V,C1+A2,Programming with ‘R’,Saturday,12:55 PM,01:50 PM,306(LT)
+BCA AI&DS,V,C1+A2,Career Skills – 3,Saturday,02:10 PM,03:05 PM,306(LT)
+BCA AI&DS,V,C1+A2,Introduction to Machine Learning,Saturday,03:05 PM,04:00 PM,306(LT)
+BCA AI&DS,V,C1+A2,CEC 306,Saturday,04:00 PM,04:55 PM,306(LT)/ 423(LT)
+B.Sc. IT,V,,Career Skills – 3,Wednesday,08:00 AM,08:55 AM,301(CR)
+B.Sc. IT,V,,Programming with .Net C#,Wednesday,08:55 AM,09:50 AM,301(CR)
+B.Sc. IT,V,,Cryptography,Wednesday,10:10 AM,11:05 AM,301(CR)
+B.Sc. IT,V,,Software Project Management (DSE),Wednesday,11:05 AM,12:00 PM,301(CR)
+B.Sc. IT,V,,Programming with .Net C#,Wednesday,12:00 PM,12:55 PM,301(CR)
+B.Sc. IT,V,,Software Project Management (DSE),Thursday,08:00 AM,08:55 AM,301(CR)
+B.Sc. IT,V,,Career Skills – 3,Thursday,08:55 AM,09:50 AM,301(CR)
+B.Sc. IT,V,,Programming with .Net C# Laboratory,Thursday,10:10 AM,12:00 PM,LAB 7
+B.Sc. IT,V,,Android Programming,Thursday,12:00 PM,12:55 PM,016(CR)
+B.Sc. IT,V,,Android Programming,Friday,08:00 AM,08:55 AM,301(CR)
+B.Sc. IT,V,,Programming with .Net C#,Friday,08:55 AM,09:50 AM,301(CR)
+B.Sc. IT,V,,Cryptography,Friday,10:10 AM,11:05 AM,301(CR)
+B.Sc. IT,V,,Software Project Management (DSE),Friday,11:05 AM,12:00 PM,301(CR)
+B.Sc. IT,V,,CEC 323,Friday,12:00 PM,12:55 PM,323(CR)
+B.Sc. IT,V,,Android Programming,Saturday,08:00 AM,08:55 AM,301(CR)
+B.Sc. IT,V,,Cryptography,Saturday,08:55 AM,09:50 AM,301(CR)
+B.Sc. IT,V,,Android Programming Laboratory,Saturday,10:10 AM,12:00 PM,LAB 7
+B.Sc. IT,V,,Project Based Learning,Saturday,12:00 PM,12:55 PM,301(CR)
+BCA CS,V,,Introduction to Blockchain and Cryptocurrency (DSE),Tuesday,08:00 AM,08:55 AM,301(CR)
+BCA CS,V,,Career Skills – 3,Tuesday,08:55 AM,09:50 AM,301(CR)
+BCA CS,V,,Security and Privacy in Cloud Lab,Tuesday,10:10 AM,12:00 PM,LAB 7
+BCA CS,V,,Introduction to Microcontrollers,Tuesday,12:00 PM,12:55 PM,323(CR)
+BCA CS,V,,Introduction to Microcontrollers,Wednesday,08:00 AM,08:55 AM,013(CR)
+BCA CS,V,,Introduction to Blockchain and Cryptocurrency (DSE),Wednesday,08:55 AM,09:50 AM,013(CR)
+BCA CS,V,,Project Based Learning,Wednesday,10:10 AM,11:05 AM,013(CR)
+BCA CS,V,,Web Application Security,Wednesday,11:05 AM,12:00 PM,007(CR)
+BCA CS,V,,Security and Privacy in Cloud,Wednesday,12:00 PM,12:55 PM,007(CR)
+BCA CS,V,,Security and Privacy in Cloud,Friday,08:00 AM,08:55 AM,013(CR)
+BCA CS,V,,Web Application Security,Friday,08:55 AM,09:50 AM,013(CR)
+BCA CS,V,,Introduction to Microcontrollers,Friday,10:10 AM,11:05 AM,013(CR)
+BCA CS,V,,Career Skills – 3,Friday,11:05 AM,12:00 PM,013(CR)
+BCA CS,V,,Security and Privacy in Cloud,Friday,12:00 PM,12:55 PM,013(CR)
+BCA CS,V,,Web Application Security lab,Saturday,08:00 AM,09:50 AM,LAB 8
+BCA CS,V,,Web Application Security,Saturday,10:10 AM,11:05 AM,013(CR)
+BCA CS,V,,Introduction to Blockchain and Cryptocurrency (DSE),Saturday,11:05 AM,12:00 PM,013(CR)
+BCA CS,V,,Project Based Learning,Saturday,12:00 PM,12:55 PM,013(CR)
+BCA CS,V,,CEC 013,Saturday,12:55 PM,01:50 PM,013(CR)
+BCA AI&DS,VII,A,TBD 704,Monday,08:00 AM,08:55 AM,323(CR)
+BCA AI&DS,VII,,Artificial Neural Networks and Deep Learning,Monday,08:55 AM,09:50 AM,323(CR)
+BCA AI&DS,VII,B,TBD 703,Monday,10:10 AM,11:05 AM,323(CR)
+BCA AI&DS,VII,,Artificial Neural Networks and Deep Learning,Tuesday,08:00 AM,08:55 AM,307(CR)
+BCA AI&DS,VII,B,TBD 703,Tuesday,08:55 AM,09:50 AM,307(CR)
+BCA AI&DS,VII,,Natural Language Processing,Tuesday,10:10 AM,11:05 AM,307(CR)
+BCA AI&DS,VII,A,TBD 704,Tuesday,11:05 AM,12:00 PM,307(CR)
+BCA AI&DS,VII,,Natural Language Processing,Wednesday,08:00 AM,08:55 AM,007(CR)
+BCA AI&DS,VII,A,TBD 704,Wednesday,08:55 AM,09:50 AM,007(CR)
+BCA AI&DS,VII,,Artificial Neural Networks and Deep Learning,Wednesday,10:10 AM,11:05 AM,007(CR)
+BCA AI&DS,VII,,Natural Language Processing,Thursday,08:00 AM,08:55 AM,307(CR)
+BCA AI&DS,VII,,Artificial Neural Networks and Deep Learning,Thursday,08:55 AM,09:50 AM,307(CR)
+BCA AI&DS,VII,B,TBD 703,Thursday,10:10 AM,11:05 AM,307(CR)
+BCA AI&DS,VII,,Natural Language Processing,Thursday,11:05 AM,12:00 PM,307(CR)
+BCA AI&DS,VII,,ANN and Deep Learning Lab,Friday,08:00 AM,09:50 AM,LAB 4
+BCA AI&DS,VII,,NLP Lab,Friday,10:10 AM,12:00 PM,LAB 7
+MCA,III,A+B+C,Data Warehousing and Mining (DSE),Monday,08:00 AM,08:55 AM,405(LT)
+MCA,III,A+B+C,Mobile Application Development,Monday,08:55 AM,09:50 AM,405(LT)
+MCA,III,A+B+C,Design and Analysis of Algorithms,Monday,10:10 AM,11:05 AM,405(LT)
+MCA,III,A+B+C,Career Skills – III,Monday,11:05 AM,12:00 PM,405(LT)
+MCA,III,C,Design and Analysis of Algorithms Laboratory,Monday,12:00 PM,01:50 PM,LAB 6
+MCA,III,A,Mobile Application Development Laboratory,Monday,12:00 PM,01:50 PM,LAB 7
+MCA,III,A+B+C,Mobile Application Development,Tuesday,08:00 AM,08:55 AM,405(LT)
+MCA,III,A+B+C,Design and Analysis of Algorithms,Tuesday,08:55 AM,09:50 AM,405(LT)
+MCA,III,A+B+C,Advanced Java Programming,Tuesday,10:10 AM,11:05 AM,405(LT)
+MCA,III,A,Advanced Java Programming Laboratory,Tuesday,12:00 PM,01:50 PM,405(LT)
+MCA,III,A+B+C,Design and Analysis of Algorithms,Wednesday,08:00 AM,08:55 AM,405(LT)
+MCA,III,A+B+C,Advanced Java Programming,Wednesday,08:55 AM,09:50 AM,405(LT)
+MCA,III,A+B+C,Career Skills – III,Wednesday,10:10 AM,11:05 AM,405(LT)
+MCA,III,A+B+C,Data Warehousing and Mining (DSE),Wednesday,11:05 AM,12:00 PM,405(LT)
+MCA,III,B,Mobile Application Development Laboratory,Wednesday,12:00 PM,01:50 PM,405(LT)
+MCA,III,A+B+C,Mobile Application Development,Thursday,08:00 AM,08:55 AM,405(LT)
+MCA,III,A+B+C,Advanced Java Programming,Thursday,08:55 AM,09:50 AM,405(LT)
+MCA,III,A+B+C,Data Warehousing and Mining (DSE),Thursday,10:10 AM,11:05 AM,405(LT)
+MCA,III,A+B+C,Introduction to Object-Oriented Programming (Bridge Course),Thursday,11:05 AM,12:00 PM,405(LT)
+MCA,III,C,Advanced Java Programming Laboratory,Thursday,12:00 PM,01:50 PM,LAB 6
+MCA,III,B,Design and Analysis of Algorithms Laboratory,Thursday,12:00 PM,01:50 PM,LAB 8
+MCA,III,A,Design and Analysis of Algorithms Laboratory,Friday,08:00 AM,09:50 AM,LAB 6
+MCA,III,C,Mobile Application Development Laboratory,Friday,08:00 AM,09:50 AM,LAB7
+MCA,III,B,Advanced Java Programming Laboratory,Friday,08:00 AM,09:50 AM,LAB 8
+MCA,III,A+B+C,Data Warehousing and Mining (DSE),Friday,10:10 AM,11:05 AM,306(LT)
+MCA,III,A+B+C,Project Based Learning,Friday,11:05 AM,12:00 PM,405(LT)
+MCA,III,A+B+C,Project Based Learning,Friday,12:00 PM,12:55 PM,405(LT)
+MCA AI&DS,III,A+B+C,Career Skills – III,Monday,08:00 AM,08:55 AM,306(LT)
+MCA AI&DS,III,A+B+C,Machine Learning - I,Monday,08:55 AM,09:50 AM,306(LT)
+MCA AI&DS,III,A+B+C,Design and Analysis of Algorithm,Monday,10:10 AM,11:05 AM,306(LT)
+MCA AI&DS,III,A+B+C,C# and .NET (DSE),Monday,11:05 AM,12:00 PM,306(LT)
+MCA AI&DS,III,B,Design and Analysis of Algorithms Laboratory,Monday,12:00 PM,01:50 PM,LAB 8
+MCA AI&DS,III,A+B+C,C# and .NET (DSE),Tuesday,08:00 AM,08:55 AM,306(LT)
+MCA AI&DS,III,A+B+C,Machine Learning - I,Tuesday,08:55 AM,09:50 AM,306(LT)
+MCA AI&DS,III,A+B+C,Design and Analysis of Algorithm,Tuesday,10:10 AM,11:05 AM,306(LT)
+MCA AI&DS,III,A+B+C,R Programming,Tuesday,11:05 AM,12:00 PM,306(LT)
+MCA AI&DS,III,A+B+C,Project Based Learning,Tuesday,12:00 PM,12:55 PM,306/423 (LT)
+MCA AI&DS,III,A+B+C,Career Skills – III,Wednesday,08:00 AM,08:55 AM,423(LT)
+MCA AI&DS,III,A+B+C,Data Analytics and Visualization,Wednesday,08:55 AM,09:50 AM,423(LT)
+MCA AI&DS,III,A,Design and Analysis of Algorithms Laboratory,Wednesday,10:10 AM,12:00 PM,LAB 6
+MCA AI&DS,III,B,Machine Learning - I Laboratory,Wednesday,10:10 AM,12:00 PM,LAB 8
+MCA AI&DS,III,C,R Programming Laboratory,Wednesday,10:10 AM,12:00 PM,LAB 7
+MCA AI&DS,III,A+B+C,R Programming,Thursday,08:00 AM,08:55 AM,423(LT)
+MCA AI&DS,III,A+B+C,C# and .NET (DSE),Thursday,08:55 AM,09:50 AM,423(LT)
+MCA AI&DS,III,C,Design and Analysis of Algorithms Laboratory,Thursday,10:10 AM,12:00 PM,LAB 6
+MCA AI&DS,III,A,Machine Learning - I Laboratory,Thursday,10:10 AM,12:00 PM,LAB 4
+MCA AI&DS,III,B,R Programming Laboratory,Thursday,10:10 AM,12:00 PM,LAB 8
+MCA AI&DS,III,C,Machine Learning - I Laboratory,Thursday,12:00 PM,01:50 PM,LAB 7
+MCA AI&DS,III,A+B+C,C# and .NET (DSE),Friday,08:00 AM,08:55 AM,423(LT)
+MCA AI&DS,III,A+B+C,Machine Learning - I,Friday,08:55 AM,09:50 AM,423(LT)
+MCA AI&DS,III,A+B+C,Career Skills – III,Friday,10:10 AM,11:05 AM,423(LT)
+MCA AI&DS,III,A+B+C,Design and Analysis of Algorithm,Friday,11:05 AM,12:00 PM,423(LT)
+MCA AI&DS,III,A+B+C,Data Analytics and Visualization,Saturday,08:00 AM,08:55 AM,423(LT)
+MCA AI&DS,III,A+B+C,R Programming,Saturday,08:55 AM,09:50 AM,423(LT)
+MCA AI&DS,III,A+B+C,Data Analytics and Visualization,Saturday,10:10 AM,11:05 AM,423(LT)
+MCA AI&DS,III,A+B+C,Project Based Learning,Saturday,11:05 AM,12:00 PM,306/423 (LT)
+MCA AI&DS,III,A,R Programming Laboratory,Saturday,12:00 PM,01:50 PM,LAB 7
+BCA,III,A1+A2,Foundations of Artificial Intelligence (DSE),Tuesday,10:10 AM,11:05 AM,423(LT)
+BCA,III,A1+A2,Introductions to Database Management Systems,Tuesday,12:00 PM,12:55 PM,423(LT)
+BCA,III,B1+B2,Foundations of Artificial Intelligence (DSE),Thursday,12:55 PM,01:50 PM,423(LT)
+BCA,III,B1+B2,Introductions to Database Management Systems,Thursday,02:10 PM,03:05 PM,423(LT)
+BCA AI&DS,III,A2,PBD 301,Monday,08:00 AM,12:00 PM,LAB 7
+BCA AI&DS,III,A1,PBD 302,Monday,08:00 AM,12:00 PM,LAB 4
+BCA AI&DS,III,A1+A2,TBD 301,Monday,12:00 PM,03:05 PM,324(LT)
+BCA AI&DS,III,A1+A2,TBD 302,Monday,03:05 PM,04:00 PM,324(LT)
+BCA AI&DS,III,A1+A2,XBD 301,Monday,04:00 PM,04:55 PM,324(LT)
+BCA AI&DS,III,A1,PBD 301,Tuesday,08:00 AM,12:00 PM,LAB7
+BCA AI&DS,III,A2,PBD 302,Tuesday,08:00 AM,12:00 PM,LAB 4
+BCA AI&DS,III,A1+A2,TBD 302,Tuesday,12:00 PM,03:05 PM,324(LT)
+BCA AI&DS,III,A1+A2,TBD 301,Tuesday,03:05 PM,04:00 PM,324(LT)
+BCA AI&DS,III,A1+A2,Project Based Learning,Tuesday,04:00 PM,04:55 PM,324/405 (LT)
+BCA AI&DS,III,A1+A2,XBD 301,Friday,08:00 AM,11:05 AM,405(LT)
+BCA AI&DS,III,A1+A2,TBD 303,Friday,11:05 AM,12:00 PM,405(LT)
+BCA AI&DS,III,A1+A2,TBD 301,Friday,12:00 PM,03:05 PM,405(LT)
+BCA AI&DS,III,A1+A2,TBD 313,Friday,03:05 PM,04:00 PM,405(LT)
+BCA AI&DS,III,A1+A2,TBD 302,Friday,04:00 PM,04:55 PM,405(LT)
+BCA AI&DS,III,A1+A2,TBD 313,Saturday,03:05 PM,04:00 PM,405(LT)
+BCA AI&DS,III,A1+A2,Project Based Learning,Saturday,04:00 PM,04:55 PM,324/405 (LT)
+BCA AI&DS,III,B2,TBD 303,Tuesday,12:00 PM,12:55 PM,307(CR)
+BCA AI&DS,III,B2,TBD 301,Tuesday,12:55 PM,01:50 PM,307(CR)
+BCA AI&DS,III,B2,XBD 301,Tuesday,02:10 PM,03:05 PM,307(CR)
+BCA AI&DS,III,B2,TBD 302,Tuesday,03:05 PM,04:00 PM,307(CR)
+BCA AI&DS,III,B2,Project Based Learning,Tuesday,04:00 PM,04:55 PM,307(CR)
+BCA AI&DS,III,B2,TBD 303,Thursday,12:00 PM,12:55 PM,307(CR)
+BCA AI&DS,III,B2,TBD 313,Thursday,12:55 PM,01:50 PM,307(CR)
+BCA AI&DS,III,B2,TBD 301,Thursday,02:10 PM,03:05 PM,307(CR)
+BCA AI&DS,III,B2,XBD 301,Thursday,03:05 PM,04:00 PM,307(CR)
+BCA AI&DS,III,B2,Project Based Learning,Thursday,04:00 PM,04:55 PM,307(CR)
+BCA AI&DS,III,B2,TBD 313,Friday,12:00 PM,12:55 PM,307(CR)
+BCA AI&DS,III,B2,TBD 303,Friday,12:55 PM,01:50 PM,307(CR)
+BCA AI&DS,III,B2,PBD 301,Friday,02:10 PM,04:00 PM,LAB 8
+BCA AI&DS,III,B2,TBD 301,Friday,04:00 PM,04:55 PM,007(CR)
+BCA AI&DS,III,B2,TBD 302,Friday,04:55 PM,05:50 PM,007(CR)
+BCA AI&DS,III,B2,TBD 302,Saturday,12:00 PM,12:55 PM,307(CR)
+BCA AI&DS,III,B2,TBD 313,Saturday,12:55 PM,01:50 PM,307(CR)
+BCA AI&DS,III,B2,PBD 302,Saturday,02:10 PM,04:00 PM,LAB 8
+BCA AI&DS,III,C1,TBD 302,Wednesday,02:10 PM,03:05 PM,323(CR)
+BCA AI&DS,III,C1,TBD 313,Wednesday,03:05 PM,04:00 PM,323(CR)
+BCA AI&DS,III,C1,XBD 301,Thursday,04:00 PM,05:50 PM,323(CR)
+BCA AI&DS,III,C2,Project Based Learning,Thursday,03:05 PM,04:00 PM,307(CR)
+BCA AI&DS,III,C2,TBD 313,Thursday,04:00 PM,05:50 PM,007(CR)
+B.Sc. IT,III,,Database Management Systems Laboratory,Thursday,02:10 PM,04:00 PM,LAB 7
+BCA CS,III,,Career Skills – 1,Tuesday,03:05 PM,04:00 PM,323(CR)
+BCA CS,III,,Cryptography,Tuesday,04:00 PM,04:55 PM,323(CR)
+BCA,V,C1+D1,Introduction to Machine Learning,Tuesday,12:55 PM,01:50 PM,423(LT)
+BCA,V,C1+D1,Introduction to Data Mining,Tuesday,02:10 PM,03:05 PM,423(LT)
+BCA,V,C1+D1,Career Skills – 3,Tuesday,03:05 PM,04:00 PM,423(LT)
+BCA,V,C1+D1,Introduction to Machine Learning,Wednesday,12:00 PM,12:55 PM,423(LT)
+BCA,V,C1+D1,Introduction to Data Mining,Thursday,02:10 PM,03:05 PM,405(LT)
+BCA,V,C1+D1,Career Skills – 3,Thursday,04:00 PM,04:55 PM,405(LT)
+BCA,V,C1+D1,Introduction to Data Mining,Friday,12:55 PM,01:50 PM,405(LT)
+BCA,V,C2+D2,Introduction to Machine Learning,Wednesday,10:10 AM,11:05 AM,306(LT)
+BCA,V,C2+D2,Career Skills – 3,Wednesday,12:00 PM,12:55 PM,306(LT)
+BCA,V,C2+D2,Project Based Learning,Saturday,12:00 PM,12:55 PM,306(LT)
+B.Sc. IT,V,,Project Based Learning,Friday,12:00 PM,12:55 PM,301(CR)
